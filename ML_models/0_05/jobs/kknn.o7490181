@@ -1,0 +1,43 @@
+[1] "This is using kknn and the tunelength"
+[1] "2020-10-19 08:23:57 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-19 08:24:23 BST"
+[1] "just about to train"
+[1] "2020-10-19 08:24:23 BST"
++ Fold1: kmax= 5, distance=2, kernel=optimal 
+- Fold1: kmax= 5, distance=2, kernel=optimal 
++ Fold1: kmax= 7, distance=2, kernel=optimal 
+- Fold1: kmax= 7, distance=2, kernel=optimal 
++ Fold1: kmax= 9, distance=2, kernel=optimal 
+- Fold1: kmax= 9, distance=2, kernel=optimal 
++ Fold1: kmax=11, distance=2, kernel=optimal 
+- Fold1: kmax=11, distance=2, kernel=optimal 
++ Fold1: kmax=13, distance=2, kernel=optimal 
+- Fold1: kmax=13, distance=2, kernel=optimal 
++ Fold2: kmax= 5, distance=2, kernel=optimal 
+- Fold2: kmax= 5, distance=2, kernel=optimal 
++ Fold2: kmax= 7, distance=2, kernel=optimal 
+- Fold2: kmax= 7, distance=2, kernel=optimal 
++ Fold2: kmax= 9, distance=2, kernel=optimal 
+- Fold2: kmax= 9, distance=2, kernel=optimal 
++ Fold2: kmax=11, distance=2, kernel=optimal 
+- Fold2: kmax=11, distance=2, kernel=optimal 
++ Fold2: kmax=13, distance=2, kernel=optimal 
+- Fold2: kmax=13, distance=2, kernel=optimal 
++ Fold3: kmax= 5, distance=2, kernel=optimal 
+- Fold3: kmax= 5, distance=2, kernel=optimal 
++ Fold3: kmax= 7, distance=2, kernel=optimal 
+- Fold3: kmax= 7, distance=2, kernel=optimal 
++ Fold3: kmax= 9, distance=2, kernel=optimal 
+- Fold3: kmax= 9, distance=2, kernel=optimal 
++ Fold3: kmax=11, distance=2, kernel=optimal 
+- Fold3: kmax=11, distance=2, kernel=optimal 
++ Fold3: kmax=13, distance=2, kernel=optimal 
+- Fold3: kmax=13, distance=2, kernel=optimal 
+Aggregating results
+Selecting tuning parameters
+Fitting kmax = 13, distance = 2, kernel = optimal on full training set
+[1] "just about to save"
+[1] "2020-10-20 21:51:27 BST"

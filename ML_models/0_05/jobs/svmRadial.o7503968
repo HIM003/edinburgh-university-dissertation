@@ -1,0 +1,48 @@
+[1] "This is using svmRadial and tunelength"
+[1] "2020-10-23 10:30:57 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-23 10:31:11 BST"
+[1] "just about to train"
+[1] "2020-10-23 10:31:11 BST"
++ Fold1: sigma=0.0004456, C=0.25 
+- Fold1: sigma=0.0004456, C=0.25 
++ Fold1: sigma=0.0004456, C=0.50 
+- Fold1: sigma=0.0004456, C=0.50 
++ Fold1: sigma=0.0004456, C=1.00 
+- Fold1: sigma=0.0004456, C=1.00 
++ Fold1: sigma=0.0004456, C=2.00 
+- Fold1: sigma=0.0004456, C=2.00 
++ Fold1: sigma=0.0004456, C=4.00 
+- Fold1: sigma=0.0004456, C=4.00 
++ Fold2: sigma=0.0004456, C=0.25 
+- Fold2: sigma=0.0004456, C=0.25 
++ Fold2: sigma=0.0004456, C=0.50 
+- Fold2: sigma=0.0004456, C=0.50 
++ Fold2: sigma=0.0004456, C=1.00 
+- Fold2: sigma=0.0004456, C=1.00 
++ Fold2: sigma=0.0004456, C=2.00 
+- Fold2: sigma=0.0004456, C=2.00 
++ Fold2: sigma=0.0004456, C=4.00 
+- Fold2: sigma=0.0004456, C=4.00 
++ Fold3: sigma=0.0004456, C=0.25 
+- Fold3: sigma=0.0004456, C=0.25 
++ Fold3: sigma=0.0004456, C=0.50 
+- Fold3: sigma=0.0004456, C=0.50 
++ Fold3: sigma=0.0004456, C=1.00 
+- Fold3: sigma=0.0004456, C=1.00 
++ Fold3: sigma=0.0004456, C=2.00 
+- Fold3: sigma=0.0004456, C=2.00 
++ Fold3: sigma=0.0004456, C=4.00 
+- Fold3: sigma=0.0004456, C=4.00 
+Aggregating results
+Something is wrong; all the ROC metric values are missing:
+      ROC           Sens             Spec       
+ Min.   : NA   Min.   :0.7032   Min.   :0.7657  
+ 1st Qu.: NA   1st Qu.:0.7165   1st Qu.:0.7752  
+ Median : NA   Median :0.7284   Median :0.7820  
+ Mean   :NaN   Mean   :0.7261   Mean   :0.7800  
+ 3rd Qu.: NA   3rd Qu.:0.7376   3rd Qu.:0.7863  
+ Max.   : NA   Max.   :0.7447   Max.   :0.7908  
+ NA's   :5                                      

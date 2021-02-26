@@ -1,0 +1,19 @@
+[1] "This is using LogitBoost and tunelength"
+[1] "2020-11-05 00:21:32 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+3.59 GB
+[1] "2020-11-05 00:21:55 GMT"
+[1] "just about to train"
+[1] "2020-11-05 00:21:55 GMT"
++ Fold1: nIter=51 
+- Fold1: nIter=51 
++ Fold2: nIter=51 
+- Fold2: nIter=51 
++ Fold3: nIter=51 
+- Fold3: nIter=51 
+Aggregating results
+Selecting tuning parameters
+Fitting nIter = 21 on full training set
+[1] "just about to save"
+[1] "2020-11-05 00:42:35 GMT"

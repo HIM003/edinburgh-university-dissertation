@@ -1,0 +1,37 @@
+[1] "This is using RRF and tunelength"
+[1] "2020-10-23 06:30:32 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-23 06:30:46 BST"
+[1] "just about to train"
+[1] "2020-10-23 06:30:46 BST"
++ Fold1: mtry=   2, coefReg=0.0100, coefImp=0.00 
+- Fold1: mtry=   2, coefReg=0.0100, coefImp=0.00 
++ Fold1: mtry=  10, coefReg=0.0100, coefImp=0.00 
+- Fold1: mtry=  10, coefReg=0.0100, coefImp=0.00 
++ Fold1: mtry=  55, coefReg=0.0100, coefImp=0.00 
+- Fold1: mtry=  55, coefReg=0.0100, coefImp=0.00 
++ Fold1: mtry= 292, coefReg=0.0100, coefImp=0.00 
+- Fold1: mtry= 292, coefReg=0.0100, coefImp=0.00 
++ Fold1: mtry=1541, coefReg=0.0100, coefImp=0.00 
+- Fold1: mtry=1541, coefReg=0.0100, coefImp=0.00 
++ Fold1: mtry=   2, coefReg=0.2575, coefImp=0.00 
+- Fold1: mtry=   2, coefReg=0.2575, coefImp=0.00 
++ Fold1: mtry=  10, coefReg=0.2575, coefImp=0.00 
+- Fold1: mtry=  10, coefReg=0.2575, coefImp=0.00 
++ Fold1: mtry=  55, coefReg=0.2575, coefImp=0.00 
+- Fold1: mtry=  55, coefReg=0.2575, coefImp=0.00 
++ Fold1: mtry= 292, coefReg=0.2575, coefImp=0.00 
+- Fold1: mtry= 292, coefReg=0.2575, coefImp=0.00 
++ Fold1: mtry=1541, coefReg=0.2575, coefImp=0.00 
+- Fold1: mtry=1541, coefReg=0.2575, coefImp=0.00 
++ Fold1: mtry=   2, coefReg=0.5050, coefImp=0.00 
+- Fold1: mtry=   2, coefReg=0.5050, coefImp=0.00 
++ Fold1: mtry=  10, coefReg=0.5050, coefImp=0.00 
+- Fold1: mtry=  10, coefReg=0.5050, coefImp=0.00 
++ Fold1: mtry=  55, coefReg=0.5050, coefImp=0.00 
+- Fold1: mtry=  55, coefReg=0.5050, coefImp=0.00 
++ Fold1: mtry= 292, coefReg=0.5050, coefImp=0.00 
+- Fold1: mtry= 292, coefReg=0.5050, coefImp=0.00 
++ Fold1: mtry=1541, coefReg=0.5050, coefImp=0.00 

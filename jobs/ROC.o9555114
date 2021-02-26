@@ -1,0 +1,74 @@
+
+Negative Positive 
+   88406      262 
+   Negative   Positive      obs     pred
+1 0.3800706 0.61992945 Negative Positive
+2 0.9811077 0.01889230 Negative Negative
+3 0.9890223 0.01097769 Negative Negative
+4 0.9701020 0.02989801 Negative Negative
+5 0.9730946 0.02690542 Negative Negative
+6 0.9895985 0.01040147 Negative Negative
+[1] "Negative" "Positive"
+
+Negative Positive 
+   88406      262 
+    Negative  Positive      obs     pred
+1 0.17118274 0.8288173 Negative Positive
+2 0.27959017 0.7204098 Negative Positive
+3 0.08807767 0.9119223 Negative Positive
+4 0.03163950 0.9683605 Negative Positive
+5 0.10828927 0.8917107 Negative Positive
+6 0.32168689 0.6783131 Negative Positive
+[1] "Negative" "Positive"
+
+Negative Positive 
+   88406      262 
+   Negative   Positive      obs     pred
+1 0.9874034 0.01259659 Negative Negative
+2 0.7915214 0.20847861 Negative Negative
+3 0.3323180 0.66768196 Negative Positive
+4 0.2020555 0.79794455 Negative Positive
+5 0.1747686 0.82523138 Negative Positive
+6 0.5992561 0.40074389 Negative Negative
+[1] "Negative" "Positive"
+
+Negative Positive 
+   88406      262 
+   Negative    Positive      obs     pred
+1 0.1142164 0.885783574 Negative Positive
+2 0.9671707 0.032829319 Negative Negative
+3 0.9841140 0.015885996 Negative Negative
+4 0.2850548 0.714945225 Negative Positive
+5 0.9674767 0.032523271 Negative Negative
+6 0.9948709 0.005129109 Negative Negative
+[1] "Negative" "Positive"
+
+Negative Positive 
+   88406      262 
+    Negative  Positive      obs     pred
+1 0.15026387 0.8497361 Negative Positive
+2 0.42194088 0.5780591 Negative Positive
+3 0.12694498 0.8730550 Negative Positive
+4 0.08128134 0.9187187 Negative Positive
+5 0.08647862 0.9135214 Negative Positive
+6 0.32155852 0.6784415 Negative Positive
+[1] "Negative" "Positive"
+[1] NA NA NA NA NA
+[1] 0.8436155 0.8603841 0.8568023 0.8417743 0.8719613
+[1] 0.9999887 0.7921408 0.8992715 0.9826143 0.8471823
+[1] 0.0000000 0.7404580 0.5763359 0.2213740 0.7137405
+[1] 0.9970451 0.9990299 0.9986057 0.9976571 0.9989996
+[1] 0.9999887 0.7921408 0.8992715 0.9826143 0.8471823
+[1] 0.9985147 0.8836370 0.9463391 0.9900786 0.9168488
+      AUC_PR_Eval AUC_ROC_Eval AUC_PR   AUC_ROC      SENS      SPEC      PREC
+none         0.03         0.84     NA 0.8436155 0.9999887 0.0000000 0.9970451
+down         0.03         0.86     NA 0.8603841 0.7921408 0.7404580 0.9990299
+smote        0.03         0.86     NA 0.8568023 0.8992715 0.5763359 0.9986057
+rose         0.03         0.84     NA 0.8417743 0.9826143 0.2213740 0.9976571
+up           0.03         0.87     NA 0.8719613 0.8471823 0.7137405 0.9989996
+         RECALL        F1
+none  0.9999887 0.9985147
+down  0.7921408 0.8836370
+smote 0.8992715 0.9463391
+rose  0.9826143 0.9900786
+up    0.8471823 0.9168488

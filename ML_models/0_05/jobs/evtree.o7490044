@@ -1,0 +1,43 @@
+[1] "This is using evtree and tunelength"
+[1] "2020-10-19 07:44:20 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-19 07:45:07 BST"
+[1] "just about to train"
+[1] "2020-10-19 07:45:07 BST"
++ Fold1: alpha=1.0 
+- Fold1: alpha=1.0 
++ Fold1: alpha=1.5 
+- Fold1: alpha=1.5 
++ Fold1: alpha=2.0 
+- Fold1: alpha=2.0 
++ Fold1: alpha=2.5 
+- Fold1: alpha=2.5 
++ Fold1: alpha=3.0 
+- Fold1: alpha=3.0 
++ Fold2: alpha=1.0 
+- Fold2: alpha=1.0 
++ Fold2: alpha=1.5 
+- Fold2: alpha=1.5 
++ Fold2: alpha=2.0 
+- Fold2: alpha=2.0 
++ Fold2: alpha=2.5 
+- Fold2: alpha=2.5 
++ Fold2: alpha=3.0 
+- Fold2: alpha=3.0 
++ Fold3: alpha=1.0 
+- Fold3: alpha=1.0 
++ Fold3: alpha=1.5 
+- Fold3: alpha=1.5 
++ Fold3: alpha=2.0 
+- Fold3: alpha=2.0 
++ Fold3: alpha=2.5 
+- Fold3: alpha=2.5 
++ Fold3: alpha=3.0 
+- Fold3: alpha=3.0 
+Aggregating results
+Selecting tuning parameters
+Fitting alpha = 1.5 on full training set
+[1] "just about to save"
+[1] "2020-10-20 14:28:52 BST"

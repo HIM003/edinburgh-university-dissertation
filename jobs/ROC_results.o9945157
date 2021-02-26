@@ -1,0 +1,68 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_05.csv.gz"
+k-Nearest Neighbors 
+
+50783 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 33855, 33856, 33855 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  k   ROC        Sens       Spec     
+   5  0.7919576  0.6942566  0.7682125
+   7  0.7992021  0.6927870  0.7765163
+   9  0.8033400  0.6928256  0.7796855
+  11  0.8054045  0.6910078  0.7796855
+  13  0.8066083  0.6919360  0.7800867
+
+ROC was used to select the optimal model using the largest value.
+The final value used for the model was k = 13.
+[1] 0.09
+[1] 0.8066701
+[1] 0.8057143
+[1] 0.7078756
+[1] 0.06949236
+[1] 0.8057143
+[1] 0.1279492
+         AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+0.05_knn   0.09 0.8066701 0.8057143 0.7078756 0.06949236 0.8057143 0.1279492
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_05.csv.gz"
+k-Nearest Neighbors 
+
+50783 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 33855, 33856, 33855 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  kmax  ROC        Sens       Spec     
+   5    0.7045085  0.6915105  0.7175064
+   7    0.7968065  0.7018374  0.7563382
+   9    0.8025849  0.7038486  0.7652840
+  11    0.8065179  0.7040035  0.7714217
+  13    0.8095735  0.7040807  0.7746710
+
+Tuning parameter 'distance' was held constant at a value of 2
+Tuning
+ parameter 'kernel' was held constant at a value of optimal
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were kmax = 13, distance = 2 and kernel
+ = optimal.
+[1] 0.1
+[1] 0.8125736
+[1] 0.8057143
+[1] 0.7148383
+[1] 0.07106855
+[1] 0.8057143
+[1] 0.130616
+          AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL       F1
+0.05_kknn    0.1 0.8125736 0.8057143 0.7148383 0.07106855 0.8057143 0.130616

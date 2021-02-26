@@ -1,0 +1,50 @@
+289 MB
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+9.89 GB
+9.89 GB
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold3.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold3.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold3.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold3.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold4.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold4.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold4.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold4.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold5.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold5.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold5.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold5.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold1.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold1.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold1.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold1.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold2.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold2.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold2.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold2.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold3.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold3.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold3.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold3.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold4.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold4.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold4.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold4.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
++ Fold5.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
+- Fold5.Rep2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=100 
++ Fold5.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+- Fold5.Rep2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=100 
+Aggregating results
+Selecting tuning parameters
+Fitting n.trees = 100, interaction.depth = 2, shrinkage = 0.1, n.minobsinnode = 10 on full training set
+27.8 GB
++ Fold1.Rep1: sigma=0.0004459, C= 0.25 

@@ -1,0 +1,18 @@
+[1] "This is using glm and tunelength"
+[1] "2020-11-06 15:25:20 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+8.12 GB
+[1] "2020-11-06 15:26:21 GMT"
+[1] "just about to train"
+[1] "2020-11-06 15:26:21 GMT"
++ Fold1: parameter=none 
+- Fold1: parameter=none 
++ Fold2: parameter=none 
+- Fold2: parameter=none 
++ Fold3: parameter=none 
+- Fold3: parameter=none 
+Aggregating results
+Fitting final model on full training set
+[1] "just about to save"
+[1] "2020-11-06 18:26:44 GMT"

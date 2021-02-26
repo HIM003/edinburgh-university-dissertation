@@ -1,0 +1,70 @@
+[1] "This is using the tunelength"
+[1] "2020-12-15 11:53:12 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+11.9 GB
+[1] "2020-12-15 11:54:54 GMT"
+[1] "just about to train"
+[1] "2020-12-15 11:54:54 GMT"
++ Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+Aggregating results
+Selecting tuning parameters
+Fitting n.trees = 200, interaction.depth = 4, shrinkage = 0.1, n.minobsinnode = 10 on full training set
+[1] "just about to save"
+[1] "2020-12-15 14:36:02 GMT"
+[1] "This is using the tunelength"
+[1] "2020-12-15 14:40:55 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+11.9 GB
+[1] "2020-12-15 14:42:19 GMT"
+[1] "just about to train"
+[1] "2020-12-15 14:42:19 GMT"
+1 package is needed for this model and is not installed. (ROSE). Would you like to try to install it now?[1] "This is using the tunelength"
+[1] "2020-12-15 14:42:47 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+11.9 GB
+[1] "2020-12-15 14:44:09 GMT"
+[1] "just about to train"
+[1] "2020-12-15 14:44:09 GMT"
+1 package is needed for this model and is not installed. (DMwR). Would you like to try to install it now?[1] "This is using the tunelength"
+[1] "2020-12-15 14:44:36 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+11.9 GB
+[1] "2020-12-15 14:46:01 GMT"
+[1] "just about to train"
+[1] "2020-12-15 14:46:01 GMT"
++ Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 

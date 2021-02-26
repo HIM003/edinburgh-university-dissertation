@@ -1,0 +1,61 @@
+[1] "This is using the tunelength"
+[1] "2020-11-13 22:24:08 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-11-13 22:24:24 GMT"
+[1] "just about to train"
+[1] "2020-11-13 22:24:24 GMT"
++ Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
+- Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
++ Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
+- Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
++ Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
+- Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
++ Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
+- Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
++ Fold1: shrinkage=0.1, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
+- Fold1: shrinkage=0.1, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
++ Fold1: shrinkage=0.1, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
+- Fold1: shrinkage=0.1, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
++ Fold1: shrinkage=0.2, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
+- Fold1: shrinkage=0.2, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
++ Fold1: shrinkage=0.2, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
+- Fold1: shrinkage=0.2, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
++ Fold1: shrinkage=0.2, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
+- Fold1: shrinkage=0.2, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
++ Fold1: shrinkage=0.2, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
+- Fold1: shrinkage=0.2, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
++ Fold1: shrinkage=0.2, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
+- Fold1: shrinkage=0.2, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
++ Fold1: shrinkage=0.2, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
+- Fold1: shrinkage=0.2, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
++ Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
+- Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
++ Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
+- Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
++ Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
+- Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
++ Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
+- Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
++ Fold2: shrinkage=0.1, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
+- Fold2: shrinkage=0.1, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
++ Fold2: shrinkage=0.1, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
+- Fold2: shrinkage=0.1, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
++ Fold2: shrinkage=0.2, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
+- Fold2: shrinkage=0.2, interaction.depth=1, n.minobsinnode=10, n.trees=1000 
++ Fold2: shrinkage=0.2, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
+- Fold2: shrinkage=0.2, interaction.depth=1, n.minobsinnode=30, n.trees=1000 
++ Fold2: shrinkage=0.2, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
+- Fold2: shrinkage=0.2, interaction.depth=5, n.minobsinnode=10, n.trees=1000 
++ Fold2: shrinkage=0.2, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
+- Fold2: shrinkage=0.2, interaction.depth=5, n.minobsinnode=30, n.trees=1000 
++ Fold2: shrinkage=0.2, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
+- Fold2: shrinkage=0.2, interaction.depth=9, n.minobsinnode=10, n.trees=1000 
++ Fold2: shrinkage=0.2, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
+- Fold2: shrinkage=0.2, interaction.depth=9, n.minobsinnode=30, n.trees=1000 
+Aggregating results
+Selecting tuning parameters
+Fitting n.trees = 500, interaction.depth = 5, shrinkage = 0.1, n.minobsinnode = 30 on full training set
+[1] "just about to save"
+[1] "2020-11-14 23:01:36 GMT"

@@ -1,0 +1,101 @@
+[[1]]
+[1] "."                             "SK_N_SH_RA_Rad21_dist.csv.zip"
+
+[1] "./SK_N_SH_RA_Rad21_dist.csv.zip"
+[1] 141
+[1] "./SK_N_SH_RA_Rad21_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801495  149.7  110527895 5902.9  49386831 2637.6
+Vcells 162028084 1236.2  446471666 3406.4 465007985 3547.8
+[[1]]
+[1] "."                                     
+[2] "small_intestine_1_H3K27ac_dist.csv.zip"
+
+[1] "./small_intestine_1_H3K27ac_dist.csv.zip"
+[1] 142
+[1] "./small_intestine_1_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801521  149.7   88422316 4722.3  49386831 2637.6
+Vcells 275145678 2099.2  653561511 4986.3 544567926 4154.8
+[[1]]
+[1] "."                              "stomach_2_H3K27ac_dist.csv.zip"
+
+[1] "./stomach_2_H3K27ac_dist.csv.zip"
+[1] 143
+[1] "./stomach_2_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801521  149.7   70737853 3777.9  49386831 2637.6
+Vcells 393874701 3005.1  796035173 6073.3 663295978 5060.6
+[[1]]
+[1] "."                     "T_DNase1_dist.csv.zip"
+
+[1] "./T_DNase1_dist.csv.zip"
+[1] 144
+[1] "./T_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801521  149.7   56590283 3022.3  49386831 2637.6
+Vcells 521860737 3981.5  796035173 6073.3 791282184 6037.1
+[[1]]
+[1] "."                         "Th17_H3K27ac_dist.csv.zip"
+
+[1] "./Th17_H3K27ac_dist.csv.zip"
+[1] 145
+[1] "./Th17_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801521  149.7   56423833 3013.4  49386831 2637.6
+Vcells 622157382 4746.7 1069975581 8163.3 891579651 6802.3
+[[1]]
+[1] "."                                "trophoblast_H3K4me2_dist.csv.zip"
+
+[1] "./trophoblast_H3K4me2_dist.csv.zip"
+[1] 146
+[1] "./trophoblast_H3K4me2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801497  149.7   56423799  3013.4   54064386 2887.4
+Vcells 738494265 5634.3 1392050550 10620.6 1159975459 8850.0
+[[1]]
+[1] "."                               "trophoblast_H3K9ac_dist.csv.zip"
+
+[1] "./trophoblast_H3K9ac_dist.csv.zip"
+[1] 147
+[1] "./trophoblast_H3K9ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801521  149.7   45139040  2410.7   54064386 2887.4
+Vcells 857552322 6542.7 1392050550 10620.6 1278694120 9755.7
+[[1]]
+[1] "."                               "trophoblast_H4K8ac_dist.csv.zip"
+
+[1] "./trophoblast_H4K8ac_dist.csv.zip"
+[1] 148
+[1] "./trophoblast_H4K8ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+            used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells   2801521  149.7   56423799  3013.4   54064386  2887.4
+Vcells 981172061 7485.8 1673777874 12770.0 1394748229 10641.1
+[[1]]
+[1] "."                                "trophoblast_H4K91ac_dist.csv.zip"
+
+[1] "./trophoblast_H4K91ac_dist.csv.zip"
+[1] 149
+[1] "./trophoblast_H4K91ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521  149.7   45139040  2410.7   54064386  2887.4
+Vcells 1092927518 8338.4 1673777874 12770.0 1511266260 11530.1
+[[1]]
+[1] "."                                  "trunk_muscle_H3K27me3_dist.csv.zip"
+
+[1] "./trunk_muscle_H3K27me3_dist.csv.zip"
+[1] 150
+[1] "./trunk_muscle_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_8"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521  149.7   56423799  3013.4   54064386  2887.4
+Vcells 1222484552 9326.9 2008613448 15324.6 1639618681 12509.3

@@ -1,0 +1,13 @@
+[1] "This is using lssvmLinear and tunelength"
+[1] "2020-10-16 11:37:30 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-16 11:39:31 BST"
+[1] "just about to train"
+[1] "2020-10-16 11:39:31 BST"
++ Fold1: tau=0.0625 
+model fit failed for Fold1: tau=0.0625 Error : cannot allocate vector of size 814.6 Gb
+ 
+- Fold1: tau=0.0625 
++ Fold1: tau=0.1250 

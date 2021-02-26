@@ -1,0 +1,63 @@
+[1] "This is using the tunelength"
+[1] "2020-09-28 14:46:37 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+18.6 GB
+[1] "2020-09-28 14:48:45 BST"
+[1] "just about to train"
+[1] "2020-09-28 14:48:45 BST"
++ Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=400 
++ Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=400 
++ Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=400 
++ Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=400 
++ Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=400 
++ Fold1: shrinkage=0.1, interaction.depth=6, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=6, n.minobsinnode=10, n.trees=400 
++ Fold1: shrinkage=0.1, interaction.depth=7, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=7, n.minobsinnode=10, n.trees=400 
++ Fold1: shrinkage=0.1, interaction.depth=8, n.minobsinnode=10, n.trees=400 
+- Fold1: shrinkage=0.1, interaction.depth=8, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=6, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=6, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=7, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=7, n.minobsinnode=10, n.trees=400 
++ Fold2: shrinkage=0.1, interaction.depth=8, n.minobsinnode=10, n.trees=400 
+- Fold2: shrinkage=0.1, interaction.depth=8, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=6, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=6, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=7, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=7, n.minobsinnode=10, n.trees=400 
++ Fold3: shrinkage=0.1, interaction.depth=8, n.minobsinnode=10, n.trees=400 
+- Fold3: shrinkage=0.1, interaction.depth=8, n.minobsinnode=10, n.trees=400 
+Aggregating results
+Selecting tuning parameters
+Fitting n.trees = 400, interaction.depth = 8, shrinkage = 0.1, n.minobsinnode = 10 on full training set
+[1] "just about to save"
+[1] "2020-09-29 18:14:19 BST"
+[1] Positive Positive Positive Positive Positive Positive
+Levels: Negative Positive

@@ -1,0 +1,33 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_CaVEMaN_0.1_outfile.csv.gz"
+[1] "class imbalance"
+[1] 0.02680366
+Stochastic Gradient Boosting 
+
+1183979 samples
+   1541 predictor
+      2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (2 fold) 
+Summary of sample sizes: 591989, 591990 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  interaction.depth  n.trees  ROC        Sens       Spec     
+  1                   50      0.7838134  0.6529722  0.7796294
+  1                  100      0.7895870  0.6596074  0.7786006
+  1                  150      0.7933077  0.6632612  0.7786952
+  2                   50      0.7886360  0.6614521  0.7764519
+  2                  100      0.7966895  0.6689437  0.7764857
+  2                  150      0.8010441  0.6735705  0.7776513
+  3                   50      0.7928146  0.6658626  0.7760516
+  3                  100      0.8012782  0.6756955  0.7763506
+  3                  150      0.8061634  0.6825943  0.7768168
+
+Tuning parameter 'shrinkage' was held constant at a value of 0.1
+
+Tuning parameter 'n.minobsinnode' was held constant at a value of 10
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were n.trees = 150, interaction.depth =
+ 3, shrinkage = 0.1 and n.minobsinnode = 10.

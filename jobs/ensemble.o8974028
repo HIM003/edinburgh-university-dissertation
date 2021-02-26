@@ -1,0 +1,50 @@
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+30.6 GB
+             Var1   Freq
+1   chr1_Negative 172183
+2   chr1_Positive    117
+3  chr10_Negative 110735
+4  chr10_Positive     51
+5  chr11_Negative 109996
+6  chr11_Positive     66
+7  chr12_Negative 105768
+8  chr12_Positive     62
+9  chr13_Negative  78835
+10 chr13_Positive     17
+11 chr14_Negative  73700
+12 chr14_Positive     35
+13 chr15_Negative  65158
+14 chr15_Positive     50
+15 chr16_Negative  72477
+16 chr16_Positive    110
+17 chr17_Negative  62593
+18 chr17_Positive     92
+19 chr18_Negative  63722
+20 chr18_Positive     20
+21 chr19_Negative  49700
+22 chr19_Positive    120
+23  chr2_Negative 191264
+24  chr2_Positive     84
+25 chr20_Negative  52857
+26 chr20_Positive     33
+27 chr21_Negative  29792
+28 chr21_Positive     42
+29 chr22_Negative  30133
+30 chr22_Positive     52
+31  chr3_Negative 160991
+32  chr3_Positive     48
+33  chr4_Negative 160315
+34  chr4_Positive     37
+35  chr5_Negative 140740
+36  chr5_Positive     52
+37  chr6_Negative 141229
+38  chr6_Positive     53
+39  chr7_Negative 130775
+40  chr7_Positive     70
+41  chr8_Negative 125298
+42  chr8_Positive     42
+43  chr9_Negative  97372
+44  chr9_Positive     77
+5.79 GB
+[1] 222716

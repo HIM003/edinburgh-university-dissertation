@@ -1,0 +1,25 @@
+[1] "This is using naivebayes and tunelength"
+[1] "2020-10-12 07:05:55 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-12 07:08:35 BST"
+[1] "just about to train"
+[1] "2020-10-12 07:08:35 BST"
++ Fold1: usekernel= TRUE, laplace=0, adjust=1 
+- Fold1: usekernel= TRUE, laplace=0, adjust=1 
++ Fold1: usekernel=FALSE, laplace=0, adjust=1 
+- Fold1: usekernel=FALSE, laplace=0, adjust=1 
++ Fold2: usekernel= TRUE, laplace=0, adjust=1 
+- Fold2: usekernel= TRUE, laplace=0, adjust=1 
++ Fold2: usekernel=FALSE, laplace=0, adjust=1 
+- Fold2: usekernel=FALSE, laplace=0, adjust=1 
++ Fold3: usekernel= TRUE, laplace=0, adjust=1 
+- Fold3: usekernel= TRUE, laplace=0, adjust=1 
++ Fold3: usekernel=FALSE, laplace=0, adjust=1 
+- Fold3: usekernel=FALSE, laplace=0, adjust=1 
+Aggregating results
+Selecting tuning parameters
+Fitting laplace = 0, usekernel = TRUE, adjust = 1 on full training set
+[1] "just about to save"
+[1] "2020-10-12 10:53:03 BST"

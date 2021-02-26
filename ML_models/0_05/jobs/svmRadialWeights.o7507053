@@ -1,0 +1,35 @@
+[1] "This is using svmRadialWeights and tunelength"
+[1] "2020-10-21 17:35:02 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+[1] "Negative" "Positive"
+1.95 GB
+[1] "2020-10-21 17:35:11 BST"
+[1] "just about to train"
+[1] "2020-10-21 17:35:11 BST"
++ Fold1: sigma=0.0004442, C=0.25, Weight=1 
+- Fold1: sigma=0.0004442, C=0.25, Weight=1 
++ Fold1: sigma=0.0004442, C=0.50, Weight=1 
+- Fold1: sigma=0.0004442, C=0.50, Weight=1 
++ Fold1: sigma=0.0004442, C=0.25, Weight=2 
+- Fold1: sigma=0.0004442, C=0.25, Weight=2 
++ Fold1: sigma=0.0004442, C=0.50, Weight=2 
+- Fold1: sigma=0.0004442, C=0.50, Weight=2 
++ Fold2: sigma=0.0004442, C=0.25, Weight=1 
+- Fold2: sigma=0.0004442, C=0.25, Weight=1 
++ Fold2: sigma=0.0004442, C=0.50, Weight=1 
+- Fold2: sigma=0.0004442, C=0.50, Weight=1 
++ Fold2: sigma=0.0004442, C=0.25, Weight=2 
+- Fold2: sigma=0.0004442, C=0.25, Weight=2 
++ Fold2: sigma=0.0004442, C=0.50, Weight=2 
+- Fold2: sigma=0.0004442, C=0.50, Weight=2 
+Aggregating results
+Something is wrong; all the ROC metric values are missing:
+      ROC           Sens             Spec       
+ Min.   : NA   Min.   :0.6566   Min.   :0.4859  
+ 1st Qu.: NA   1st Qu.:0.6709   1st Qu.:0.5080  
+ Median : NA   Median :0.7649   Median :0.6566  
+ Mean   :NaN   Mean   :0.7621   Mean   :0.6512  
+ 3rd Qu.: NA   3rd Qu.:0.8560   3rd Qu.:0.7997  
+ Max.   : NA   Max.   :0.8620   Max.   :0.8055  
+ NA's   :4                                      

@@ -1,0 +1,27 @@
+[1] "This is using ranger and tunelength"
+[1] "2020-10-15 18:57:42 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-15 19:08:47 BST"
+[1] "just about to train"
+[1] "2020-10-15 19:08:47 BST"
++ Fold1: mtry=   2, min.node.size=1, splitrule=gini 
+Predicting.. Progress: 46%. Estimated remaining time: 36 seconds.
+Predicting.. Progress: 99%. Estimated remaining time: 0 seconds.
+Predicting.. Progress: 47%. Estimated remaining time: 35 seconds.
+Predicting.. Progress: 99%. Estimated remaining time: 0 seconds.
+- Fold1: mtry=   2, min.node.size=1, splitrule=gini 
++ Fold1: mtry=  10, min.node.size=1, splitrule=gini 
+Predicting.. Progress: 44%. Estimated remaining time: 38 seconds.
+Predicting.. Progress: 95%. Estimated remaining time: 3 seconds.
+Predicting.. Progress: 46%. Estimated remaining time: 36 seconds.
+Predicting.. Progress: 96%. Estimated remaining time: 2 seconds.
+- Fold1: mtry=  10, min.node.size=1, splitrule=gini 
++ Fold1: mtry=  55, min.node.size=1, splitrule=gini 
+Predicting.. Progress: 37%. Estimated remaining time: 53 seconds.
+Predicting.. Progress: 80%. Estimated remaining time: 15 seconds.
+Predicting.. Progress: 37%. Estimated remaining time: 52 seconds.
+Predicting.. Progress: 78%. Estimated remaining time: 17 seconds.
+- Fold1: mtry=  55, min.node.size=1, splitrule=gini 
++ Fold1: mtry= 292, min.node.size=1, splitrule=gini 

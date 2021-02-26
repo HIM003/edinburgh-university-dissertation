@@ -1,0 +1,165 @@
+[1] "finished reading full dataset"
+[1] 44799999        3
+[1] 1257157       6
+
+     chr1     chr10     chr11     chr12     chr13     chr14     chr15     chr16 
+0.2784098 0.2717701 0.2838668 0.2781510 0.2730924 0.2679245 0.2692297 0.2735098 
+    chr17     chr18     chr19      chr2     chr20     chr21     chr22      chr3 
+0.2752168 0.2644044 0.2837266 0.2657833 0.2770603 0.2710926 0.2751425 0.2746381 
+     chr4      chr5      chr6      chr7      chr8      chr9 
+0.2693287 0.2711613 0.2748406 0.2840262 0.2668285 0.2710717 
+             Var1   Freq
+1   chr1_Negative 292780
+2   chr1_Positive  10119
+3  chr10_Negative 178224
+4  chr10_Positive   4303
+5  chr11_Negative 182875
+6  chr11_Positive   5550
+7  chr12_Negative 172327
+8  chr12_Positive   4951
+9  chr13_Negative 127792
+10 chr13_Positive   1900
+11 chr14_Negative 114604
+12 chr14_Positive   3010
+13 chr15_Negative 105067
+14 chr15_Positive   3977
+15 chr16_Negative 116995
+16 chr16_Positive   5345
+17 chr17_Negative 103883
+18 chr17_Positive   6714
+19 chr18_Negative  97855
+20 chr18_Positive   1408
+21 chr19_Negative  81823
+22 chr19_Positive   7335
+23  chr2_Negative 300974
+24  chr2_Positive   6414
+25 chr20_Negative  83555
+26 chr20_Positive   2410
+27 chr21_Negative  48357
+28 chr21_Positive   1333
+29 chr22_Negative  50822
+30 chr22_Positive   2924
+31  chr3_Negative 261001
+32  chr3_Positive   5165
+33  chr4_Negative 252576
+34  chr4_Positive   3632
+35  chr5_Negative 232111
+36  chr5_Positive   4521
+37  chr6_Negative 229895
+38  chr6_Positive   6060
+39  chr7_Negative 220979
+40  chr7_Positive   6614
+41  chr8_Negative 196743
+42  chr8_Positive   3544
+43  chr9_Negative 157762
+44  chr9_Positive   4327
+[1] "finished reading full dataset"
+[1] 44799999        3
+[1] 172525      6
+
+     chr1     chr10     chr11     chr12     chr13     chr14     chr15     chr16 
+0.2968824 0.2946557 0.2990330 0.3008336 0.3014789 0.2959171 0.2832968 0.2972755 
+    chr17     chr18     chr19      chr2     chr20     chr21     chr22      chr3 
+0.2887989 0.2938955 0.2972245 0.2879930 0.3033032 0.3063557 0.2941724 0.2920304 
+     chr4      chr5      chr6      chr7      chr8      chr9 
+0.3004683 0.2967687 0.2895915 0.3002815 0.2976975 0.3006894 
+             Var1   Freq
+1   chr1_Negative 321102
+2   chr1_Positive   1477
+3  chr10_Negative 197184
+4  chr10_Positive    635
+5  chr11_Negative 197504
+6  chr11_Positive    815
+7  chr12_Negative 191303
+8  chr12_Positive    702
+9  chr13_Negative 143046
+10 chr13_Positive    251
+11 chr14_Negative 129605
+12 chr14_Positive    433
+13 chr15_Negative 113817
+14 chr15_Positive    623
+15 chr16_Negative 131351
+16 chr16_Positive   1001
+17 chr17_Negative 114213
+18 chr17_Positive   1076
+19 chr18_Negative 110315
+20 chr18_Positive    196
+21 chr19_Negative  91484
+22 chr19_Positive   1169
+23  chr2_Negative 332314
+24  chr2_Positive    966
+25 chr20_Negative  93699
+26 chr20_Positive    349
+27 chr21_Negative  55773
+28 chr21_Positive    279
+29 chr22_Negative  56671
+30 chr22_Positive    551
+31  chr3_Negative 282549
+32  chr3_Positive    683
+33  chr4_Negative 285481
+34  chr4_Positive    516
+35  chr5_Negative 258232
+36  chr5_Positive    706
+37  chr6_Negative 247655
+38  chr6_Positive    810
+39  chr7_Negative 238784
+40  chr7_Positive    926
+41  chr8_Negative 223064
+42  chr8_Positive    507
+43  chr9_Negative 178945
+44  chr9_Positive    742
+[1] "finished reading full dataset"
+[1] 44799999        3
+[1] 66795     6
+
+     chr1     chr10     chr11     chr12     chr13     chr14     chr15     chr16 
+0.3011378 0.3026335 0.2967939 0.3123306 0.3042820 0.3024150 0.2869867 0.3024160 
+    chr17     chr18     chr19      chr2     chr20     chr21     chr22      chr3 
+0.2923555 0.2975486 0.3016518 0.2925135 0.3112722 0.3120800 0.2974875 0.2908131 
+     chr4      chr5      chr6      chr7      chr8      chr9 
+0.3089965 0.3039787 0.2926786 0.2983708 0.3046059 0.3070168 
+             Var1   Freq
+1   chr1_Negative 326793
+2   chr1_Positive    586
+3  chr10_Negative 202999
+4  chr10_Positive    262
+5  chr11_Negative 196604
+6  chr11_Positive    303
+7  chr12_Negative 199169
+8  chr12_Positive    268
+9  chr13_Negative 144601
+10 chr13_Positive     89
+11 chr14_Negative 132838
+12 chr14_Positive    159
+13 chr15_Negative 115710
+14 chr15_Positive    258
+15 chr16_Negative 134256
+16 chr16_Positive    418
+17 chr17_Negative 116326
+18 chr17_Positive    412
+19 chr18_Negative 111866
+20 chr18_Positive     76
+21 chr19_Negative  93667
+22 chr19_Positive    464
+23  chr2_Negative 338197
+24  chr2_Positive    398
+25 chr20_Negative  96464
+26 chr20_Positive    124
+27 chr21_Negative  56975
+28 chr21_Positive    122
+29 chr22_Negative  57625
+30 chr22_Positive    251
+31  chr3_Negative 281891
+32  chr3_Positive    256
+33  chr4_Negative 294009
+34  chr4_Positive    186
+35  chr5_Negative 265023
+36  chr5_Positive    264
+37  chr6_Negative 250891
+38  chr6_Positive    324
+39  chr7_Negative 237891
+40  chr7_Positive    353
+41  chr8_Negative 228643
+42  chr8_Positive    189
+43  chr9_Negative 183224
+44  chr9_Positive    313

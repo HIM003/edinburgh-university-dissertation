@@ -1,0 +1,43 @@
+[1] "This is using ada and tunelength"
+[1] "2020-10-18 15:45:19 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-18 15:45:31 BST"
+[1] "just about to train"
+[1] "2020-10-18 15:45:31 BST"
++ Fold1: nu=0.1, maxdepth=1, iter=250 
+- Fold1: nu=0.1, maxdepth=1, iter=250 
++ Fold1: nu=0.1, maxdepth=2, iter=250 
+- Fold1: nu=0.1, maxdepth=2, iter=250 
++ Fold1: nu=0.1, maxdepth=3, iter=250 
+- Fold1: nu=0.1, maxdepth=3, iter=250 
++ Fold1: nu=0.1, maxdepth=4, iter=250 
+- Fold1: nu=0.1, maxdepth=4, iter=250 
++ Fold1: nu=0.1, maxdepth=5, iter=250 
+- Fold1: nu=0.1, maxdepth=5, iter=250 
++ Fold2: nu=0.1, maxdepth=1, iter=250 
+- Fold2: nu=0.1, maxdepth=1, iter=250 
++ Fold2: nu=0.1, maxdepth=2, iter=250 
+- Fold2: nu=0.1, maxdepth=2, iter=250 
++ Fold2: nu=0.1, maxdepth=3, iter=250 
+- Fold2: nu=0.1, maxdepth=3, iter=250 
++ Fold2: nu=0.1, maxdepth=4, iter=250 
+- Fold2: nu=0.1, maxdepth=4, iter=250 
++ Fold2: nu=0.1, maxdepth=5, iter=250 
+- Fold2: nu=0.1, maxdepth=5, iter=250 
++ Fold3: nu=0.1, maxdepth=1, iter=250 
+- Fold3: nu=0.1, maxdepth=1, iter=250 
++ Fold3: nu=0.1, maxdepth=2, iter=250 
+- Fold3: nu=0.1, maxdepth=2, iter=250 
++ Fold3: nu=0.1, maxdepth=3, iter=250 
+- Fold3: nu=0.1, maxdepth=3, iter=250 
++ Fold3: nu=0.1, maxdepth=4, iter=250 
+- Fold3: nu=0.1, maxdepth=4, iter=250 
++ Fold3: nu=0.1, maxdepth=5, iter=250 
+- Fold3: nu=0.1, maxdepth=5, iter=250 
+Aggregating results
+Selecting tuning parameters
+Fitting iter = 250, maxdepth = 5, nu = 0.1 on full training set
+[1] "just about to save"
+[1] "2020-10-19 02:44:33 BST"

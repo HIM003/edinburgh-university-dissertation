@@ -1,0 +1,16 @@
+[1] "This is using svmRadialCost and tunelength"
+[1] "2020-10-24 11:35:20 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+ Setting default kernel parameters  
+Support Vector Machine object of class "ksvm" 
+
+SV type: C-svc  (classification) 
+ parameter : cost C = 1 
+
+Linear (vanilla) kernel function. 
+
+Number of Support Vectors : 460 
+
+Objective Function Value : -0.7757 
+Training error : 0 

@@ -1,0 +1,54 @@
+[1] "This is using ordinalRF and tunelength"
+[1] "2020-10-16 11:11:21 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-16 11:13:41 BST"
+[1] "just about to train"
+[1] "2020-10-16 11:13:41 BST"
++ Fold1: nsets= 50, ntreeperdiv= 50, ntreefinal= 200 
+model fit failed for Fold1: nsets= 50, ntreeperdiv= 50, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets= 50, ntreeperdiv= 50, ntreefinal= 200 
++ Fold1: nsets=100, ntreeperdiv= 50, ntreefinal= 200 
+model fit failed for Fold1: nsets=100, ntreeperdiv= 50, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets=100, ntreeperdiv= 50, ntreefinal= 200 
++ Fold1: nsets=150, ntreeperdiv= 50, ntreefinal= 200 
+model fit failed for Fold1: nsets=150, ntreeperdiv= 50, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets=150, ntreeperdiv= 50, ntreefinal= 200 
++ Fold1: nsets=200, ntreeperdiv= 50, ntreefinal= 200 
+model fit failed for Fold1: nsets=200, ntreeperdiv= 50, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets=200, ntreeperdiv= 50, ntreefinal= 200 
++ Fold1: nsets=250, ntreeperdiv= 50, ntreefinal= 200 
+model fit failed for Fold1: nsets=250, ntreeperdiv= 50, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets=250, ntreeperdiv= 50, ntreefinal= 200 
++ Fold1: nsets= 50, ntreeperdiv=100, ntreefinal= 200 
+model fit failed for Fold1: nsets= 50, ntreeperdiv=100, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets= 50, ntreeperdiv=100, ntreefinal= 200 
++ Fold1: nsets=100, ntreeperdiv=100, ntreefinal= 200 
+model fit failed for Fold1: nsets=100, ntreeperdiv=100, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets=100, ntreeperdiv=100, ntreefinal= 200 
++ Fold1: nsets=150, ntreeperdiv=100, ntreefinal= 200 
+model fit failed for Fold1: nsets=150, ntreeperdiv=100, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets=150, ntreeperdiv=100, ntreefinal= 200 
++ Fold1: nsets=200, ntreeperdiv=100, ntreefinal= 200 
+model fit failed for Fold1: nsets=200, ntreeperdiv=100, ntreefinal= 200 Error in ordinalForest::ordfor(depvar = ".outcome", data = x, nsets = param$nsets,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: nsets=200, ntreeperdiv=100, ntreefinal= 200 
++ Fold1: nsets=250, ntreeperdiv=100, ntreefinal= 200 

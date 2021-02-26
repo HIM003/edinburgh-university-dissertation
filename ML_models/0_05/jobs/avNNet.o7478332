@@ -1,0 +1,1068 @@
+[1] "This is using avNNet and tunelength"
+[1] "2020-10-18 11:28:18 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-18 11:28:29 BST"
+[1] "just about to train"
+[1] "2020-10-18 11:28:29 BST"
++ Fold1: size=1, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=1, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold1: size=1, decay=0e+00, bag=FALSE 
++ Fold1: size=3, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=3, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold1: size=3, decay=0e+00, bag=FALSE 
++ Fold1: size=5, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=5, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold1: size=5, decay=0e+00, bag=FALSE 
++ Fold1: size=7, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=7, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold1: size=7, decay=0e+00, bag=FALSE 
++ Fold1: size=9, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=9, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold1: size=9, decay=0e+00, bag=FALSE 
++ Fold1: size=1, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=1, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold1: size=1, decay=1e-01, bag=FALSE 
++ Fold1: size=3, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=3, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold1: size=3, decay=1e-01, bag=FALSE 
++ Fold1: size=5, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=5, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold1: size=5, decay=1e-01, bag=FALSE 
++ Fold1: size=7, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=7, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold1: size=7, decay=1e-01, bag=FALSE 
++ Fold1: size=9, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=9, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold1: size=9, decay=1e-01, bag=FALSE 
++ Fold1: size=1, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=1, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold1: size=1, decay=1e-02, bag=FALSE 
++ Fold1: size=3, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=3, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold1: size=3, decay=1e-02, bag=FALSE 
++ Fold1: size=5, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=5, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold1: size=5, decay=1e-02, bag=FALSE 
++ Fold1: size=7, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=7, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold1: size=7, decay=1e-02, bag=FALSE 
++ Fold1: size=9, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=9, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold1: size=9, decay=1e-02, bag=FALSE 
++ Fold1: size=1, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=1, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold1: size=1, decay=1e-03, bag=FALSE 
++ Fold1: size=3, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=3, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold1: size=3, decay=1e-03, bag=FALSE 
++ Fold1: size=5, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=5, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold1: size=5, decay=1e-03, bag=FALSE 
++ Fold1: size=7, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=7, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold1: size=7, decay=1e-03, bag=FALSE 
++ Fold1: size=9, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=9, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold1: size=9, decay=1e-03, bag=FALSE 
++ Fold1: size=1, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=1, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold1: size=1, decay=1e-04, bag=FALSE 
++ Fold1: size=3, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=3, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold1: size=3, decay=1e-04, bag=FALSE 
++ Fold1: size=5, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=5, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold1: size=5, decay=1e-04, bag=FALSE 
++ Fold1: size=7, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=7, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold1: size=7, decay=1e-04, bag=FALSE 
++ Fold1: size=9, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold1: size=9, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold1: size=9, decay=1e-04, bag=FALSE 
++ Fold2: size=1, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=1, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold2: size=1, decay=0e+00, bag=FALSE 
++ Fold2: size=3, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=3, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold2: size=3, decay=0e+00, bag=FALSE 
++ Fold2: size=5, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=5, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold2: size=5, decay=0e+00, bag=FALSE 
++ Fold2: size=7, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=7, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold2: size=7, decay=0e+00, bag=FALSE 
++ Fold2: size=9, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=9, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold2: size=9, decay=0e+00, bag=FALSE 
++ Fold2: size=1, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=1, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold2: size=1, decay=1e-01, bag=FALSE 
++ Fold2: size=3, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=3, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold2: size=3, decay=1e-01, bag=FALSE 
++ Fold2: size=5, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=5, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold2: size=5, decay=1e-01, bag=FALSE 
++ Fold2: size=7, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=7, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold2: size=7, decay=1e-01, bag=FALSE 
++ Fold2: size=9, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=9, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold2: size=9, decay=1e-01, bag=FALSE 
++ Fold2: size=1, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=1, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold2: size=1, decay=1e-02, bag=FALSE 
++ Fold2: size=3, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=3, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold2: size=3, decay=1e-02, bag=FALSE 
++ Fold2: size=5, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=5, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold2: size=5, decay=1e-02, bag=FALSE 
++ Fold2: size=7, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=7, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold2: size=7, decay=1e-02, bag=FALSE 
++ Fold2: size=9, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=9, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold2: size=9, decay=1e-02, bag=FALSE 
++ Fold2: size=1, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=1, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold2: size=1, decay=1e-03, bag=FALSE 
++ Fold2: size=3, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=3, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold2: size=3, decay=1e-03, bag=FALSE 
++ Fold2: size=5, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=5, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold2: size=5, decay=1e-03, bag=FALSE 
++ Fold2: size=7, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=7, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold2: size=7, decay=1e-03, bag=FALSE 
++ Fold2: size=9, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=9, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold2: size=9, decay=1e-03, bag=FALSE 
++ Fold2: size=1, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=1, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold2: size=1, decay=1e-04, bag=FALSE 
++ Fold2: size=3, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=3, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold2: size=3, decay=1e-04, bag=FALSE 
++ Fold2: size=5, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=5, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold2: size=5, decay=1e-04, bag=FALSE 
++ Fold2: size=7, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=7, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold2: size=7, decay=1e-04, bag=FALSE 
++ Fold2: size=9, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold2: size=9, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold2: size=9, decay=1e-04, bag=FALSE 
++ Fold3: size=1, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=1, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold3: size=1, decay=0e+00, bag=FALSE 
++ Fold3: size=3, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=3, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold3: size=3, decay=0e+00, bag=FALSE 
++ Fold3: size=5, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=5, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold3: size=5, decay=0e+00, bag=FALSE 
++ Fold3: size=7, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=7, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold3: size=7, decay=0e+00, bag=FALSE 
++ Fold3: size=9, decay=0e+00, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=9, decay=0e+00, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold3: size=9, decay=0e+00, bag=FALSE 
++ Fold3: size=1, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=1, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold3: size=1, decay=1e-01, bag=FALSE 
++ Fold3: size=3, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=3, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold3: size=3, decay=1e-01, bag=FALSE 
++ Fold3: size=5, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=5, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold3: size=5, decay=1e-01, bag=FALSE 
++ Fold3: size=7, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=7, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold3: size=7, decay=1e-01, bag=FALSE 
++ Fold3: size=9, decay=1e-01, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=9, decay=1e-01, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold3: size=9, decay=1e-01, bag=FALSE 
++ Fold3: size=1, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=1, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold3: size=1, decay=1e-02, bag=FALSE 
++ Fold3: size=3, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=3, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold3: size=3, decay=1e-02, bag=FALSE 
++ Fold3: size=5, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=5, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold3: size=5, decay=1e-02, bag=FALSE 
++ Fold3: size=7, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=7, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold3: size=7, decay=1e-02, bag=FALSE 
++ Fold3: size=9, decay=1e-02, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=9, decay=1e-02, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold3: size=9, decay=1e-02, bag=FALSE 
++ Fold3: size=1, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=1, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold3: size=1, decay=1e-03, bag=FALSE 
++ Fold3: size=3, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=3, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold3: size=3, decay=1e-03, bag=FALSE 
++ Fold3: size=5, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=5, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold3: size=5, decay=1e-03, bag=FALSE 
++ Fold3: size=7, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=7, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold3: size=7, decay=1e-03, bag=FALSE 
++ Fold3: size=9, decay=1e-03, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=9, decay=1e-03, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold3: size=9, decay=1e-03, bag=FALSE 
++ Fold3: size=1, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=1, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (1546) weights"
+ 
+- Fold3: size=1, decay=1e-04, bag=FALSE 
++ Fold3: size=3, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=3, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (4634) weights"
+ 
+- Fold3: size=3, decay=1e-04, bag=FALSE 
++ Fold3: size=5, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=5, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (7722) weights"
+ 
+- Fold3: size=5, decay=1e-04, bag=FALSE 
++ Fold3: size=7, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=7, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (10810) weights"
+ 
+- Fold3: size=7, decay=1e-04, bag=FALSE 
++ Fold3: size=9, decay=1e-04, bag=FALSE 
+Fitting Repeat 1 
+
+Fitting Repeat 2 
+
+Fitting Repeat 3 
+
+Fitting Repeat 4 
+
+Fitting Repeat 5 
+
+model fit failed for Fold3: size=9, decay=1e-04, bag=FALSE Error in { : task 1 failed - "too many (13898) weights"
+ 
+- Fold3: size=9, decay=1e-04, bag=FALSE 
+Aggregating results
+Something is wrong; all the ROC metric values are missing:
+      ROC           Sens          Spec    
+ Min.   : NA   Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA   Max.   : NA  
+ NA's   :25    NA's   :25    NA's   :25   

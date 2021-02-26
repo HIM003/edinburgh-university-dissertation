@@ -1,0 +1,18 @@
+[1] "This is using the tunelength"
+[1] "2021-01-21 21:49:28 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+3.6 GB
+[1] "2021-01-21 21:50:15 GMT"
+[1] "just about to train"
+[1] "2021-01-21 21:50:15 GMT"
++ Fold1: cost=0.5, loss=L1, epsilon=0.01 
+- Fold1: cost=0.5, loss=L1, epsilon=0.01 
++ Fold2: cost=0.5, loss=L1, epsilon=0.01 
+- Fold2: cost=0.5, loss=L1, epsilon=0.01 
++ Fold3: cost=0.5, loss=L1, epsilon=0.01 
+- Fold3: cost=0.5, loss=L1, epsilon=0.01 
+Aggregating results
+Fitting final model on full training set
+[1] "just about to save"
+[1] "2021-01-21 21:55:54 GMT"

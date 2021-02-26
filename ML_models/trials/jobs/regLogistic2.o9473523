@@ -1,0 +1,43 @@
+[1] "This is using the tunelength"
+[1] "2021-01-23 01:35:35 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.99 GB
+[1] "2021-01-23 01:36:21 GMT"
+[1] "just about to train"
+[1] "2021-01-23 01:36:21 GMT"
++ Fold1: cost=0.5, loss=L1, epsilon=1e-04 
+- Fold1: cost=0.5, loss=L1, epsilon=1e-04 
++ Fold1: cost=0.5, loss=L1, epsilon=1e-03 
+- Fold1: cost=0.5, loss=L1, epsilon=1e-03 
++ Fold1: cost=0.5, loss=L1, epsilon=1e-02 
+- Fold1: cost=0.5, loss=L1, epsilon=1e-02 
++ Fold1: cost=0.5, loss=L1, epsilon=1e-01 
+- Fold1: cost=0.5, loss=L1, epsilon=1e-01 
++ Fold1: cost=0.5, loss=L1, epsilon=1e+00 
+- Fold1: cost=0.5, loss=L1, epsilon=1e+00 
++ Fold2: cost=0.5, loss=L1, epsilon=1e-04 
+- Fold2: cost=0.5, loss=L1, epsilon=1e-04 
++ Fold2: cost=0.5, loss=L1, epsilon=1e-03 
+- Fold2: cost=0.5, loss=L1, epsilon=1e-03 
++ Fold2: cost=0.5, loss=L1, epsilon=1e-02 
+- Fold2: cost=0.5, loss=L1, epsilon=1e-02 
++ Fold2: cost=0.5, loss=L1, epsilon=1e-01 
+- Fold2: cost=0.5, loss=L1, epsilon=1e-01 
++ Fold2: cost=0.5, loss=L1, epsilon=1e+00 
+- Fold2: cost=0.5, loss=L1, epsilon=1e+00 
++ Fold3: cost=0.5, loss=L1, epsilon=1e-04 
+- Fold3: cost=0.5, loss=L1, epsilon=1e-04 
++ Fold3: cost=0.5, loss=L1, epsilon=1e-03 
+- Fold3: cost=0.5, loss=L1, epsilon=1e-03 
++ Fold3: cost=0.5, loss=L1, epsilon=1e-02 
+- Fold3: cost=0.5, loss=L1, epsilon=1e-02 
++ Fold3: cost=0.5, loss=L1, epsilon=1e-01 
+- Fold3: cost=0.5, loss=L1, epsilon=1e-01 
++ Fold3: cost=0.5, loss=L1, epsilon=1e+00 
+- Fold3: cost=0.5, loss=L1, epsilon=1e+00 
+Aggregating results
+Selecting tuning parameters
+Fitting cost = 0.5, loss = L1, epsilon = 0.01 on full training set
+[1] "just about to save"
+[1] "2021-01-25 17:51:15 GMT"

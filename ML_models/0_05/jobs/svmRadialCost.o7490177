@@ -1,0 +1,48 @@
+[1] "This is using svmRadialCost and tunelength"
+[1] "2020-10-19 08:23:31 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-19 08:23:46 BST"
+[1] "just about to train"
+[1] "2020-10-19 08:23:46 BST"
++ Fold1: C=0.25 
+- Fold1: C=0.25 
++ Fold1: C=0.50 
+- Fold1: C=0.50 
++ Fold1: C=1.00 
+- Fold1: C=1.00 
++ Fold1: C=2.00 
+- Fold1: C=2.00 
++ Fold1: C=4.00 
+- Fold1: C=4.00 
++ Fold2: C=0.25 
+- Fold2: C=0.25 
++ Fold2: C=0.50 
+- Fold2: C=0.50 
++ Fold2: C=1.00 
+- Fold2: C=1.00 
++ Fold2: C=2.00 
+- Fold2: C=2.00 
++ Fold2: C=4.00 
+- Fold2: C=4.00 
++ Fold3: C=0.25 
+- Fold3: C=0.25 
++ Fold3: C=0.50 
+- Fold3: C=0.50 
++ Fold3: C=1.00 
+- Fold3: C=1.00 
++ Fold3: C=2.00 
+- Fold3: C=2.00 
++ Fold3: C=4.00 
+- Fold3: C=4.00 
+Aggregating results
+Something is wrong; all the ROC metric values are missing:
+      ROC           Sens             Spec       
+ Min.   : NA   Min.   :0.7026   Min.   :0.7637  
+ 1st Qu.: NA   1st Qu.:0.7161   1st Qu.:0.7763  
+ Median : NA   Median :0.7285   Median :0.7810  
+ Mean   :NaN   Mean   :0.7259   Mean   :0.7798  
+ 3rd Qu.: NA   3rd Qu.:0.7383   3rd Qu.:0.7866  
+ Max.   : NA   Max.   :0.7438   Max.   :0.7913  
+ NA's   :5                                      

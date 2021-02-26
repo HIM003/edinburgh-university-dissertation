@@ -1,0 +1,9 @@
+[1] "This is using svmLinear2 and tunelength"
+[1] "2020-10-14 16:40:26 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-14 16:59:02 BST"
+[1] "just about to train"
+[1] "2020-10-14 16:59:02 BST"
++ Fold1: cost=0.25 

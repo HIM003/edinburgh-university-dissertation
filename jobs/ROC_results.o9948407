@@ -1,0 +1,494 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_1.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Bagged Model 
+
+101564 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 67709, 67710, 67709 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8207502  0.7237038  0.7681075
+
+Tuning parameter 'vars' was held constant at a value of 1541
+[1] 0.11
+[1] 0.8219331
+[1] 0.7765043
+[1] 0.7254583
+[1] 0.07094241
+[1] 0.7765043
+[1] 0.1300072
+         AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+0.10_bag   0.11 0.8219331 0.7765043 0.7254583 0.07094241 0.7765043 0.1300072
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_1.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Linear Discriminant Analysis 
+
+101564 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 67709, 67710, 67709 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec    
+  0.8215198  0.7247094  0.769692
+
+[1] 0.11
+[1] 0.821617
+[1] 0.7851003
+[1] 0.7259998
+[1] 0.07180294
+[1] 0.7851003
+[1] 0.1315726
+         AUC_PR  AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+0.10_lda   0.11 0.821617 0.7851003 0.7259998 0.07180294 0.7851003 0.1315726
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_1.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Boosted Logistic Regression 
+
+101564 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 67709, 67710, 67709 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  nIter  ROC        Sens       Spec     
+  11     0.7290976  0.7067226  0.6952350
+  21     0.7499766  0.6221755  0.8082042
+  31     0.7239621  0.6522076  0.7685692
+  41     0.7389839  0.6323456  0.7874034
+  51     0.7307988  0.6567721  0.7512187
+
+ROC was used to select the optimal model using the largest value.
+The final value used for the model was nIter = 21.
+[1] 0.07
+[1] 0.7611293
+[1] 0.7851003
+[1] 0.6509631
+[1] 0.05725031
+[1] 0.7851003
+[1] 0.1067186
+                AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL
+0.10_LogitBoost   0.07 0.7611293 0.7851003 0.6509631 0.05725031 0.7851003
+                       F1
+0.10_LogitBoost 0.1067186
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_1.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Naive Bayes 
+
+101564 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 67709, 67710, 67709 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  usekernel  ROC        Sens       Spec     
+  FALSE      0.7236494  0.7675647  0.6326146
+   TRUE      0.7644280  0.6419579  0.7981546
+
+Tuning parameter 'laplace' was held constant at a value of 0
+Tuning
+ parameter 'adjust' was held constant at a value of 1
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were laplace = 0, usekernel = TRUE
+ and adjust = 1.
+[1] 0.01
+[1] 0.7470038
+[1] 0.7707736
+[1] 0.6414481
+[1] 0.05485318
+[1] 0.7707736
+[1] 0.1024177
+                AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL
+0.10_naivebayes   0.01 0.7470038 0.7707736 0.6414481 0.05485318 0.7707736
+                       F1
+0.10_naivebayes 0.1024177
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_1.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Regularized Logistic Regression 
+
+101564 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 67709, 67710, 67709 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  cost  loss       epsilon  ROC        Sens       Spec     
+  0.25  L1         1e-04    0.8217398  0.7273396  0.7652993
+  0.25  L1         1e-03    0.8222153  0.7286739  0.7656604
+  0.25  L1         1e-02    0.8216985  0.7263725  0.7677865
+  0.25  L1         1e-01    0.8174012  0.7222727  0.7638352
+  0.25  L1         1e+00    0.8000694  0.7146725  0.7447397
+  0.25  L2_dual    1e-04    0.8208997  0.7273589  0.7637950
+  0.25  L2_dual    1e-03    0.8210419  0.7274942  0.7638351
+  0.25  L2_dual    1e-02    0.8208938  0.7275523  0.7635342
+  0.25  L2_dual    1e-01    0.8209052  0.7267207  0.7637147
+  0.25  L2_dual    1e+00    0.8208983  0.7265466  0.7640156
+  0.25  L2_primal  1e-04    0.8209753  0.7265660  0.7644368
+  0.25  L2_primal  1e-03    0.8209185  0.7273782  0.7650185
+  0.25  L2_primal  1e-02    0.8217204  0.7291574  0.7644569
+  0.25  L2_primal  1e-01    0.8086233  0.7170318  0.7580786
+  0.25  L2_primal  1e+00    0.7954334  0.7168191  0.7319828
+  0.50  L1         1e-04    0.8215541  0.7276490  0.7650787
+  0.50  L1         1e-03    0.8217875  0.7280357  0.7654799
+  0.50  L1         1e-02    0.8223510  0.7268561  0.7683883
+  0.50  L1         1e-01    0.8171218  0.7236265  0.7657206
+  0.50  L1         1e+00    0.8022521  0.7171285  0.7431149
+  0.50  L2_dual    1e-04    0.8209360  0.7273202  0.7638551
+  0.50  L2_dual    1e-03    0.8208933  0.7271075  0.7629325
+  0.50  L2_dual    1e-02    0.8209572  0.7279971  0.7629726
+  0.50  L2_dual    1e-01    0.8209416  0.7280164  0.7632534
+  0.50  L2_dual    1e+00    0.8209767  0.7274362  0.7640557
+  0.50  L2_primal  1e-04    0.8209504  0.7271268  0.7641961
+  0.50  L2_primal  1e-03    0.8208074  0.7274943  0.7637348
+  0.50  L2_primal  1e-02    0.8214044  0.7287900  0.7633337
+  0.50  L2_primal  1e-01    0.8086539  0.7174186  0.7574969
+  0.50  L2_primal  1e+00    0.7953940  0.7170125  0.7316819
+  1.00  L1         1e-04    0.8213172  0.7274749  0.7648982
+  1.00  L1         1e-03    0.8212281  0.7276296  0.7645973
+  1.00  L1         1e-02    0.8215001  0.7268561  0.7667435
+  1.00  L1         1e-01    0.8162074  0.7222920  0.7614081
+  1.00  L1         1e+00    0.8011760  0.7152333  0.7425133
+  1.00  L2_dual    1e-04    0.8207683  0.7277457  0.7646173
+  1.00  L2_dual    1e-03    0.8206798  0.7284805  0.7622906
+  1.00  L2_dual    1e-02    0.8208272  0.7282678  0.7637749
+  1.00  L2_dual    1e-01    0.8210030  0.7289833  0.7623508
+  1.00  L2_dual    1e+00    0.8206428  0.7265273  0.7636345
+  1.00  L2_primal  1e-04    0.8209457  0.7272235  0.7637147
+  1.00  L2_primal  1e-03    0.8208207  0.7268754  0.7639354
+  1.00  L2_primal  1e-02    0.8215164  0.7292928  0.7636546
+  1.00  L2_primal  1e-01    0.8063032  0.7192365  0.7528633
+  1.00  L2_primal  1e+00    0.7954166  0.7171672  0.7316016
+  2.00  L1         1e-04    0.8211492  0.7273395  0.7639554
+  2.00  L1         1e-03    0.8213044  0.7272622  0.7641961
+  2.00  L1         1e-02    0.8213735  0.7262759  0.7653194
+  2.00  L1         1e-01    0.8167983  0.7233364  0.7599639
+  2.00  L1         1e+00    0.8016474  0.7156974  0.7454017
+  2.00  L2_dual    1e-04    0.8177340  0.7320775  0.7535452
+  2.00  L2_dual    1e-03    0.8177379  0.7197974  0.7673854
+  2.00  L2_dual    1e-02    0.8184359  0.7251156  0.7621703
+  2.00  L2_dual    1e-01    0.8147822  0.7272429  0.7529036
+  2.00  L2_dual    1e+00    0.8182400  0.7232783  0.7655800
+  2.00  L2_primal  1e-04    0.8208118  0.7275136  0.7632735
+  2.00  L2_primal  1e-03    0.8209306  0.7279777  0.7636145
+  2.00  L2_primal  1e-02    0.8216290  0.7292734  0.7632133
+  2.00  L2_primal  1e-01    0.8085981  0.7170512  0.7578178
+  2.00  L2_primal  1e+00    0.7954363  0.7165677  0.7320429
+  4.00  L1         1e-04    0.8209177  0.7268174  0.7640557
+  4.00  L1         1e-03    0.8212487  0.7279004  0.7641761
+  4.00  L1         1e-02    0.8221993  0.7278037  0.7666031
+  4.00  L1         1e-01    0.8169114  0.7229303  0.7637147
+  4.00  L1         1e+00    0.8028566  0.7150013  0.7487313
+  4.00  L2_dual    1e-04    0.8049782  0.7261213  0.7372377
+  4.00  L2_dual    1e-03    0.8109923  0.7282678  0.7465050
+  4.00  L2_dual    1e-02    0.8042262  0.7170124  0.7436766
+  4.00  L2_dual    1e-01    0.8122003  0.7231044  0.7540666
+  4.00  L2_dual    1e+00    0.8078248  0.7304338  0.7386223
+  4.00  L2_primal  1e-04    0.8208546  0.7259665  0.7646575
+  4.00  L2_primal  1e-03    0.8209060  0.7274556  0.7635743
+  4.00  L2_primal  1e-02    0.8215403  0.7288673  0.7642363
+  4.00  L2_primal  1e-01    0.8062930  0.7192558  0.7523418
+  4.00  L2_primal  1e+00    0.7953564  0.7169545  0.7317020
+
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were cost = 0.5, loss = L1 and epsilon
+ = 0.01.
+[1] 0.12
+[1] 0.8202352
+[1] 0.7765043
+[1] 0.7296356
+[1] 0.07195964
+[1] 0.7765043
+[1] 0.1317132
+                 AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL
+0.10_regLogistic   0.12 0.8202352 0.7765043 0.7296356 0.07195964 0.7765043
+                        F1
+0.10_regLogistic 0.1317132
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Bagged Model 
+
+253907 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 169272, 169272, 169270 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8253337  0.7271391  0.7733801
+
+Tuning parameter 'vars' was held constant at a value of 1541
+[1] 0.12
+[1] 0.8235491
+[1] 0.7754868
+[1] 0.7289043
+[1] 0.0717313
+[1] 0.7754868
+[1] 0.1313161
+         AUC_PR   AUC_ROC      SENS      SPEC      PREC    RECALL        F1
+0.25_bag   0.12 0.8235491 0.7754868 0.7289043 0.0717313 0.7754868 0.1313161
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Linear Discriminant Analysis 
+
+253907 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 169272, 169272, 169270 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8257277  0.7277657  0.7739979
+
+[1] 0.12
+[1] 0.8236083
+[1] 0.7766323
+[1] 0.728533
+[1] 0.07173844
+[1] 0.7766323
+[1] 0.1313444
+         AUC_PR   AUC_ROC      SENS     SPEC       PREC    RECALL        F1
+0.25_lda   0.12 0.8236083 0.7766323 0.728533 0.07173844 0.7766323 0.1313444
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Boosted Logistic Regression 
+
+253907 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 169272, 169272, 169270 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  nIter  ROC        Sens       Spec     
+  11     0.7458264  0.6673344  0.7659585
+  21     0.7325191  0.5962892  0.8012460
+  31     0.7200994  0.5919030  0.7800728
+  41     0.7324919  0.6138416  0.7855201
+  51     0.7209347  0.6118690  0.7595328
+
+ROC was used to select the optimal model using the largest value.
+The final value used for the model was nIter = 11.
+[1] 0.05
+[1] 0.7504585
+[1] 0.7754868
+[1] 0.6510815
+[1] 0.0566385
+[1] 0.7754868
+[1] 0.1055668
+                AUC_PR   AUC_ROC      SENS      SPEC      PREC    RECALL
+0.25_LogitBoost   0.05 0.7504585 0.7754868 0.6510815 0.0566385 0.7754868
+                       F1
+0.25_LogitBoost 0.1055668
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Naive Bayes 
+
+253907 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 169272, 169272, 169270 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  usekernel  ROC        Sens       Spec     
+  FALSE      0.7233402  0.7690743  0.6310055
+   TRUE      0.7637829  0.6425880  0.7970089
+
+Tuning parameter 'laplace' was held constant at a value of 0
+Tuning
+ parameter 'adjust' was held constant at a value of 1
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were laplace = 0, usekernel = TRUE
+ and adjust = 1.
+[1] 0.01
+[1] 0.7665265
+[1] 0.7972509
+[1] 0.6400965
+[1] 0.05646143
+[1] 0.7972509
+[1] 0.1054545
+                AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL
+0.25_naivebayes   0.01 0.7665265 0.7972509 0.6400965 0.05646143 0.7972509
+                       F1
+0.25_naivebayes 0.1054545
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Regularized Logistic Regression 
+
+253907 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 169272, 169272, 169270 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  cost  loss       epsilon  ROC        Sens       Spec     
+  0.25  L1         1e-04    0.8266020  0.7316026  0.7711897
+  0.25  L1         1e-03    0.8266191  0.7307749  0.7715026
+  0.25  L1         1e-02    0.8238016  0.7280597  0.7699300
+  0.25  L1         1e-01    0.8173835  0.7235884  0.7623961
+  0.25  L1         1e+00    0.8033090  0.7192642  0.7456192
+  0.25  L2_dual    1e-04    0.8264896  0.7315716  0.7705559
+  0.25  L2_dual    1e-03    0.8264343  0.7316954  0.7709490
+  0.25  L2_dual    1e-02    0.8265014  0.7316181  0.7710292
+  0.25  L2_dual    1e-01    0.8264806  0.7316799  0.7711416
+  0.25  L2_dual    1e+00    0.8263973  0.7312700  0.7715107
+  0.25  L2_primal  1e-04    0.8264519  0.7316026  0.7709651
+  0.25  L2_primal  1e-03    0.8264602  0.7314865  0.7713341
+  0.25  L2_primal  1e-02    0.8266098  0.7316490  0.7711095
+  0.25  L2_primal  1e-01    0.8066704  0.7225518  0.7474646
+  0.25  L2_primal  1e+00    0.7956619  0.7194498  0.7305113
+  0.50  L1         1e-04    0.8265328  0.7313396  0.7709811
+  0.50  L1         1e-03    0.8266080  0.7314633  0.7717112
+  0.50  L1         1e-02    0.8245980  0.7291736  0.7698177
+  0.50  L1         1e-01    0.8172828  0.7234956  0.7619869
+  0.50  L1         1e+00    0.7982643  0.7167655  0.7359110
+  0.50  L2_dual    1e-04    0.8264387  0.7318733  0.7713422
+  0.50  L2_dual    1e-03    0.8264709  0.7324613  0.7708287
+  0.50  L2_dual    1e-02    0.8266343  0.7324148  0.7705479
+  0.50  L2_dual    1e-01    0.8264458  0.7313164  0.7712780
+  0.50  L2_dual    1e+00    0.8265172  0.7327088  0.7702911
+  0.50  L2_primal  1e-04    0.8264574  0.7319430  0.7712298
+  0.50  L2_primal  1e-03    0.8264352  0.7312545  0.7711576
+  0.50  L2_primal  1e-02    0.8266195  0.7311926  0.7713903
+  0.50  L2_primal  1e-01    0.8066482  0.7221883  0.7478257
+  0.50  L2_primal  1e+00    0.7956919  0.7195349  0.7305433
+  1.00  L1         1e-04    0.8265264  0.7317650  0.7711897
+  1.00  L1         1e-03    0.8265327  0.7310688  0.7712218
+  1.00  L1         1e-02    0.8241284  0.7280210  0.7690234
+  1.00  L1         1e-01    0.8174572  0.7232635  0.7640248
+  1.00  L1         1e+00    0.8002983  0.7165025  0.7426987
+  1.00  L2_dual    1e-04    0.8254767  0.7281680  0.7726419
+  1.00  L2_dual    1e-03    0.8261749  0.7322988  0.7703874
+  1.00  L2_dual    1e-02    0.8245497  0.7275877  0.7724253
+  1.00  L2_dual    1e-01    0.8258543  0.7296377  0.7715347
+  1.00  L2_dual    1e+00    0.8260815  0.7314865  0.7701066
+  1.00  L2_primal  1e-04    0.8264557  0.7316722  0.7709891
+  1.00  L2_primal  1e-03    0.8264851  0.7317264  0.7712860
+  1.00  L2_primal  1e-02    0.8266081  0.7311230  0.7716631
+  1.00  L2_primal  1e-01    0.8066419  0.7224745  0.7477454
+  1.00  L2_primal  1e+00    0.7956991  0.7195272  0.7306717
+  2.00  L1         1e-04    0.8264320  0.7314479  0.7710934
+  2.00  L1         1e-03    0.8264992  0.7317031  0.7713983
+  2.00  L1         1e-02    0.8252104  0.7295758  0.7706682
+  2.00  L1         1e-01    0.8175764  0.7228303  0.7629417
+  2.00  L1         1e+00    0.8007670  0.7169899  0.7422655
+  2.00  L2_dual    1e-04    0.8231156  0.7305738  0.7653326
+  2.00  L2_dual    1e-03    0.8234678  0.7281448  0.7683654
+  2.00  L2_dual    1e-02    0.8242231  0.7370485  0.7614093
+  2.00  L2_dual    1e-01    0.8231033  0.7301869  0.7643699
+  2.00  L2_dual    1e+00    0.8122576  0.7258782  0.7514766
+  2.00  L2_primal  1e-04    0.8264479  0.7316645  0.7714705
+  2.00  L2_primal  1e-03    0.8264654  0.7313628  0.7709089
+  2.00  L2_primal  1e-02    0.8265839  0.7318346  0.7709811
+  2.00  L2_primal  1e-01    0.8066316  0.7223198  0.7477856
+  2.00  L2_primal  1e+00    0.7956941  0.7193957  0.7307118
+  4.00  L1         1e-04    0.8264473  0.7312003  0.7716711
+  4.00  L1         1e-03    0.8264886  0.7315020  0.7712138
+  4.00  L1         1e-02    0.8242718  0.7293360  0.7693363
+  4.00  L1         1e-01    0.8191913  0.7256538  0.7634713
+  4.00  L1         1e+00    0.8026292  0.7167578  0.7449212
+  4.00  L2_dual    1e-04    0.8045159  0.7253599  0.7372268
+  4.00  L2_dual    1e-03    0.8048002  0.7265590  0.7368817
+  4.00  L2_dual    1e-02    0.8059586  0.7151488  0.7518213
+  4.00  L2_dual    1e-01    0.8125251  0.7290885  0.7485558
+  4.00  L2_dual    1e+00    0.8107800  0.7136867  0.7609679
+  4.00  L2_primal  1e-04    0.8264255  0.7312158  0.7709570
+  4.00  L2_primal  1e-03    0.8264924  0.7316103  0.7711095
+  4.00  L2_primal  1e-02    0.8266144  0.7313782  0.7712058
+  4.00  L2_primal  1e-01    0.8066364  0.7221960  0.7479380
+  4.00  L2_primal  1e+00    0.7956851  0.7196432  0.7305353
+
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were cost = 0.5, loss = L2_dual and
+ epsilon = 0.01.
+[1] 0.12
+[1] 0.8227564
+[1] 0.7754868
+[1] 0.7311013
+[1] 0.07227501
+[1] 0.7754868
+[1] 0.1322266
+                 AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL
+0.25_regLogistic   0.12 0.8227564 0.7754868 0.7311013 0.07227501 0.7754868
+                        F1
+0.25_regLogistic 0.1322266
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Bagged Model 
+
+1015623 samples
+   1541 predictor
+      2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 677081, 677083, 677082 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens      Spec     
+  0.8285587  0.727842  0.7780463
+
+Tuning parameter 'vars' was held constant at a value of 1541

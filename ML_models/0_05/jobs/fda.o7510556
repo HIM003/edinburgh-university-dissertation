@@ -1,0 +1,43 @@
+[1] "This is using fda and tunelength"
+[1] "2020-10-23 22:49:24 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-23 22:59:11 BST"
+[1] "just about to train"
+[1] "2020-10-23 22:59:11 BST"
++ Fold1: nprune= 2, degree=1 
+- Fold1: nprune= 2, degree=1 
++ Fold1: nprune= 5, degree=1 
+- Fold1: nprune= 5, degree=1 
++ Fold1: nprune= 9, degree=1 
+- Fold1: nprune= 9, degree=1 
++ Fold1: nprune=13, degree=1 
+- Fold1: nprune=13, degree=1 
++ Fold1: nprune=17, degree=1 
+- Fold1: nprune=17, degree=1 
++ Fold2: nprune= 2, degree=1 
+- Fold2: nprune= 2, degree=1 
++ Fold2: nprune= 5, degree=1 
+- Fold2: nprune= 5, degree=1 
++ Fold2: nprune= 9, degree=1 
+- Fold2: nprune= 9, degree=1 
++ Fold2: nprune=13, degree=1 
+- Fold2: nprune=13, degree=1 
++ Fold2: nprune=17, degree=1 
+- Fold2: nprune=17, degree=1 
++ Fold3: nprune= 2, degree=1 
+- Fold3: nprune= 2, degree=1 
++ Fold3: nprune= 5, degree=1 
+- Fold3: nprune= 5, degree=1 
++ Fold3: nprune= 9, degree=1 
+- Fold3: nprune= 9, degree=1 
++ Fold3: nprune=13, degree=1 
+- Fold3: nprune=13, degree=1 
++ Fold3: nprune=17, degree=1 
+- Fold3: nprune=17, degree=1 
+Aggregating results
+Selecting tuning parameters
+Fitting degree = 1, nprune = 17 on full training set
+[1] "just about to save"
+[1] "2020-10-24 18:03:14 BST"

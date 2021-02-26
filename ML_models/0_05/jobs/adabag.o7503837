@@ -1,0 +1,43 @@
+[1] "This is using AdaBag and tunelength"
+[1] "2020-10-23 10:26:14 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-23 10:26:28 BST"
+[1] "just about to train"
+[1] "2020-10-23 10:26:28 BST"
++ Fold1: maxdepth=1, mfinal=250 
+- Fold1: maxdepth=1, mfinal=250 
++ Fold1: maxdepth=2, mfinal=250 
+- Fold1: maxdepth=2, mfinal=250 
++ Fold1: maxdepth=3, mfinal=250 
+- Fold1: maxdepth=3, mfinal=250 
++ Fold1: maxdepth=4, mfinal=250 
+- Fold1: maxdepth=4, mfinal=250 
++ Fold1: maxdepth=5, mfinal=250 
+- Fold1: maxdepth=5, mfinal=250 
++ Fold2: maxdepth=1, mfinal=250 
+- Fold2: maxdepth=1, mfinal=250 
++ Fold2: maxdepth=2, mfinal=250 
+- Fold2: maxdepth=2, mfinal=250 
++ Fold2: maxdepth=3, mfinal=250 
+- Fold2: maxdepth=3, mfinal=250 
++ Fold2: maxdepth=4, mfinal=250 
+- Fold2: maxdepth=4, mfinal=250 
++ Fold2: maxdepth=5, mfinal=250 
+- Fold2: maxdepth=5, mfinal=250 
++ Fold3: maxdepth=1, mfinal=250 
+- Fold3: maxdepth=1, mfinal=250 
++ Fold3: maxdepth=2, mfinal=250 
+- Fold3: maxdepth=2, mfinal=250 
++ Fold3: maxdepth=3, mfinal=250 
+- Fold3: maxdepth=3, mfinal=250 
++ Fold3: maxdepth=4, mfinal=250 
+- Fold3: maxdepth=4, mfinal=250 
++ Fold3: maxdepth=5, mfinal=250 
+- Fold3: maxdepth=5, mfinal=250 
+Aggregating results
+Selecting tuning parameters
+Fitting mfinal = 250, maxdepth = 5 on full training set
+[1] "just about to save"
+[1] "2020-10-24 14:02:56 BST"

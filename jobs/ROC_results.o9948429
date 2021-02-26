@@ -1,0 +1,118 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_1.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Bagged FDA using gCV Pruning 
+
+101564 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 67709, 67710, 67709 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8170693  0.7022375  0.7840738
+
+Tuning parameter 'degree' was held constant at a value of 1
+[1] 0.11
+[1] 0.8172256
+[1] 0.8051576
+[1] 0.7046492
+[1] 0.06855331
+[1] 0.8051576
+[1] 0.1263489
+               AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL
+0.10_bagFDAGCV   0.11 0.8172256 0.8051576 0.7046492 0.06855331 0.8051576
+                      F1
+0.10_bagFDAGCV 0.1263489
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Bagged FDA using gCV Pruning 
+
+253907 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 169272, 169272, 169270 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8164754  0.7051697  0.7782102
+
+Tuning parameter 'degree' was held constant at a value of 1
+[1] 0.11
+[1] 0.8151849
+[1] 0.7754868
+[1] 0.7063465
+[1] 0.06658798
+[1] 0.7754868
+[1] 0.1226449
+               AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL
+0.25_bagFDAGCV   0.11 0.8151849 0.7754868 0.7063465 0.06658798 0.7754868
+                      F1
+0.25_bagFDAGCV 0.1226449
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Generalized Linear Model 
+
+253907 samples
+  1541 predictor
+     2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 169272, 169272, 169270 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC       Sens       Spec     
+  0.826454  0.7316335  0.7710613
+
+[1] 0.12
+[1] 0.8227006
+[1] 0.7800687
+[1] 0.7307918
+[1] 0.07259354
+[1] 0.7800687
+[1] 0.1328262
+         AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+0.25_glm   0.12 0.8227006 0.7800687 0.7307918 0.07259354 0.7800687 0.1328262
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_25.csv.gz"
+[1] "class imbalance"
+[1] 0.02701365
+Generalized Linear Model 
+
+1015623 samples
+   1541 predictor
+      2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 677081, 677083, 677082 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8297935  0.7315242  0.7754066
+
+[1] 0.12
+[1] 0.8270434
+[1] 0.7835052
+[1] 0.7313179
+[1] 0.07302231
+[1] 0.7835052
+[1] 0.1335938
+         AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+1.00_glm   0.12 0.8270434 0.7835052 0.7313179 0.07302231 0.7835052 0.1335938

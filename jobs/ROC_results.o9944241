@@ -1,0 +1,108 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_05.csv.gz"
+Bagged Model 
+
+50783 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 33855, 33856, 33855 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8101764  0.7219113  0.7532092
+
+Tuning parameter 'vars' was held constant at a value of 1541
+[1] 0.1
+[1] 0.8128733
+[1] 0.7371429
+[1] 0.7347981
+[1] 0.06999457
+[1] 0.7371429
+[1] 0.1278494
+         AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+0.05_bag    0.1 0.8128733 0.7371429 0.7347981 0.06999457 0.7371429 0.1278494
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_05.csv.gz"
+Tree Models from Genetic Algorithms 
+
+50783 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 33855, 33856, 33855 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  alpha  ROC        Sens       Spec     
+  1.0    0.7695408  0.6904280  0.7733874
+  1.5    0.7724025  0.6942565  0.7677309
+  2.0    0.7670032  0.6874494  0.7745104
+  2.5    0.7659888  0.6871406  0.7712618
+  3.0    0.7580316  0.6952239  0.7618744
+
+ROC was used to select the optimal model using the largest value.
+The final value used for the model was alpha = 1.5.
+[1] 0.05
+[1] 0.7565876
+[1] 0.7542857
+[1] 0.6942596
+[1] 0.0626186
+[1] 0.7542857
+[1] 0.1156373
+            AUC_PR   AUC_ROC      SENS      SPEC      PREC    RECALL        F1
+0.05_evtree   0.05 0.7565876 0.7542857 0.6942596 0.0626186 0.7542857 0.1156373
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_05.csv.gz"
+Generalized Linear Model 
+
+50783 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 33855, 33856, 33855 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC       Sens       Spec     
+  0.810062  0.7231102  0.7507623
+
+[1] 0.1
+[1] 0.8135267
+[1] 0.7371429
+[1] 0.7365001
+[1] 0.07041485
+[1] 0.7371429
+[1] 0.1285501
+         AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+0.05_glm    0.1 0.8135267 0.7371429 0.7365001 0.07041485 0.7371429 0.1285501
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_05.csv.gz"
+k-Nearest Neighbors 
+
+50783 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 33855, 33856, 33855 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  k   ROC        Sens       Spec     
+   5  0.7919576  0.6942566  0.7682125
+   7  0.7992021  0.6927870  0.7765163
+   9  0.8033400  0.6928256  0.7796855
+  11  0.8054045  0.6910078  0.7796855
+  13  0.8066083  0.6919360  0.7800867
+
+ROC was used to select the optimal model using the largest value.
+The final value used for the model was k = 13.

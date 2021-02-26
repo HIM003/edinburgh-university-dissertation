@@ -1,0 +1,60 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_ALL_0.9_outfile.csv.gz"
+[1] "class imbalance"
+[1] 0.0006745363
+Stochastic Gradient Boosting 
+
+23721 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 15814, 15814, 15814 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  interaction.depth  n.trees  ROC        Sens       Spec     
+  1                   50      0.8844886  0.7979262  0.7889367
+  1                  100      0.8989629  0.8136908  0.8068134
+  1                  150      0.9072050  0.8242286  0.8203053
+  1                  200      0.9127378  0.8301298  0.8321950
+  1                  250      0.9164874  0.8333333  0.8384349
+  2                   50      0.8998997  0.8143652  0.8110296
+  2                  100      0.9146407  0.8296240  0.8358209
+  2                  150      0.9219049  0.8371270  0.8461928
+  2                  200      0.9269426  0.8439555  0.8537819
+  2                  250      0.9305909  0.8509526  0.8613711
+  3                   50      0.9082755  0.8230484  0.8254490
+  3                  100      0.9228009  0.8410049  0.8486382
+  3                  150      0.9298151  0.8490137  0.8565646
+  3                  200      0.9345316  0.8563480  0.8634792
+  3                  250      0.9376957  0.8598044  0.8691289
+  4                   50      0.9152067  0.8291182  0.8425668
+  4                  100      0.9285527  0.8476648  0.8587571
+  4                  150      0.9352106  0.8555050  0.8661776
+  4                  200      0.9395611  0.8635137  0.8732608
+  4                  250      0.9423486  0.8677289  0.8765495
+  5                   50      0.9193435  0.8345979  0.8450966
+  5                  100      0.9322273  0.8528073  0.8616241
+  5                  150      0.9386972  0.8613219  0.8689603
+  5                  200      0.9425261  0.8665486  0.8758749
+  5                  250      0.9456385  0.8709324  0.8798381
+
+Tuning parameter 'shrinkage' was held constant at a value of 0.1
+
+Tuning parameter 'n.minobsinnode' was held constant at a value of 10
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were n.trees = 250, interaction.depth =
+ 5, shrinkage = 0.1 and n.minobsinnode = 10.
+[1] 0.01
+[1] 0.8303541
+[1] 0.5
+[1] 0.8738617
+[1] 0.002666667
+[1] 0.5
+[1] 0.00530504
+                      AUC_PR   AUC_ROC SENS      SPEC        PREC RECALL
+diff_datasets_ALL_0.9   0.01 0.8303541  0.5 0.8738617 0.002666667    0.5
+                              F1
+diff_datasets_ALL_0.9 0.00530504

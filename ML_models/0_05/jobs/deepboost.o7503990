@@ -1,0 +1,23 @@
+[1] "This is using deepboost and tunelength"
+[1] "2020-10-21 16:32:50 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-21 16:33:10 BST"
+[1] "just about to train"
+[1] "2020-10-21 16:33:10 BST"
++ Fold1: tree_depth=1, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
+- Fold1: tree_depth=1, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
++ Fold1: tree_depth=2, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
+- Fold1: tree_depth=2, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
++ Fold1: tree_depth=3, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
+- Fold1: tree_depth=3, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
++ Fold1: tree_depth=4, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
+- Fold1: tree_depth=4, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
++ Fold1: tree_depth=5, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
+- Fold1: tree_depth=5, num_iter= 50, beta=0.003906, lambda=0.01562, loss_type=l 
++ Fold1: tree_depth=1, num_iter=100, beta=0.003906, lambda=0.01562, loss_type=l 
+- Fold1: tree_depth=1, num_iter=100, beta=0.003906, lambda=0.01562, loss_type=l 
++ Fold1: tree_depth=2, num_iter=100, beta=0.003906, lambda=0.01562, loss_type=l 
+- Fold1: tree_depth=2, num_iter=100, beta=0.003906, lambda=0.01562, loss_type=l 
++ Fold1: tree_depth=3, num_iter=100, beta=0.003906, lambda=0.01562, loss_type=l 

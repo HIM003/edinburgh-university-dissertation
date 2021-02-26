@@ -1,0 +1,80 @@
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+[1] 14104654     1550
+[1] 14104654     1551
+
+  chr1  chr10  chr11  chr12  chr13  chr14  chr15  chr16  chr17  chr18  chr19 
+122495  52640  60480  60234  22181  36013  44145  52256  65581  18884  74700 
+  chr2  chr20  chr21  chr22   chr3   chr4   chr5   chr6   chr7   chr8   chr9 
+ 76372  28241  14717  35234  69145  49172  54305  84665  73645  40445  48428 
+
+   chr1   chr10   chr11   chr12   chr13   chr14   chr15   chr16   chr17   chr18 
+1022808  642995  630414  604862  462123  418935  380446  419054  365826  365068 
+  chr19    chr2   chr20   chr21   chr22    chr3    chr4    chr5    chr6    chr7 
+ 275235 1112630  294636  174927  176938  932194  923905  842267  815107  761596 
+   chr8    chr9 
+ 727117  571593 
+[1] 1
+[1] "here"
+[1] 2
+[1] "here"
+[1] 3
+[1] "here"
+[1] 4
+[1] "here"
+[1] 5
+[1] "here"
+[1] 6
+[1] "here"
+[1] 7
+[1] "here"
+[1] 8
+[1] "here"
+[1] 9
+[1] "here"
+[1] 10
+[1] "here"
+[1] 11
+[1] "here"
+[1] 12
+[1] "here"
+[1] 13
+[1] "here"
+[1] 14
+[1] "here"
+[1] 15
+[1] "here"
+[1] 16
+[1] "here"
+[1] 17
+[1] "here"
+[1] 18
+[1] "here"
+[1] 19
+[1] "here"
+[1] 20
+[1] "here"
+[1] 21
+[1] "here"
+[1] 22
+[1] "here"
+
+ chr1_Negative  chr1_Positive chr10_Negative chr10_Positive chr11_Negative 
+        122495         122495          52641          52640          60480 
+chr11_Positive chr12_Negative chr12_Positive chr13_Negative chr13_Positive 
+         60480          60234          60234          22181          22181 
+chr14_Negative chr14_Positive chr15_Negative chr15_Positive chr16_Negative 
+         36013          36013          44145          44145          52256 
+chr16_Positive chr17_Negative chr17_Positive chr18_Negative chr18_Positive 
+         52256          65581          65581          18884          18884 
+chr19_Negative chr19_Positive  chr2_Negative  chr2_Positive chr20_Negative 
+         74700          74700          76372          76372          28241 
+chr20_Positive chr21_Negative chr21_Positive chr22_Negative chr22_Positive 
+         28241          14717          14717          35234          35234 
+ chr3_Negative  chr3_Positive  chr4_Negative  chr4_Positive  chr5_Negative 
+         69145          69145          49172          49172          54306 
+ chr5_Positive  chr6_Negative  chr6_Positive  chr7_Negative  chr7_Positive 
+         54305          84665          84665          73645          73645 
+ chr8_Negative  chr8_Positive  chr9_Negative  chr9_Positive 
+         40445          40445          48428          48428 
+[1] 2367958    1551

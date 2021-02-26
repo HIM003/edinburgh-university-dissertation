@@ -1,0 +1,195 @@
+[1] "finished reading full dataset"
+[1] 44799999        3
+[1] 1215788       8
+
+      chr1      chr10      chr11      chr12      chr13      chr14      chr15 
+0.03522070 0.02429003 0.02793541 0.02911457 0.01414432 0.02544754 0.03462484 
+     chr16      chr17      chr18      chr19       chr2      chr20      chr21 
+0.03707429 0.05258147 0.01527227 0.07741737 0.02041756 0.02800995 0.02489269 
+     chr22       chr3       chr4       chr5       chr6       chr7       chr8 
+0.05804182 0.02197093 0.01579561 0.01922682 0.03092592 0.02861229 0.01648279 
+      chr9 
+0.02518240 
+
+     chr1     chr10     chr11     chr12     chr13     chr14     chr15     chr16 
+0.1999994 0.2002265 0.2000656 0.2001979 0.1999993 0.2004415 0.2001788 0.2001505 
+    chr17     chr18     chr19      chr2     chr20     chr21     chr22      chr3 
+0.1999980 0.1999995 0.1999999 0.2000523 0.2002805 0.2010864 0.2003367 0.2001154 
+     chr4      chr5      chr6      chr7      chr8      chr9 
+0.2000802 0.2002931 0.2000470 0.2001084 0.2001963 0.2002462 
+[1] "final distribution"
+             Var1  Freq
+1   chr1_Negative 34781
+2   chr1_Positive  1225
+3  chr10_Negative 21697
+4  chr10_Positive   527
+5  chr11_Negative 21658
+6  chr11_Positive   605
+7  chr12_Negative 20712
+8  chr12_Positive   603
+9  chr13_Negative 15696
+10 chr13_Positive   222
+11 chr14_Negative 14187
+12 chr14_Positive   361
+13 chr15_Negative 12766
+14 chr15_Positive   442
+15 chr16_Negative 14107
+16 chr16_Positive   523
+17 chr17_Negative 12476
+18 chr17_Positive   656
+19 chr18_Negative 12376
+20 chr18_Positive   189
+21 chr19_Negative  9649
+22 chr19_Positive   747
+23  chr2_Negative 37419
+24  chr2_Positive   764
+25 chr20_Negative 10104
+26 chr20_Positive   283
+27 chr21_Negative  5946
+28 chr21_Positive   148
+29 chr22_Negative  6082
+30 chr22_Positive   353
+31  chr3_Negative 31497
+32  chr3_Positive   692
+33  chr4_Negative 31148
+34  chr4_Positive   492
+35  chr5_Negative 28294
+36  chr5_Positive   544
+37  chr6_Negative 27389
+38  chr6_Positive   847
+39  chr7_Negative 25759
+40  chr7_Positive   737
+41  chr8_Negative 24572
+42  chr8_Positive   405
+43  chr9_Negative 19260
+44  chr9_Positive   485
+[1] "finished reading full dataset"
+[1] 44799999        3
+[1] 133436      8
+
+       chr1       chr10       chr11       chr12       chr13       chr14 
+0.003495028 0.002377700 0.003206600 0.002714315 0.001320883 0.002701279 
+      chr15       chr16       chr17       chr18       chr19        chr2 
+0.004278096 0.006042193 0.007184294 0.001438232 0.010960770 0.002165324 
+      chr20       chr21       chr22        chr3        chr4        chr5 
+0.003239773 0.004854514 0.008705236 0.001944845 0.001283289 0.002073322 
+       chr6        chr7        chr8        chr9 
+0.001989971 0.002793760 0.001678003 0.003404424 
+
+     chr1     chr10     chr11     chr12     chr13     chr14     chr15     chr16 
+0.2003310 0.2015489 0.2022787 0.2014116 0.2019211 0.2020715 0.1999974 0.2018554 
+    chr17     chr18     chr19      chr2     chr20     chr21     chr22      chr3 
+0.2017933 0.1999995 0.2003685 0.2014738 0.2048159 0.2013829 0.2015189 0.2019534 
+     chr4      chr5      chr6      chr7      chr8      chr9 
+0.1999994 0.1999987 0.2028978 0.2016567 0.2019228 0.2024534 
+[1] "final distribution"
+             Var1  Freq
+1   chr1_Negative 34621
+2   chr1_Positive   121
+3  chr10_Negative 21870
+4  chr10_Positive    52
+5  chr11_Negative 22142
+6  chr11_Positive    71
+7  chr12_Negative 21000
+8  chr12_Positive    57
+9  chr13_Negative 15899
+10 chr13_Positive    21
+11 chr14_Negative 14438
+12 chr14_Positive    39
+13 chr15_Negative 12623
+14 chr15_Positive    54
+15 chr16_Negative 14399
+16 chr16_Positive    87
+17 chr17_Negative 12528
+18 chr17_Positive    90
+19 chr18_Negative 12516
+20 chr18_Positive    18
+21 chr19_Negative  9854
+22 chr19_Positive   108
+23  chr2_Negative 37870
+24  chr2_Positive    82
+25 chr20_Negative 10495
+26 chr20_Positive    34
+27 chr21_Negative  5974
+28 chr21_Positive    29
+29 chr22_Negative  6089
+30 chr22_Positive    53
+31  chr3_Negative 31880
+32  chr3_Positive    62
+33  chr4_Negative 31170
+34  chr4_Positive    40
+35  chr5_Negative 27975
+36  chr5_Positive    58
+37  chr6_Negative 28142
+38  chr6_Positive    56
+39  chr7_Negative 26130
+40  chr7_Positive    73
+41  chr8_Negative 25030
+42  chr8_Positive    42
+43  chr9_Negative 19387
+44  chr9_Positive    66
+[1] "finished reading full dataset"
+[1] 44799999        3
+[1] 26887     8
+
+        chr1        chr10        chr11        chr12        chr13        chr14 
+0.0006795115 0.0004605617 0.0006000231 0.0005861900 0.0002156415 0.0004749045 
+       chr15        chr16        chr17        chr18        chr19         chr2 
+0.0007673749 0.0015177331 0.0014698164 0.0003138682 0.0024144977 0.0004391857 
+       chr20        chr21        chr22         chr3         chr4         chr5 
+0.0006243363 0.0014098041 0.0017257356 0.0002981535 0.0002307960 0.0003694758 
+        chr6         chr7         chr8         chr9 
+0.0003752782 0.0005352744 0.0003352011 0.0007907835 
+
+     chr1     chr10     chr11     chr12     chr13     chr14     chr15     chr16 
+0.2051276 0.2156850 0.2121207 0.2096769 0.2352928 0.1999974 0.1999975 0.1999986 
+    chr17     chr18     chr19      chr2     chr20     chr21     chr22      chr3 
+0.2065212 0.1999969 0.1999991 0.2023799 0.2121177 0.2142812 0.2115320 0.2083332 
+     chr4      chr5      chr6      chr7      chr8      chr9 
+0.2162159 0.2115384 0.2075465 0.1999986 0.2142856 0.2077917 
+[1] "final distribution"
+             Var1  Freq
+1   chr1_Negative 35320
+2   chr1_Positive    24
+3  chr10_Negative 23884
+4  chr10_Positive    11
+5  chr11_Negative 23333
+6  chr11_Positive    14
+7  chr12_Negative 22178
+8  chr12_Positive    13
+9  chr13_Negative 18550
+10 chr13_Positive     4
+11 chr14_Negative 14740
+12 chr14_Positive     7
+13 chr15_Negative 13032
+14 chr15_Positive    10
+15 chr16_Negative 14496
+16 chr16_Positive    22
+17 chr17_Negative 12927
+18 chr17_Positive    19
+19 chr18_Negative 12745
+20 chr18_Positive     4
+21 chr19_Negative  9940
+22 chr19_Positive    24
+23  chr2_Negative 38708
+24  chr2_Positive    17
+25 chr20_Negative 11212
+26 chr20_Positive     7
+27 chr21_Negative  6384
+28 chr21_Positive     9
+29 chr22_Negative  6375
+30 chr22_Positive    11
+31  chr3_Negative 33540
+32  chr3_Positive    10
+33  chr4_Negative 34663
+34  chr4_Positive     8
+35  chr5_Negative 29772
+36  chr5_Positive    11
+37  chr6_Negative 29312
+38  chr6_Positive    11
+39  chr7_Negative 26155
+40  chr7_Positive    14
+41  chr8_Negative 26850
+42  chr8_Positive     9
+43  chr9_Negative 20234
+44  chr9_Positive    16

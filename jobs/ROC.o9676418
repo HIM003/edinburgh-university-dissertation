@@ -1,0 +1,4 @@
+[1] "reading full dataset"
+Avoidable 38.714 seconds. This file is very unusual: it ends abruptly without a final newline, and also its size is a multiple of 4096 bytes. Please properly end the last row with a newline using for example 'echo >> file' to avoid this  time to copy.
+[1] "finished reading full dataset"
+[1] 3733182    1550

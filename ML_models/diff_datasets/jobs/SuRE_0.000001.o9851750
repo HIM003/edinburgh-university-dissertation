@@ -1,0 +1,42 @@
+[1] "2021-02-11 21:26:35 GMT"
+[1] "2021-02-11 21:31:35 GMT"
+46.6 GB
+68.6 GB
+[1] "2021-02-11 21:32:11 GMT"
+[1] "just about to train"
+[1] "2021-02-11 21:32:11 GMT"
++ Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
++ Fold3: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+- Fold3: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+Aggregating results
+Selecting tuning parameters
+Fitting n.trees = 200, interaction.depth = 1, shrinkage = 0.1, n.minobsinnode = 10 on full training set
+[1] "just about to save"
+[1] "2021-02-11 23:08:20 GMT"

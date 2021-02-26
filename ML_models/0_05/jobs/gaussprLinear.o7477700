@@ -1,0 +1,30 @@
+[1] "This is using gaussprLinear and tunelength"
+[1] "2020-10-18 07:16:12 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-18 07:16:34 BST"
+[1] "just about to train"
+[1] "2020-10-18 07:16:34 BST"
++ Fold1: parameter=none 
+model fit failed for Fold1: parameter=none Error in if (err < tol) break : missing value where TRUE/FALSE needed
+ 
+- Fold1: parameter=none 
++ Fold2: parameter=none 
+model fit failed for Fold2: parameter=none Error in if (err < tol) break : missing value where TRUE/FALSE needed
+ 
+- Fold2: parameter=none 
++ Fold3: parameter=none 
+model fit failed for Fold3: parameter=none Error in if (err < tol) break : missing value where TRUE/FALSE needed
+ 
+- Fold3: parameter=none 
+Aggregating results
+Something is wrong; all the ROC metric values are missing:
+      ROC           Sens          Spec    
+ Min.   : NA   Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA   Max.   : NA  
+ NA's   :1     NA's   :1     NA's   :1    

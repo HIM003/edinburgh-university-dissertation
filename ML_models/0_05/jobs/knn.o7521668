@@ -1,0 +1,43 @@
+[1] "This is using knn and tunelength"
+[1] "2020-10-23 14:34:41 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-23 14:34:52 BST"
+[1] "just about to train"
+[1] "2020-10-23 14:34:52 BST"
++ Fold1: k= 5 
+- Fold1: k= 5 
++ Fold1: k= 7 
+- Fold1: k= 7 
++ Fold1: k= 9 
+- Fold1: k= 9 
++ Fold1: k=11 
+- Fold1: k=11 
++ Fold1: k=13 
+- Fold1: k=13 
++ Fold2: k= 5 
+- Fold2: k= 5 
++ Fold2: k= 7 
+- Fold2: k= 7 
++ Fold2: k= 9 
+- Fold2: k= 9 
++ Fold2: k=11 
+- Fold2: k=11 
++ Fold2: k=13 
+- Fold2: k=13 
++ Fold3: k= 5 
+- Fold3: k= 5 
++ Fold3: k= 7 
+- Fold3: k= 7 
++ Fold3: k= 9 
+- Fold3: k= 9 
++ Fold3: k=11 
+- Fold3: k=11 
++ Fold3: k=13 
+- Fold3: k=13 
+Aggregating results
+Selecting tuning parameters
+Fitting k = 13 on full training set
+[1] "just about to save"
+[1] "2020-10-25 01:28:19 BST"

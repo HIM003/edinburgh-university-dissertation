@@ -1,0 +1,18 @@
+[1] "This is using lda2 and tunelength"
+[1] "2020-10-18 11:28:18 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-18 11:28:29 BST"
+[1] "just about to train"
+[1] "2020-10-18 11:28:29 BST"
++ Fold1: dimen=1 
+- Fold1: dimen=1 
++ Fold2: dimen=1 
+- Fold2: dimen=1 
++ Fold3: dimen=1 
+- Fold3: dimen=1 
+Aggregating results
+Fitting final model on full training set
+[1] "just about to save"
+[1] "2020-10-18 12:08:47 BST"

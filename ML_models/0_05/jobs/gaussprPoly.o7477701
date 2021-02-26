@@ -1,0 +1,9 @@
+[1] "This is using gaussprPoly and tunelength"
+[1] "2020-10-18 07:16:12 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-18 07:16:34 BST"
+[1] "just about to train"
+[1] "2020-10-18 07:16:34 BST"
++ Fold1: degree=1, scale=1e-03 

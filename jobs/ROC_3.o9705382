@@ -1,0 +1,22 @@
+
+Negative Positive 
+  213166   213166 
+    Negative  Positive      obs     pred
+1 0.43824854 0.5617515 Negative Positive
+2 0.59893267 0.4010673 Negative Negative
+3 0.44123554 0.5587645 Negative Positive
+4 0.45500935 0.5449907 Negative Positive
+5 0.02695596 0.9730440 Negative Positive
+6 0.12348922 0.8765108 Negative Positive
+[1] "Negative" "Positive"
+[1] NA
+[1] 0.8949361
+[1] 0.7946577
+[1] 0.8278712
+[1] 0.8219578
+[1] 0.7946577
+[1] 0.8080772
+         AUC_PR_Eval AUC_ROC_Eval AUC_PR   AUC_ROC      SENS      SPEC
+dapg_0.1        0.89         0.89     NA 0.8949361 0.7946577 0.8278712
+              PREC    RECALL        F1
+dapg_0.1 0.8219578 0.7946577 0.8080772

@@ -1,0 +1,32 @@
+[1] "This is using ordinalRF and tunelength"
+[1] "2020-10-17 08:43:46 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-17 08:53:47 BST"
+[1] "just about to train"
+[1] "2020-10-17 08:53:47 BST"
++ Fold1: nsets= 50, ntreeperdiv= 50, ntreefinal= 200 
+Growing trees.. Progress: 2%. Estimated remaining time: 14 hours, 42 minutes, 49 seconds.
+Growing trees.. Progress: 8%. Estimated remaining time: 3 hours, 33 minutes, 19 seconds.
+Growing trees.. Progress: 24%. Estimated remaining time: 1 hour, 0 minutes, 48 seconds.
+Growing trees.. Progress: 30%. Estimated remaining time: 46 minutes, 35 seconds.
+Growing trees.. Progress: 34%. Estimated remaining time: 1 hour, 4 minutes, 52 seconds.
+Growing trees.. Progress: 36%. Estimated remaining time: 1 hour, 0 minutes, 44 seconds.
+Growing trees.. Progress: 38%. Estimated remaining time: 57 minutes, 14 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 45 minutes, 59 seconds.
+Growing trees.. Progress: 52%. Estimated remaining time: 35 minutes, 2 seconds.
+Growing trees.. Progress: 54%. Estimated remaining time: 33 minutes, 22 seconds.
+Growing trees.. Progress: 60%. Estimated remaining time: 26 minutes, 56 seconds.
+Growing trees.. Progress: 64%. Estimated remaining time: 23 minutes, 22 seconds.
+Growing trees.. Progress: 66%. Estimated remaining time: 26 minutes, 52 seconds.
+Growing trees.. Progress: 68%. Estimated remaining time: 24 minutes, 49 seconds.
+Growing trees.. Progress: 70%. Estimated remaining time: 22 minutes, 54 seconds.
+Growing trees.. Progress: 80%. Estimated remaining time: 13 minutes, 32 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 8 minutes, 57 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 3 minutes, 35 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 1 minute, 12 seconds.
+model fit failed for Fold1: nsets= 50, ntreeperdiv= 50, ntreefinal= 200 Error in loadNamespace(name) : there is no package called ‘verification’
+ 
+- Fold1: nsets= 50, ntreeperdiv= 50, ntreefinal= 200 
++ Fold1: nsets=100, ntreeperdiv= 50, ntreefinal= 200 

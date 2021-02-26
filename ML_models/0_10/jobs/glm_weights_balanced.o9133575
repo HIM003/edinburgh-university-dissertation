@@ -1,0 +1,21 @@
+[1] "This is using the tunelength"
+[1] "2020-12-28 08:32:47 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+
+Negative Positive 
+  350060     9480 
+11.9 GB
+[1] "2020-12-28 08:34:23 GMT"
+[1] "just about to train"
+[1] "2020-12-28 08:34:23 GMT"
++ Fold1: parameter=none 
+- Fold1: parameter=none 
++ Fold2: parameter=none 
+- Fold2: parameter=none 
++ Fold3: parameter=none 
+- Fold3: parameter=none 
+Aggregating results
+Fitting final model on full training set
+[1] "just about to save"
+[1] "2020-12-29 07:58:05 GMT"

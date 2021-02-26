@@ -1,0 +1,27 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos_0_05.csv.gz"
+Bagged FDA using gCV Pruning 
+
+50783 samples
+ 1541 predictor
+    2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 33855, 33856, 33855 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens       Spec     
+  0.8155607  0.7060146  0.7806081
+
+Tuning parameter 'degree' was held constant at a value of 1
+[1] 0.09
+[1] 0.80767
+[1] 0.7771429
+[1] 0.7049358
+[1] 0.06656877
+[1] 0.7771429
+[1] 0.122633
+               AUC_PR AUC_ROC      SENS      SPEC       PREC    RECALL       F1
+0.05_bagFDAGCV   0.09 0.80767 0.7771429 0.7049358 0.06656877 0.7771429 0.122633

@@ -1,0 +1,13 @@
+[1] "This is using bagEarth and tunelength"
+[1] "2020-10-21 08:02:10 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-21 08:07:54 BST"
+[1] "just about to train"
+[1] "2020-10-21 08:07:54 BST"
++ Fold1: degree=1, nprune=17 
+model fit failed for Fold1: degree=1, nprune=17 Error : cannot allocate vector of size 7.6 Gb
+ 
+- Fold1: degree=1, nprune=17 
++ Fold2: degree=1, nprune=17 

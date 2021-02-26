@@ -1,0 +1,18 @@
+[1] "This is using bagFDAGCV and tunelength"
+[1] "2020-11-14 07:28:59 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+8.13 GB
+[1] "2020-11-14 07:35:03 GMT"
+[1] "just about to train"
+[1] "2020-11-14 07:35:03 GMT"
++ Fold1: degree=1 
+- Fold1: degree=1 
++ Fold2: degree=1 
+- Fold2: degree=1 
++ Fold3: degree=1 
+- Fold3: degree=1 
+Aggregating results
+Fitting final model on full training set
+[1] "just about to save"
+[1] "2020-11-15 22:17:23 GMT"

@@ -1,0 +1,1515 @@
+[[1]]
+[1] "."                       "A549_EP300_dist.csv.zip"
+
+[1] "./A549_EP300_dist.csv.zip"
+[1] 1
+[1] "./A549_EP300_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801491  149.7  110527886 5902.9  49386827 2637.6
+Vcells 159410674 1216.3  443958946 3387.2 462390569 3527.8
+[[1]]
+[1] "."                       "A549_KDM1A_dist.csv.zip"
+
+[1] "./A549_KDM1A_dist.csv.zip"
+[1] 2
+[1] "./A549_KDM1A_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   88422309 4722.3  49386827 2637.6
+Vcells 283260681 2161.2  663299537 5060.6 552682948 4216.7
+[[1]]
+[1] "."                       "A549_KDM5A_dist.csv.zip"
+
+[1] "./A549_KDM5A_dist.csv.zip"
+[1] 3
+[1] "./A549_KDM5A_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   70737848 3777.9  49386827 2637.6
+Vcells 401530077 3063.5  805221612 6143.4 670951344 5119.0
+[[1]]
+[1] "."                         "A673_H3K4me1_dist.csv.zip"
+
+[1] "./A673_H3K4me1_dist.csv.zip"
+[1] 4
+[1] "./A673_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   56590279 3022.3  49386827 2637.6
+Vcells 524488032 4001.6  805221612 6143.4 793909483 6057.1
+[[1]]
+[1] "."                         "A673_H3K4me3_dist.csv.zip"
+
+[1] "./A673_H3K4me3_dist.csv.zip"
+[1] 5
+[1] "./A673_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   56423828 3013.4  49386827 2637.6
+Vcells 634123131 4838.0 1084334480 8272.9 903545400 6893.6
+[[1]]
+[1] "."                             "astrocyte_DNase1_dist.csv.zip"
+
+[1] "./astrocyte_DNase1_dist.csv.zip"
+[1] 6
+[1] "./astrocyte_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801517  149.7   56423794  3013.4   53985134 2883.2
+Vcells 748174275 5708.2 1400573616 10685.6 1167078014 8904.1
+[[1]]
+[1] "."                           "astrocyte_EZH2_dist.csv.zip"
+
+[1] "./astrocyte_EZH2_dist.csv.zip"
+[1] 7
+[1] "./astrocyte_EZH2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801517  149.7   45139036  2410.7   54253521 2897.5
+Vcells 855276672 6525.3 1400573616 10685.6 1282887742 9787.7
+[[1]]
+[1] "."                              "astrocyte_H3K9me3_dist.csv.zip"
+
+[1] "./astrocyte_H3K9me3_dist.csv.zip"
+[1] 8
+[1] "./astrocyte_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells   2801517  149.7   56423794  3013.4   54253521  2897.5
+Vcells 970707137 7406.0 1680768339 12823.3 1386548233 10578.6
+[[1]]
+[1] "."                               "astrocyte_H4K20me1_dist.csv.zip"
+
+[1] "./astrocyte_H4K20me1_dist.csv.zip"
+[1] 9
+[1] "./astrocyte_H4K20me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   45139036  2410.7   54253521  2897.5
+Vcells 1085785058 8283.9 1680768339 12823.3 1503776993 11473.0
+[[1]]
+[1] "."                         "B_PB_H3K27ac_dist.csv.zip"
+
+[1] "./B_PB_H3K27ac_dist.csv.zip"
+[1] 10
+[1] "./B_PB_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   56423794  3013.4   54253521  2897.5
+Vcells 1203258815 9180.2 2017002006 15388.6 1623923190 12389.6
+[[1]]
+[1] "."                                   
+[2] "cardiac_muscle_H3K27me3_dist.csv.zip"
+
+[1] "./cardiac_muscle_H3K27me3_dist.csv.zip"
+[1] 11
+[1] "./cardiac_muscle_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54253521  2897.5
+Vcells 1319790596 10069.3 2017002006 15388.6 1740752031 13280.9
+[[1]]
+[1] "."                                "CD4_ab_T_CB_H3K9me3_dist.csv.zip"
+
+[1] "./CD4_ab_T_CB_H3K9me3_dist.csv.zip"
+[1] 12
+[1] "./CD4_ab_T_CB_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54253521  2897.5
+Vcells 1437254123 10965.4 2420482407 18466.9 1849413670 14110.0
+[[1]]
+[1] "."                              "CD4_ab_T_H3K36me3_dist.csv.zip"
+
+[1] "./CD4_ab_T_H3K36me3_dist.csv.zip"
+[1] 13
+[1] "./CD4_ab_T_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54253521  2897.5
+Vcells 1557130379 11880.0 2420482407 18466.9 1978781639 15097.0
+[[1]]
+[1] "."                                 "CD4_ab_T_Th_H3K36me3_dist.csv.zip"
+
+[1] "./CD4_ab_T_Th_H3K36me3_dist.csv.zip"
+[1] 14
+[1] "./CD4_ab_T_Th_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54253521  2897.5
+Vcells 1678285784 12804.4 2904658888 22160.8 2101513141 16033.3
+[[1]]
+[1] "."                               "CMP_CD4_1_H3K36me3_dist.csv.zip"
+
+[1] "./CMP_CD4_1_H3K36me3_dist.csv.zip"
+[1] 15
+[1] "./CMP_CD4_1_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54253521  2897.5
+Vcells 1802902397 13755.1 2904658888 22160.8 2220584990 16941.8
+[[1]]
+[1] "."                              "CMP_CD4_1_H3K9me3_dist.csv.zip"
+
+[1] "./CMP_CD4_1_H3K9me3_dist.csv.zip"
+[1] 16
+[1] "./CMP_CD4_1_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54253521  2897.5
+Vcells 1922502245 14667.6 3485670665 26593.6 2335461389 17818.2
+[[1]]
+[1] "."                                     
+[2] "dermal_fibroblast_H3K4me3_dist.csv.zip"
+
+[1] "./dermal_fibroblast_H3K4me3_dist.csv.zip"
+[1] 17
+[1] "./dermal_fibroblast_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54253521  2897.5
+Vcells 2032173206 15504.3 3485670665 26593.6 2454311953 18725.0
+[[1]]
+[1] "."                           "DND_41_H3K27ac_dist.csv.zip"
+
+[1] "./DND_41_H3K27ac_dist.csv.zip"
+[1] 18
+[1] "./DND_41_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801493   149.7   43262885  2310.5   54253521  2897.5
+Vcells 2151647180 16415.8 3485670665 26593.6 2573586665 19635.0
+[[1]]
+[1] "."                            "DND_41_H3K36me3_dist.csv.zip"
+
+[1] "./DND_41_H3K36me3_dist.csv.zip"
+[1] 19
+[1] "./DND_41_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43139914  2304.0   54253521  2897.5
+Vcells 2269216403 17312.8 3485670665 26593.6 2686166737 20493.9
+[[1]]
+[1] "."                                   
+[2] "EM_CD8_ab_T_VB_H3K27me3_dist.csv.zip"
+
+[1] "./EM_CD8_ab_T_VB_H3K27me3_dist.csv.zip"
+[1] 20
+[1] "./EM_CD8_ab_T_VB_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54253521  2897.5
+Vcells 2401028267 18318.4 4182884798 31912.9 2820310932 21517.3
+[[1]]
+[1] "."                                      
+[2] "endocrine_pancreas_H3K4me3_dist.csv.zip"
+
+[1] "./endocrine_pancreas_H3K4me3_dist.csv.zip"
+[1] 21
+[1] "./endocrine_pancreas_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54253521  2897.5
+Vcells 2514348224 19183.0 4182884798 31912.9 2934250579 22386.6
+[[1]]
+[1] "."                               "endodermal_H3K9me3_dist.csv.zip"
+
+[1] "./endodermal_H3K9me3_dist.csv.zip"
+[1] 22
+[1] "./endodermal_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43009495  2297.0   54253521  2897.5
+Vcells 2646088079 20188.1 4182884798 31912.9 3057738042 23328.7
+[[1]]
+[1] "."                                  "eosinophil_VB_H3K9me3_dist.csv.zip"
+
+[1] "./eosinophil_VB_H3K9me3_dist.csv.zip"
+[1] 23
+[1] "./eosinophil_VB_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43071268  2300.3   54253521  2897.5
+Vcells 2761054256 21065.2 4182884798 31912.9 3175210030 24225.0
+[[1]]
+[1] "."                           "EPC_VB_H3K27ac_dist.csv.zip"
+
+[1] "./EPC_VB_H3K27ac_dist.csv.zip"
+[1] 24
+[1] "./EPC_VB_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801493   149.7   43192781  2306.8   54253521  2897.5
+Vcells 2875291919 21936.8 4182884798 31912.9 3294383134 25134.2
+[[1]]
+[1] "."                                          
+[2] "foreskin_fibroblast_1_H3K36me3_dist.csv.zip"
+
+[1] "./foreskin_fibroblast_1_H3K36me3_dist.csv.zip"
+[1] 25
+[1] "./foreskin_fibroblast_1_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54253521  2897.5
+Vcells 3010044800 22964.9 5019541757 38296.1 3421880177 26106.9
+[[1]]
+[1] "."                                         
+[2] "foreskin_fibroblast_1_H3K4me3_dist.csv.zip"
+
+[1] "./foreskin_fibroblast_1_H3K4me3_dist.csv.zip"
+[1] 26
+[1] "./foreskin_fibroblast_1_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54253521  2897.5
+Vcells 3147954965 24017.0 5019541757 38296.1 3560771757 27166.6
+[[1]]
+[1] "."                                         
+[2] "foreskin_fibroblast_2_H3K9me3_dist.csv.zip"
+
+[1] "./foreskin_fibroblast_2_H3K9me3_dist.csv.zip"
+[1] 27
+[1] "./foreskin_fibroblast_2_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43006854  2296.9   54253521  2897.5
+Vcells 3274139309 24979.8 5019541757 38296.1 3685679460 28119.6
+[[1]]
+[1] "."                                            
+[2] "foreskin_keratinocyte_2_H3K27me3_dist.csv.zip"
+
+[1] "./foreskin_keratinocyte_2_H3K27me3_dist.csv.zip"
+[1] 28
+[1] "./foreskin_keratinocyte_2_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43001976  2296.6   54253521  2897.5
+Vcells 3409666613 26013.7 5019541757 38296.1 3821011027 29152.1
+[[1]]
+[1] "."                                           
+[2] "foreskin_keratinocyte_2_H3K4me3_dist.csv.zip"
+
+[1] "./foreskin_keratinocyte_2_H3K4me3_dist.csv.zip"
+[1] 29
+[1] "./foreskin_keratinocyte_2_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43203144  2307.3   54253521  2897.5
+Vcells 3525212108 26895.3 6023530108 45955.9 3944723294 30095.9
+[[1]]
+[1] "."                                          
+[2] "foreskin_melanocyte_2_H3K27me3_dist.csv.zip"
+
+[1] "./foreskin_melanocyte_2_H3K27me3_dist.csv.zip"
+[1] 30
+[1] "./foreskin_melanocyte_2_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43047087  2299.0   54253521  2897.5
+Vcells 3664210709 27955.8 6023530108 45955.9 4077387304 31108.0
+[[1]]
+[1] "."                          "GM12878_CREB1_dist.csv.zip"
+
+[1] "./GM12878_CREB1_dist.csv.zip"
+[1] 31
+[1] "./GM12878_CREB1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43255164  2310.1   54253521  2897.5
+Vcells 3785898710 28884.2 6023530108 45955.9 4207524793 32100.9
+[[1]]
+[1] "."                          "GM12878_GABPA_dist.csv.zip"
+
+[1] "./GM12878_GABPA_dist.csv.zip"
+[1] 32
+[1] "./GM12878_GABPA_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43287269  2311.8   54253521  2897.5
+Vcells 3905487119 29796.6 6023530108 45955.9 4328414110 33023.2
+[[1]]
+[1] "."                         "GM12878_IRF5_dist.csv.zip"
+
+[1] "./GM12878_IRF5_dist.csv.zip"
+[1] 33
+[1] "./GM12878_IRF5_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43412644  2318.5   54265804  2898.2
+Vcells 4033560686 30773.7 6023530108 45955.9 4461581668 34039.2
+[[1]]
+[1] "."                         "GM12878_MAFK_dist.csv.zip"
+
+[1] "./GM12878_MAFK_dist.csv.zip"
+[1] 34
+[1] "./GM12878_MAFK_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43336850  2314.5   54265804  2898.2
+Vcells 4158555062 31727.3 6023530108 45955.9 4583500028 34969.4
+[[1]]
+[1] "."                        "GM12878_MYC_dist.csv.zip"
+
+[1] "./GM12878_MYC_dist.csv.zip"
+[1] 35
+[1] "./GM12878_MYC_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43419552  2318.9   54274440  2898.6
+Vcells 4289271038 32724.6 7228316129 55147.7 4717577132 35992.3
+[[1]]
+[1] "."                           "GM12878_POU2F2_dist.csv.zip"
+
+[1] "./GM12878_POU2F2_dist.csv.zip"
+[1] 36
+[1] "./GM12878_POU2F2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801493   149.7   43266136  2310.7   54274440  2898.6
+Vcells 4410697562 33651.0 7228316129 55147.7 4832769407 36871.2
+[[1]]
+[1] "."                           "GM12878_SREBF1_dist.csv.zip"
+
+[1] "./GM12878_SREBF1_dist.csv.zip"
+[1] 37
+[1] "./GM12878_SREBF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43366076  2316.0   54274440  2898.6
+Vcells 4537582208 34619.1 7228316129 55147.7 4963718892 37870.2
+[[1]]
+[1] "."                          "GM12878_STAT1_dist.csv.zip"
+
+[1] "./GM12878_STAT1_dist.csv.zip"
+[1] 38
+[1] "./GM12878_STAT1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43314701  2313.3   54274440  2898.6
+Vcells 4664433170 35586.9 7228316129 55147.7 5088475067 38822.0
+[[1]]
+[1] "."                         "GM12878_TAF1_dist.csv.zip"
+
+[1] "./GM12878_TAF1_dist.csv.zip"
+[1] 39
+[1] "./GM12878_TAF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43317952  2313.5   54274440  2898.6
+Vcells 4789460540 36540.7 7228316129 55147.7 5213636896 39776.9
+[[1]]
+[1] "."                          "GM12878_TBX21_dist.csv.zip"
+
+[1] "./GM12878_TBX21_dist.csv.zip"
+[1] 40
+[1] "./GM12878_TBX21_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43270607  2310.9   54274440  2898.6
+Vcells 4895403674 37349.0 7228316129 55147.7 5317659504 40570.6
+[[1]]
+[1] "."                         "GM12878_ZEB1_dist.csv.zip"
+
+[1] "./GM12878_ZEB1_dist.csv.zip"
+[1] 41
+[1] "./GM12878_ZEB1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801491  149.7  110527886 5902.9  49386827 2637.6
+Vcells 163998413 1251.3  448363178 3420.8 466978310 3562.8
+[[1]]
+[1] "."                         "GM12892_TAF1_dist.csv.zip"
+
+[1] "./GM12892_TAF1_dist.csv.zip"
+[1] 42
+[1] "./GM12892_TAF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   88422309 4722.3  49386827 2637.6
+Vcells 286974802 2189.5  667756485 5094.6 556397071 4245.0
+[[1]]
+[1] "."                         "GM19193_NFKB_dist.csv.zip"
+
+[1] "./GM19193_NFKB_dist.csv.zip"
+[1] 43
+[1] "./GM19193_NFKB_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   70737848 3777.9  49386827 2637.6
+Vcells 405247438 3091.8  809682448 6177.4 674668707 5147.4
+[[1]]
+[1] "."                             "H1_hESC_2_H3K4ac_dist.csv.zip"
+
+[1] "./H1_hESC_2_H3K4ac_dist.csv.zip"
+[1] 44
+[1] "./H1_hESC_2_H3K4ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   56590279 3022.3  49386827 2637.6
+Vcells 528094666 4029.1  809682448 6177.4 797516121 6084.6
+[[1]]
+[1] "."                             "H1_hESC_3_DNase1_dist.csv.zip"
+
+[1] "./H1_hESC_3_DNase1_dist.csv.zip"
+[1] 45
+[1] "./H1_hESC_3_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   56423828 3013.4  49386827 2637.6
+Vcells 651740650 4972.4 1105475507 8434.2 921162923 7028.0
+[[1]]
+[1] "."                            "H1_hESC_3_GABPA_dist.csv.zip"
+
+[1] "./H1_hESC_3_GABPA_dist.csv.zip"
+[1] 46
+[1] "./H1_hESC_3_GABPA_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801517  149.7   56423794  3013.4   54191128 2894.2
+Vcells 777539449 5932.2 1443847197 11015.7 1203139331 9179.3
+[[1]]
+[1] "."                              "H1_hESC_3_H3K27ac_dist.csv.zip"
+
+[1] "./H1_hESC_3_H3K27ac_dist.csv.zip"
+[1] 47
+[1] "./H1_hESC_3_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells   2801517  149.7   45139036  2410.7   54191128  2894.2
+Vcells 893641810 6818.0 1443847197 11015.7 1318781297 10061.6
+[[1]]
+[1] "."                              "H1_hESC_3_H3K4me1_dist.csv.zip"
+
+[1] "./H1_hESC_3_H3K4me1_dist.csv.zip"
+[1] 48
+[1] "./H1_hESC_3_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   56423794  3013.4   54191128  2894.2
+Vcells 1003269192 7654.4 1732696636 13219.5 1419605544 10830.8
+[[1]]
+[1] "."                            "H1_hESC_3_Rad21_dist.csv.zip"
+
+[1] "./H1_hESC_3_Rad21_dist.csv.zip"
+[1] 49
+[1] "./H1_hESC_3_Rad21_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   45139036  2410.7   54191128  2894.2
+Vcells 1129715853 8619.1 1732696636 13219.5 1547277021 11804.8
+[[1]]
+[1] "."                           "H1_hESC_3_RXRA_dist.csv.zip"
+
+[1] "./H1_hESC_3_RXRA_dist.csv.zip"
+[1] 50
+[1] "./H1_hESC_3_RXRA_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   56423794  3013.4   54349370  2902.6
+Vcells 1263529644 9640.0 2079315963 15864.0 1694271369 12926.3
+[[1]]
+[1] "."                           "H1_hESC_3_TAF1_dist.csv.zip"
+
+[1] "./H1_hESC_3_TAF1_dist.csv.zip"
+[1] 51
+[1] "./H1_hESC_3_TAF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54349370  2902.6
+Vcells 1381070553 10536.8 2079315963 15864.0 1803001736 13755.9
+[[1]]
+[1] "."                           "H9_1_H2BK120ac_dist.csv.zip"
+
+[1] "./H9_1_H2BK120ac_dist.csv.zip"
+[1] 52
+[1] "./H9_1_H2BK120ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54349370  2902.6
+Vcells 1494494580 11402.1 2495259155 19037.4 1906006283 14541.7
+[[1]]
+[1] "."                         "H9_1_H3K4me1_dist.csv.zip"
+
+[1] "./H9_1_H3K4me1_dist.csv.zip"
+[1] 53
+[1] "./H9_1_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54349370  2902.6
+Vcells 1599614010 12204.1 2495259155 19037.4 2014144940 15366.8
+[[1]]
+[1] "."                        "HCT116_USF1_dist.csv.zip"
+
+[1] "./HCT116_USF1_dist.csv.zip"
+[1] 54
+[1] "./HCT116_USF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54349370  2902.6
+Vcells 1722633318 13142.7 2994390986 22845.4 2146067134 16373.2
+[[1]]
+[1] "."                         "HeLa_S3_EZH2_dist.csv.zip"
+
+[1] "./HeLa_S3_EZH2_dist.csv.zip"
+[1] 55
+[1] "./HeLa_S3_EZH2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   45139036  2410.7   54349370  2902.6
+Vcells 1722633345 13142.7 2994390986 22845.4 2146067134 16373.2
+[[1]]
+[1] "."                             "HeLa_S3_H3K27me3_dist.csv.zip"
+
+[1] "./HeLa_S3_H3K27me3_dist.csv.zip"
+[1] 56
+[1] "./HeLa_S3_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43117000  2302.7   54349370  2902.6
+Vcells 1861716615 14203.8 2994390986 22845.4 2277734870 17377.8
+[[1]]
+[1] "."                         "HeLa_S3_MAFK_dist.csv.zip"
+
+[1] "./HeLa_S3_MAFK_dist.csv.zip"
+[1] 57
+[1] "./HeLa_S3_MAFK_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   56423831  3013.4   54349370  2902.6
+Vcells 1976094102 15076.5 3593349183 27415.1 2398535243 18299.4
+[[1]]
+[1] "."                         "HeLa_S3_RFX5_dist.csv.zip"
+
+[1] "./HeLa_S3_RFX5_dist.csv.zip"
+[1] 58
+[1] "./HeLa_S3_RFX5_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   45139065  2410.7   54349370  2902.6
+Vcells 2095534068 15987.7 3593349183 27415.1 2518353598 19213.6
+[[1]]
+[1] "."                         "HeLa_S3_TAF1_dist.csv.zip"
+
+[1] "./HeLa_S3_TAF1_dist.csv.zip"
+[1] 59
+[1] "./HeLa_S3_TAF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43317559  2313.5   54349370  2902.6
+Vcells 2205474324 16826.5 3593349183 27415.1 2629635475 20062.6
+[[1]]
+[1] "."                          "HepG2_H3K27ac_dist.csv.zip"
+
+[1] "./HepG2_H3K27ac_dist.csv.zip"
+[1] 60
+[1] "./HepG2_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43286876  2311.8   54349370  2902.6
+Vcells 2318965083 17692.3 3593349183 27415.1 2741877167 20918.9
+[[1]]
+[1] "."                           "HepG2_H3K36me3_dist.csv.zip"
+
+[1] "./HepG2_H3K36me3_dist.csv.zip"
+[1] 61
+[1] "./HepG2_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43264320  2310.6   54349370  2902.6
+Vcells 2433607326 18567.0 3593349183 27415.1 2855606074 21786.6
+[[1]]
+[1] "."                        "HepG2_HDAC2_dist.csv.zip"
+
+[1] "./HepG2_HDAC2_dist.csv.zip"
+[1] 62
+[1] "./HepG2_HDAC2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   56423812  3013.4   54349370  2902.6
+Vcells 2556081954 19501.4 4312099019 32898.8 2978296049 22722.6
+[[1]]
+[1] "."                        "HepG2_HNF4G_dist.csv.zip"
+
+[1] "./HepG2_HNF4G_dist.csv.zip"
+[1] 63
+[1] "./HepG2_HNF4G_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   45139050  2410.7   54349370  2902.6
+Vcells 2679208401 20440.8 4312099019 32898.8 3102103410 23667.2
+[[1]]
+[1] "."                        "HepG2_NR2F2_dist.csv.zip"
+
+[1] "./HepG2_NR2F2_dist.csv.zip"
+[1] 64
+[1] "./HepG2_NR2F2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43316136  2313.4   54349370  2902.6
+Vcells 2807332590 21418.3 4312099019 32898.8 3231438305 24654.0
+[[1]]
+[1] "."                      "HepG2_Srf_dist.csv.zip"
+
+[1] "./HepG2_Srf_dist.csv.zip"
+[1] 65
+[1] "./HepG2_Srf_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43326093  2313.9   54349370  2902.6
+Vcells 2936750067 22405.7 4312099019 32898.8 3361253455 25644.4
+[[1]]
+[1] "."                       "HepG2_ZHX2_dist.csv.zip"
+
+[1] "./HepG2_ZHX2_dist.csv.zip"
+[1] 66
+[1] "./HepG2_ZHX2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   56423812  3013.4   54349370  2902.6
+Vcells 3063273612 23371.0 5174598822 39479.1 3486272169 26598.2
+[[1]]
+[1] "."                         "HepG2_ZNF274_dist.csv.zip"
+
+[1] "./HepG2_ZNF274_dist.csv.zip"
+[1] 67
+[1] "./HepG2_ZNF274_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   45139050  2410.7   54349370  2902.6
+Vcells 3096333177 23623.2 5174598822 39479.1 3486272169 26598.2
+[[1]]
+[1] "."                         "HSMM_H3K4me1_dist.csv.zip"
+
+[1] "./HSMM_H3K4me1_dist.csv.zip"
+[1] 68
+[1] "./HSMM_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43171255  2305.6   54349370  2902.6
+Vcells 3202775574 24435.3 5174598822 39479.1 3620992875 27626.0
+[[1]]
+[1] "."                           "HUES6_H3K27me3_dist.csv.zip"
+
+[1] "./HUES6_H3K27me3_dist.csv.zip"
+[1] 69
+[1] "./HUES6_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43130412  2303.5   54349370  2902.6
+Vcells 3333469899 25432.4 5174598822 39479.1 3750030780 28610.5
+[[1]]
+[1] "."                           "HUVEC_H3K27me3_dist.csv.zip"
+
+[1] "./HUVEC_H3K27me3_dist.csv.zip"
+[1] 70
+[1] "./HUVEC_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43159672  2305.0   54349370  2902.6
+Vcells 3464227146 26430.0 5174598822 39479.1 3881978225 29617.2
+[[1]]
+[1] "."                      "HUVEC_Max_dist.csv.zip"
+
+[1] "./HUVEC_Max_dist.csv.zip"
+[1] 71
+[1] "./HUVEC_Max_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43323858  2313.8   54349370  2902.6
+Vcells 3587417412 27369.9 5174598822 39479.1 4011834276 30607.9
+[[1]]
+[1] "."                      "HUVEC_MYC_dist.csv.zip"
+
+[1] "./HUVEC_MYC_dist.csv.zip"
+[1] 72
+[1] "./HUVEC_MYC_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43187714  2306.5   54349370  2902.6
+Vcells 3706144059 28275.7 6209598586 47375.5 4125030293 31471.5
+[[1]]
+[1] "."                        "HUVEC_PolII_dist.csv.zip"
+
+[1] "./HUVEC_PolII_dist.csv.zip"
+[1] 73
+[1] "./HUVEC_PolII_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43175116  2305.8   54349370  2902.6
+Vcells 3816730281 29119.4 6209598586 47375.5 4235102424 32311.3
+[[1]]
+[1] "."                           "IMR_90_BHLHE40_dist.csv.zip"
+
+[1] "./IMR_90_BHLHE40_dist.csv.zip"
+[1] 74
+[1] "./IMR_90_BHLHE40_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43281999  2311.6   54349370  2902.6
+Vcells 3935792691 30027.8 6209598586 47375.5 4358507069 33252.8
+[[1]]
+[1] "."                             "IMR_90_H2BK120ac_dist.csv.zip"
+
+[1] "./IMR_90_H2BK120ac_dist.csv.zip"
+[1] 75
+[1] "./IMR_90_H2BK120ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43276716  2311.3   54349370  2902.6
+Vcells 4045875648 30867.6 6209598586 47375.5 4468380811 34091.1
+[[1]]
+[1] "."                            "iPS_15b_H3K9me3_dist.csv.zip"
+
+[1] "./iPS_15b_H3K9me3_dist.csv.zip"
+[1] 76
+[1] "./iPS_15b_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43240343  2309.3   54349370  2902.6
+Vcells 4167555120 31796.0 6209598586 47375.5 4588577761 35008.1
+[[1]]
+[1] "."                      "K562_ATF2_dist.csv.zip"
+
+[1] "./K562_ATF2_dist.csv.zip"
+[1] 77
+[1] "./K562_ATF2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43232215  2308.9   54349370  2902.6
+Vcells 4289928084 32729.6 6209598586 47375.5 4710622760 35939.2
+[[1]]
+[1] "."                      "K562_E2F1_dist.csv.zip"
+
+[1] "./K562_E2F1_dist.csv.zip"
+[1] 78
+[1] "./K562_E2F1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43278138  2311.4   54349370  2902.6
+Vcells 4410174324 33647.0 7451598303 56851.2 4832736712 36870.9
+[[1]]
+[1] "."                      "K562_E4F1_dist.csv.zip"
+
+[1] "./K562_E4F1_dist.csv.zip"
+[1] 79
+[1] "./K562_E4F1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43258834  2310.3   54349370  2902.6
+Vcells 4537368777 34617.4 7451598303 56851.2 4959145024 37835.3
+[[1]]
+[1] "."                       "K562_IKZF1_dist.csv.zip"
+
+[1] "./K562_IKZF1_dist.csv.zip"
+[1] 80
+[1] "./K562_IKZF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801533   149.7   43245220  2309.6   54349370  2902.6
+Vcells 4664772957 35589.4 7451598303 56851.2 5085996146 38803.1
+[[1]]
+[1] "."                     "K562_JUN_dist.csv.zip"
+
+[1] "./K562_JUN_dist.csv.zip"
+[1] 81
+[1] "./K562_JUN_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801491  149.7  110527886 5902.9  49386827 2637.6
+Vcells 161247347 1230.3  445722151 3400.6 464227240 3541.8
+[[1]]
+[1] "."                     "K562_Max_dist.csv.zip"
+
+[1] "./K562_Max_dist.csv.zip"
+[1] 82
+[1] "./K562_Max_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   88422309 4722.3  49386827 2637.6
+Vcells 291289603 2222.4  672934241 5134.1 560711868 4277.9
+[[1]]
+[1] "."                       "K562_MEIS2_dist.csv.zip"
+
+[1] "./K562_MEIS2_dist.csv.zip"
+[1] 83
+[1] "./K562_MEIS2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   70737848 3777.9  49386827 2637.6
+Vcells 412149841 3144.5  817965329 6240.6 681571108 5200.0
+[[1]]
+[1] "."                     "K562_MNT_dist.csv.zip"
+
+[1] "./K562_MNT_dist.csv.zip"
+[1] 84
+[1] "./K562_MNT_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   56590279 3022.3  49386827 2637.6
+Vcells 541862941 4134.1  817965329 6240.6 811284388 6189.7
+[[1]]
+[1] "."                         "K562_NEUROD1_dist.csv.zip"
+
+[1] "./K562_NEUROD1_dist.csv.zip"
+[1] 85
+[1] "./K562_NEUROD1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801517  149.7   56423828 3013.4  49386827 2637.6
+Vcells 667453564 5092.3 1124330999 8578.0 936875833 7147.8
+[[1]]
+[1] "."                        "K562_PKNOX1_dist.csv.zip"
+
+[1] "./K562_PKNOX1_dist.csv.zip"
+[1] 86
+[1] "./K562_PKNOX1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801517  149.7   56423794  3013.4   54043046 2886.3
+Vcells 792836908 6048.9 1456423977 11111.7 1213619981 9259.2
+[[1]]
+[1] "."                     "K562_Srf_dist.csv.zip"
+
+[1] "./K562_Srf_dist.csv.zip"
+[1] 87
+[1] "./K562_Srf_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells   2801517  149.7   45139036  2410.7   54164367  2892.7
+Vcells 919333027 7014.0 1456423977 11111.7 1344042951 10254.3
+[[1]]
+[1] "."                       "K562_Tcf12_dist.csv.zip"
+
+[1] "./K562_Tcf12_dist.csv.zip"
+[1] 88
+[1] "./K562_Tcf12_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   56423794  3013.4   54164367  2892.7
+Vcells 1048406157 7998.8 1763960892 13458.0 1469900744 11214.5
+[[1]]
+[1] "."                        "K562_TRIM28_dist.csv.zip"
+
+[1] "./K562_TRIM28_dist.csv.zip"
+[1] 89
+[1] "./K562_TRIM28_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   45139036  2410.7   54164367  2892.7
+Vcells 1171355685 8936.8 1763960892 13458.0 1593064873 12154.2
+[[1]]
+[1] "."                      "K562_ZHX1_dist.csv.zip"
+
+[1] "./K562_ZHX1_dist.csv.zip"
+[1] 90
+[1] "./K562_ZHX1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517  149.7   56423794  3013.4   54189096  2894.1
+Vcells 1298636565 9907.9 2116833070 16150.2 1724170755 13154.4
+[[1]]
+[1] "."                        "K562_ZNF274_dist.csv.zip"
+
+[1] "./K562_ZNF274_dist.csv.zip"
+[1] 91
+[1] "./K562_ZNF274_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54295685  2899.8
+Vcells 1416367467 10806.1 2116833070 16150.2 1845347099 14078.9
+[[1]]
+[1] "."                              "keratinocyte_EZH2_dist.csv.zip"
+
+[1] "./keratinocyte_EZH2_dist.csv.zip"
+[1] 92
+[1] "./keratinocyte_EZH2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54295685  2899.8
+Vcells 1528928940 11664.9 2540279684 19380.8 1954695327 14913.2
+[[1]]
+[1] "."                                  "keratinocyte_H3K36me3_dist.csv.zip"
+
+[1] "./keratinocyte_H3K36me3_dist.csv.zip"
+[1] 93
+[1] "./keratinocyte_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54295685  2899.8
+Vcells 1648888056 12580.1 2540279684 19380.8 2068407914 15780.8
+[[1]]
+[1] "."                                 "keratinocyte_H3K4me2_dist.csv.zip"
+
+[1] "./keratinocyte_H3K4me2_dist.csv.zip"
+[1] 94
+[1] "./keratinocyte_H3K4me2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54295685  2899.8
+Vcells 1761992247 13443.0 3048415620 23257.6 2180174290 16633.5
+[[1]]
+[1] "."                               "keratinocyte_PolII_dist.csv.zip"
+
+[1] "./keratinocyte_PolII_dist.csv.zip"
+[1] 95
+[1] "./keratinocyte_PolII_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54295685  2899.8
+Vcells 1877497326 14324.2 3048415620 23257.6 2298173088 17533.7
+[[1]]
+[1] "."                          "kidney_DNase1_dist.csv.zip"
+
+[1] "./kidney_DNase1_dist.csv.zip"
+[1] 96
+[1] "./kidney_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43130399  2303.5   54295685  2899.8
+Vcells 1998069423 15244.1 3048415620 23257.6 2414625880 18422.2
+[[1]]
+[1] "."                               "leg_muscle_H3K4me1_dist.csv.zip"
+
+[1] "./leg_muscle_H3K4me1_dist.csv.zip"
+[1] 97
+[1] "./leg_muscle_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54295685  2899.8
+Vcells 2115843201 16142.7 3658178744 27909.7 2530031991 19302.7
+[[1]]
+[1] "."                            "lung_1_H3K36me3_dist.csv.zip"
+
+[1] "./lung_1_H3K36me3_dist.csv.zip"
+[1] 98
+[1] "./lung_1_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54295685  2899.8
+Vcells 2232512427 17032.8 3658178744 27909.7 2646794655 20193.5
+[[1]]
+[1] "."                          "lung_1_H3K9ac_dist.csv.zip"
+
+[1] "./lung_1_H3K9ac_dist.csv.zip"
+[1] 99
+[1] "./lung_1_H3K9ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43377896  2316.7   54295685  2899.8
+Vcells 2338057116 17838.0 3658178744 27909.7 2764669767 21092.8
+[[1]]
+[1] "."                           "lung_2_H3K4me3_dist.csv.zip"
+
+[1] "./lung_2_H3K4me3_dist.csv.zip"
+[1] 100
+[1] "./lung_2_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43054199  2299.4   54295685  2899.8
+Vcells 2463351471 18793.9 3658178744 27909.7 2876812680 21948.4
+[[1]]
+[1] "."                          "M0_CB_H3K4me1_dist.csv.zip"
+
+[1] "./M0_CB_H3K4me1_dist.csv.zip"
+[1] 101
+[1] "./M0_CB_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54295685  2899.8
+Vcells 2576882238 19660.1 4389894492 33492.3 2994590402 22847.0
+[[1]]
+[1] "."                         "M0_VB_DNase1_dist.csv.zip"
+
+[1] "./M0_VB_DNase1_dist.csv.zip"
+[1] 102
+[1] "./M0_VB_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54364011  2903.4
+Vcells 2689587447 20520.0 4389894492 33492.3 3120788992 23809.8
+[[1]]
+[1] "."                           "M2_CB_H3K27me3_dist.csv.zip"
+
+[1] "./M2_CB_H3K27me3_dist.csv.zip"
+[1] 103
+[1] "./M2_CB_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43057247  2299.6   54364011  2903.4
+Vcells 2815166880 21478.1 4389894492 33492.3 3228752638 24633.5
+[[1]]
+[1] "."                          "M2_VB_H3K4me3_dist.csv.zip"
+
+[1] "./M2_VB_H3K4me3_dist.csv.zip"
+[1] 104
+[1] "./M2_VB_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   42942439  2293.4   54364011  2903.4
+Vcells 2937145644 22408.7 4389894492 33492.3 3346068766 25528.5
+[[1]]
+[1] "."                                     
+[2] "mammary_epithelial_1_EZH2_dist.csv.zip"
+
+[1] "./mammary_epithelial_1_EZH2_dist.csv.zip"
+[1] 105
+[1] "./mammary_epithelial_1_EZH2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43360624  2315.8   54364011  2903.4
+Vcells 3048802173 23260.6 4389894492 33492.3 3474708073 26510.0
+[[1]]
+[1] "."                                       
+[2] "mammary_epithelial_2_DNase1_dist.csv.zip"
+
+[1] "./mammary_epithelial_2_DNase1_dist.csv.zip"
+[1] 106
+[1] "./mammary_epithelial_2_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   56423794  3013.4   54364011  2903.4
+Vcells 3170002329 24185.2 5267953390 40191.3 3586615051 27363.8
+[[1]]
+[1] "."                       "MCF_7_ELF1_dist.csv.zip"
+
+[1] "./MCF_7_ELF1_dist.csv.zip"
+[1] 107
+[1] "./MCF_7_ELF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   45139036  2410.7   54364011  2903.4
+Vcells 3293447238 25127.1 5267953390 40191.3 3715092138 28344.0
+[[1]]
+[1] "."                                "monocyte_CB_H3K4me1_dist.csv.zip"
+
+[1] "./monocyte_CB_H3K4me1_dist.csv.zip"
+[1] 108
+[1] "./monocyte_CB_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43059076  2299.7   54364011  2903.4
+Vcells 3422561196 26112.1 5267953390 40191.3 3836220868 29268.1
+[[1]]
+[1] "."                                "monocyte_VB_H3K4me1_dist.csv.zip"
+
+[1] "./monocyte_VB_H3K4me1_dist.csv.zip"
+[1] 109
+[1] "./monocyte_VB_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43080615  2300.8   54364011  2903.4
+Vcells 3552614190 27104.3 5267953390 40191.3 3967148223 30267.0
+[[1]]
+[1] "."                                   "mononuclear_PB_H3K4me1_dist.csv.zip"
+
+[1] "./mononuclear_PB_H3K4me1_dist.csv.zip"
+[1] 110
+[1] "./mononuclear_PB_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801493   149.7   43160879  2305.1   54364011  2903.4
+Vcells 3677231055 28055.1 5267953390 40191.3 4095024684 31242.6
+[[1]]
+[1] "."                        "MSC_H3K18ac_dist.csv.zip"
+
+[1] "./MSC_H3K18ac_dist.csv.zip"
+[1] 111
+[1] "./MSC_H3K18ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43254316  2310.1   54364011  2903.4
+Vcells 3787613580 28897.2 6321624068 48230.2 4209204736 32113.7
+[[1]]
+[1] "."                         "MSC_H3K27me3_dist.csv.zip"
+
+[1] "./MSC_H3K27me3_dist.csv.zip"
+[1] 112
+[1] "./MSC_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43251709  2309.9   54364011  2903.4
+Vcells 3920854695 29913.8 6321624068 48230.2 4342342624 33129.5
+[[1]]
+[1] "."                                "naive_B_To_H3K36me3_dist.csv.zip"
+
+[1] "./naive_B_To_H3K36me3_dist.csv.zip"
+[1] 113
+[1] "./naive_B_To_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43201316  2307.2   54364011  2903.4
+Vcells 4042963197 30845.4 6321624068 48230.2 4462406218 34045.5
+[[1]]
+[1] "."                               "naive_B_To_H3K4me3_dist.csv.zip"
+
+[1] "./naive_B_To_H3K4me3_dist.csv.zip"
+[1] 114
+[1] "./naive_B_To_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801493   149.7   43215743  2308.0   54364011  2903.4
+Vcells 4163001990 31761.2 6321624068 48230.2 4583023758 34965.7
+[[1]]
+[1] "."                            "neuron_H3K27me3_dist.csv.zip"
+
+[1] "./neuron_H3K27me3_dist.csv.zip"
+[1] 115
+[1] "./neuron_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43193965  2306.9   54364011  2903.4
+Vcells 4288371156 32717.7 6321624068 48230.2 4707517405 35915.6
+[[1]]
+[1] "."                                  "neurosphere_C_H3K9me3_dist.csv.zip"
+
+[1] "./neurosphere_C_H3K9me3_dist.csv.zip"
+[1] 116
+[1] "./neurosphere_C_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43171242  2305.6   54364011  2903.4
+Vcells 4393125813 33516.9 6321624068 48230.2 4811339957 36707.7
+[[1]]
+[1] "."                                   
+[2] "neurosphere_GE_H3K36me3_dist.csv.zip"
+
+[1] "./neurosphere_GE_H3K36me3_dist.csv.zip"
+[1] 117
+[1] "./neurosphere_GE_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43181605  2306.2   54364011  2903.4
+Vcells 4509247941 34402.9 7586028881 57876.9 4927887522 37596.8
+[[1]]
+[1] "."                                   "neutrophil_PB_H3K27me3_dist.csv.zip"
+
+[1] "./neutrophil_PB_H3K27me3_dist.csv.zip"
+[1] 118
+[1] "./neutrophil_PB_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   43277516  2311.3   54364011  2903.4
+Vcells 4625646939 35290.9 7586028881 57876.9 5048181383 38514.6
+[[1]]
+[1] "."                                   "neutrophil_VB_H3K27me3_dist.csv.zip"
+
+[1] "./neutrophil_VB_H3K27me3_dist.csv.zip"
+[1] 119
+[1] "./neutrophil_VB_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801517   149.7   42949551  2293.8   54364011  2903.4
+Vcells 4768025097 36377.2 7586028881 57876.9 5177239257 39499.3
+[[1]]
+[1] "."                                  "neutrophil_VB_H3K9me3_dist.csv.zip"
+
+[1] "./neutrophil_VB_H3K9me3_dist.csv.zip"
+[1] 120
+[1] "./neutrophil_VB_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801493   149.7   42941829  2293.4   54364011  2903.4
+Vcells 4888342098 37295.1 7586028881 57876.9 5297242877 40414.8
+[[1]]
+[1] "."                           "NK_PB_H3K27me3_dist.csv.zip"
+
+[1] "./NK_PB_H3K27me3_dist.csv.zip"
+[1] 121
+[1] "./NK_PB_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801495  149.7  110527895 5902.9  49386831 2637.6
+Vcells 164330537 1253.8  448682016 3423.2 467310434 3565.3
+[[1]]
+[1] "."                          "NK_PB_H3K4me3_dist.csv.zip"
+
+[1] "./NK_PB_H3K4me3_dist.csv.zip"
+[1] 122
+[1] "./NK_PB_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801521  149.7   88422316 4722.3  49386831 2637.6
+Vcells 279342793 2131.3  658598015 5024.8 548765013 4186.8
+[[1]]
+[1] "."                           "NPC_1_H3K36me3_dist.csv.zip"
+
+[1] "./NPC_1_H3K36me3_dist.csv.zip"
+[1] 123
+[1] "./NPC_1_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801497  149.7   70737853 3777.9  49386831 2637.6
+Vcells 403307524 3077.0  807354612 6159.7 672728844 5132.6
+[[1]]
+[1] "."                         "NPC_2_DNase1_dist.csv.zip"
+
+[1] "./NPC_2_DNase1_dist.csv.zip"
+[1] 124
+[1] "./NPC_2_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801521  149.7   56590283 3022.3  49386831 2637.6
+Vcells 524289247 4000.1  807354612 6159.7 793710648 6055.6
+[[1]]
+[1] "."                          "NPC_2_H3K4me1_dist.csv.zip"
+
+[1] "./NPC_2_H3K4me1_dist.csv.zip"
+[1] 125
+[1] "./NPC_2_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801521  149.7   56423833 3013.4  49386831 2637.6
+Vcells 626340289 4778.6 1074995069 8201.6 895762558 6834.2
+[[1]]
+[1] "."                            "NPC_3_H2BK120ac_dist.csv.zip"
+
+[1] "./NPC_3_H2BK120ac_dist.csv.zip"
+[1] 126
+[1] "./NPC_3_H2BK120ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801521  149.7   56423799  3013.4   54380108 2904.3
+Vcells 746763853 5697.4 1414284634 10790.2 1178503862 8991.3
+[[1]]
+[1] "."                         "NPC_3_H3K4ac_dist.csv.zip"
+
+[1] "./NPC_3_H3K4ac_dist.csv.zip"
+[1] 127
+[1] "./NPC_3_H3K4ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801521  149.7   45139040  2410.7   54417101 2906.2
+Vcells 867920947 6621.8 1414284634 10790.2 1300845512 9924.7
+[[1]]
+[1] "."                          "NPC_3_H3K4me2_dist.csv.zip"
+
+[1] "./NPC_3_H3K4me2_dist.csv.zip"
+[1] 128
+[1] "./NPC_3_H3K4me2_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+            used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells   2801521  149.7   56423799  3013.4   54417101  2906.2
+Vcells 984287733 7509.6 1697221560 12948.8 1400324067 10683.7
+[[1]]
+[1] "."                          "NPC_3_H3K4me3_dist.csv.zip"
+
+[1] "./NPC_3_H3K4me3_dist.csv.zip"
+[1] 129
+[1] "./NPC_3_H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521  149.7   45139040  2410.7   54417101  2906.2
+Vcells 1100092791 8393.1 1697221560 12948.8 1518918178 11588.5
+[[1]]
+[1] "."                              "osteoblast_DNase1_dist.csv.zip"
+
+[1] "./osteoblast_DNase1_dist.csv.zip"
+[1] 130
+[1] "./osteoblast_DNase1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521  149.7   56423799  3013.4   54450720  2908.0
+Vcells 1216228845 9279.1 2036745872 15539.2 1650263417 12590.6
+[[1]]
+[1] "."                               "osteoblast_H3K27ac_dist.csv.zip"
+
+[1] "./osteoblast_H3K27ac_dist.csv.zip"
+[1] 131
+[1] "./osteoblast_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   45139040  2410.7   54450720  2908.0
+Vcells 1314241674 10026.9 2036745872 15539.2 1736027829 13244.9
+[[1]]
+[1] "."                          "ovary_H3K27ac_dist.csv.zip"
+
+[1] "./ovary_H3K27ac_dist.csv.zip"
+[1] 132
+[1] "./ovary_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   56423799  3013.4   54450720  2908.0
+Vcells 1426025190 10879.8 2444175046 18647.6 1840589423 14042.6
+[[1]]
+[1] "."                          "ovary_H3K9me3_dist.csv.zip"
+
+[1] "./ovary_H3K9me3_dist.csv.zip"
+[1] 133
+[1] "./ovary_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   45139040  2410.7   54450720  2908.0
+Vcells 1527242556 11652.0 2444175046 18647.6 1948094257 14862.8
+[[1]]
+[1] "."                              "pancreas_H3K36me3_dist.csv.zip"
+
+[1] "./pancreas_H3K36me3_dist.csv.zip"
+[1] 134
+[1] "./pancreas_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   56423799  3013.4   54450720  2908.0
+Vcells 1649992044 12588.5 2933090055 22377.8 2067308431 15772.4
+[[1]]
+[1] "."                                 "psoas_muscle_H3K4me1_dist.csv.zip"
+
+[1] "./psoas_muscle_H3K4me1_dist.csv.zip"
+[1] 135
+[1] "./psoas_muscle_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   45139040  2410.7   54450720  2908.0
+Vcells 1769329380 13499.0 2933090055 22377.8 2186245856 16679.8
+[[1]]
+[1] "."                        "SK_N__EP300_dist.csv.zip"
+
+[1] "./SK_N__EP300_dist.csv.zip"
+[1] 136
+[1] "./SK_N__EP300_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   43274674  2311.2   54450720  2908.0
+Vcells 1888011279 14404.4 2933090055 22377.8 2310431240 17627.2
+[[1]]
+[1] "."                        "SK_N__GABPA_dist.csv.zip"
+
+[1] "./SK_N__GABPA_dist.csv.zip"
+[1] 137
+[1] "./SK_N__GABPA_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   56423799  3013.4   54450720  2908.0
+Vcells 2007605169 15316.9 3519788066 26853.9 2430555146 18543.7
+[[1]]
+[1] "."                           "SK_N__H3K36me3_dist.csv.zip"
+
+[1] "./SK_N__H3K36me3_dist.csv.zip"
+[1] 138
+[1] "./SK_N__H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   45139040  2410.7   54450720  2908.0
+Vcells 2126381442 16223.1 3519788066 26853.9 2544911868 19416.2
+[[1]]
+[1] "."                          "SK_N__H3K4me3_dist.csv.zip"
+
+[1] "./SK_N__H3K4me3_dist.csv.zip"
+[1] 139
+[1] "./SK_N__H3K4me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   43268781  2310.9   54450720  2908.0
+Vcells 2242729173 17110.7 3519788066 26853.9 2664910486 20331.7
+[[1]]
+[1] "."                        "SK_N__Rad21_dist.csv.zip"
+
+[1] "./SK_N__Rad21_dist.csv.zip"
+[1] 140
+[1] "./SK_N__Rad21_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   43171448  2305.7   54450720  2908.0
+Vcells 2369710599 18079.5 3519788066 26853.9 2787935589 21270.3
+[[1]]
+[1] "."                       "SK_N__RXRA_dist.csv.zip"
+
+[1] "./SK_N__RXRA_dist.csv.zip"
+[1] 141
+[1] "./SK_N__RXRA_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   56423799  3013.4   54450720  2908.0
+Vcells 2485029030 18959.3 4223825679 32225.3 2908932090 22193.4
+[[1]]
+[1] "."                            "SK_N_SH_RA_USF1_dist.csv.zip"
+
+[1] "./SK_N_SH_RA_USF1_dist.csv.zip"
+[1] 142
+[1] "./SK_N_SH_RA_USF1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   45139040  2410.7   54450720  2908.0
+Vcells 2598488778 19824.9 4223825679 32225.3 3020599706 23045.4
+[[1]]
+[1] "."                                      
+[2] "small_intestine_1_H3K36me3_dist.csv.zip"
+
+[1] "./small_intestine_1_H3K36me3_dist.csv.zip"
+[1] 143
+[1] "./small_intestine_1_H3K36me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   43022909  2297.7   54450720  2908.0
+Vcells 2722006452 20767.3 4223825679 32225.3 3134200776 23912.1
+[[1]]
+[1] "."                                     
+[2] "small_intestine_2_H3K9me3_dist.csv.zip"
+
+[1] "./small_intestine_2_H3K9me3_dist.csv.zip"
+[1] 144
+[1] "./small_intestine_2_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   43330757  2314.2   54450720  2908.0
+Vcells 2830034208 21591.5 4223825679 32225.3 3254730758 24831.7
+[[1]]
+[1] "."                              "stomach_2_H3K9me3_dist.csv.zip"
+
+[1] "./stomach_2_H3K9me3_dist.csv.zip"
+[1] 145
+[1] "./stomach_2_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801497   149.7   43220420  2308.3   54450720  2908.0
+Vcells 2948417409 22494.7 4223825679 32225.3 3368631741 25700.7
+[[1]]
+[1] "."                          "T_PB_H3K27me3_dist.csv.zip"
+
+[1] "./T_PB_H3K27me3_dist.csv.zip"
+[1] 146
+[1] "./T_PB_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801497   149.7   56423799  3013.4   54450720  2908.0
+Vcells 3090359433 23577.6 5068670814 38670.9 3504065107 26733.9
+[[1]]
+[1] "."                              "thymus_1_H3K27me3_dist.csv.zip"
+
+[1] "./thymus_1_H3K27me3_dist.csv.zip"
+[1] 147
+[1] "./thymus_1_H3K27me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   45139040  2410.7   54450720  2908.0
+Vcells 3204515214 24448.6 5068670814 38670.9 3627530167 27675.9
+[[1]]
+[1] "."                                 "trunk_muscle_H3K27ac_dist.csv.zip"
+
+[1] "./trunk_muscle_H3K27ac_dist.csv.zip"
+[1] 148
+[1] "./trunk_muscle_H3K27ac_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   43198068  2307.1   54450720  2908.0
+Vcells 3320933523 25336.8 5068670814 38670.9 3740244281 28535.8
+[[1]]
+[1] "."                                 "trunk_muscle_H3K4me1_dist.csv.zip"
+
+[1] "./trunk_muscle_H3K4me1_dist.csv.zip"
+[1] 149
+[1] "./trunk_muscle_H3K4me1_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801521   149.7   43132434  2303.6   54450720  2908.0
+Vcells 3438797838 26236.0 5068670814 38670.9 3855435875 29414.7
+[[1]]
+[1] "."                                 "trunk_muscle_H3K9me3_dist.csv.zip"
+
+[1] "./trunk_muscle_H3K9me3_dist.csv.zip"
+[1] 150
+[1] "./trunk_muscle_H3K9me3_dist.csv.gz"
+[1] "/exports/eddie/scratch/s1772751/Prepared_data_9"
+             used    (Mb) gc trigger    (Mb)   max used  (Mb)
+Ncells    2801521   149.7   43174903  2305.8   54450720  2908
+Vcells 3549707817 27082.2 6082484976 46405.7 3968071776 30274

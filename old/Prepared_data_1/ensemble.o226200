@@ -1,0 +1,50 @@
+[1] "./sigmoid_colon_H3K27me3_dist.csv.zip"
+[1] 141
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801456  149.7  110527808 5902.9  49386591 2637.6
+Vcells 169718612 1294.9  567318165 4328.3 472698471 3606.5
+[1] "./SK_N__REST_dist.csv.zip"
+[1] 142
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801482  149.7   88422247 4722.3  49386591 2637.6
+Vcells 294082150 2243.7  567318165 4328.3 563503503 4299.2
+[1] "./SK_N__Yy1_dist.csv.zip"
+[1] 143
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801482  149.7   70737798 3777.9  49386591 2637.6
+Vcells 415082149 3166.9  821485164 6267.5 684504304 5222.4
+[1] "./small_intestine_2_H3K27ac_dist.csv.zip"
+[1] 144
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells   2801482  149.7   56590239 3022.3  53924953 2880.0
+Vcells 530620048 4048.4 1137169635 8676.0 947574696 7229.5
+[1] "./small_intestine_2_H3K27me3_dist.csv.zip"
+[1] 145
+            used   (Mb) gc trigger   (Mb)   max used   (Mb)
+Ncells   2801482  149.7   45272192 2417.8   53956762 2881.7
+Vcells 650565202 4963.5 1137169635 8676.0 1068541069 8152.4
+[1] "./stomach_1_H3K36me3_dist.csv.zip"
+[1] 146
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801482  149.7   56423788  3013.4   53956762 2881.7
+Vcells 769647406 5872.0 1422099288 10849.8 1185016074 9041.0
+[1] "./stomach_2_H3K4me3_dist.csv.zip"
+[1] 147
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   2801482  149.7   45139031  2410.7   53956762 2881.7
+Vcells 889531006 6786.6 1422099288 10849.8 1306183784 9965.4
+[1] "./Th17_H3K27me3_dist.csv.zip"
+[1] 148
+            used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells   2801482  149.7   56423754  3013.4   54296302  2899.8
+Vcells 998836854 7620.6 1713511702 13073.1 1427859752 10893.8
+[1] "./trophoblast_H2BK5ac_dist.csv.zip"
+[1] 149
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801482  149.7   45139004  2410.7   54296302  2899.8
+Vcells 1118502798 8533.5 1713511702 13073.1 1540792775 11755.4
+[1] "./trophoblast_H3K79me1_dist.csv.zip"
+[1] 150
+             used   (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2801482  149.7   56423754  3013.4   54296302  2899.8
+Vcells 1237139871 9438.7 2056294042 15688.3 1653637783 12616.3

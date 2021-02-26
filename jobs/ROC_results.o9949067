@@ -1,0 +1,59 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Regularized Logistic Regression 
+
+1015623 samples
+   1541 predictor
+      2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 677081, 677083, 677082 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results across tuning parameters:
+
+  cost  loss       epsilon  ROC        Sens       Spec     
+  0.5   L1         0.001    0.8297739  0.7314933  0.7754728
+  0.5   L1         0.010    0.8267251  0.7285595  0.7730317
+  0.5   L1         0.100    0.8191314  0.7256895  0.7636744
+  0.5   L2_dual    0.001    0.8298157  0.7323171  0.7747868
+  0.5   L2_dual    0.010    0.8296800  0.7313772  0.7753605
+  0.5   L2_dual    0.100    0.8298053  0.7321044  0.7748972
+  0.5   L2_primal  0.001    0.8297742  0.7317717  0.7752281
+  0.5   L2_primal  0.010    0.8297090  0.7314643  0.7757657
+  0.5   L2_primal  0.100    0.8080470  0.7230613  0.7500286
+  1.0   L1         0.001    0.8297934  0.7316673  0.7754227
+  1.0   L1         0.010    0.8261699  0.7287703  0.7723738
+  1.0   L1         0.100    0.8194301  0.7248483  0.7656462
+  1.0   L2_dual    0.001    0.8295049  0.7321276  0.7746544
+  1.0   L2_dual    0.010    0.8285756  0.7295052  0.7750677
+  1.0   L2_dual    0.100    0.8294388  0.7317079  0.7749393
+  1.0   L2_primal  0.001    0.8297765  0.7317563  0.7753846
+  1.0   L2_primal  0.010    0.8297066  0.7317253  0.7754367
+  1.0   L2_primal  0.100    0.8080394  0.7229917  0.7500827
+  2.0   L1         0.001    0.8297838  0.7315803  0.7753043
+  2.0   L1         0.010    0.8256804  0.7280393  0.7719104
+  2.0   L1         0.100    0.8194248  0.7250862  0.7654315
+  2.0   L2_dual    0.001    0.8251906  0.7338991  0.7650564
+  2.0   L2_dual    0.010    0.8258392  0.7307120  0.7700109
+  2.0   L2_dual    0.100    0.8269763  0.7276447  0.7752743
+  2.0   L2_primal  0.001    0.8297892  0.7316383  0.7751118
+  2.0   L2_primal  0.010    0.8293589  0.7300776  0.7759763
+  2.0   L2_primal  0.100    0.8080386  0.7230111  0.7500627
+
+ROC was used to select the optimal model using the largest value.
+The final values used for the model were cost = 0.5, loss = L2_dual and
+ epsilon = 0.001.
+[1] 0.13
+[1] 0.8330102
+[1] 0.7796562
+[1] 0.7313685
+[1] 0.0726627
+[1] 0.7796562
+[1] 0.132936
+                 AUC_PR   AUC_ROC      SENS      SPEC      PREC    RECALL
+1.00_regLogistic   0.13 0.8330102 0.7796562 0.7313685 0.0726627 0.7796562
+                       F1
+1.00_regLogistic 0.132936

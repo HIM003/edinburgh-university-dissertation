@@ -1,0 +1,9 @@
+[1] "This is using fastAdaboost and tunelength"
+[1] "2020-10-15 18:58:34 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-15 19:00:47 BST"
+[1] "just about to train"
+[1] "2020-10-15 19:00:47 BST"
++ Fold1: nIter= 50, method=Adaboost.M1 

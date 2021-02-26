@@ -1,0 +1,91 @@
+[1] "This is using the tunelength"
+[1] "2020-12-26 21:14:06 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-12-26 21:14:29 GMT"
+[1] "just about to train"
+[1] "2020-12-26 21:14:29 GMT"
++ Fold1: shrinkage=0.002775, interaction.depth=2, n.minobsinnode=24, n.trees=1191 
+- Fold1: shrinkage=0.002775, interaction.depth=2, n.minobsinnode=24, n.trees=1191 
++ Fold1: shrinkage=0.011820, interaction.depth=2, n.minobsinnode=22, n.trees=2902 
+- Fold1: shrinkage=0.011820, interaction.depth=2, n.minobsinnode=22, n.trees=2902 
++ Fold1: shrinkage=0.045633, interaction.depth=6, n.minobsinnode=17, n.trees=3802 
+- Fold1: shrinkage=0.045633, interaction.depth=6, n.minobsinnode=17, n.trees=3802 
++ Fold1: shrinkage=0.089133, interaction.depth=6, n.minobsinnode=25, n.trees=4942 
+- Fold1: shrinkage=0.089133, interaction.depth=6, n.minobsinnode=25, n.trees=4942 
++ Fold1: shrinkage=0.153104, interaction.depth=9, n.minobsinnode= 7, n.trees=3610 
+- Fold1: shrinkage=0.153104, interaction.depth=9, n.minobsinnode= 7, n.trees=3610 
++ Fold1: shrinkage=0.170868, interaction.depth=3, n.minobsinnode=20, n.trees=2824 
+- Fold1: shrinkage=0.170868, interaction.depth=3, n.minobsinnode=20, n.trees=2824 
++ Fold1: shrinkage=0.173126, interaction.depth=8, n.minobsinnode=15, n.trees=1415 
+- Fold1: shrinkage=0.173126, interaction.depth=8, n.minobsinnode=15, n.trees=1415 
++ Fold1: shrinkage=0.300071, interaction.depth=6, n.minobsinnode=24, n.trees= 672 
+- Fold1: shrinkage=0.300071, interaction.depth=6, n.minobsinnode=24, n.trees= 672 
++ Fold1: shrinkage=0.355293, interaction.depth=2, n.minobsinnode=21, n.trees=2294 
+- Fold1: shrinkage=0.355293, interaction.depth=2, n.minobsinnode=21, n.trees=2294 
++ Fold1: shrinkage=0.355743, interaction.depth=3, n.minobsinnode=18, n.trees=2800 
+- Fold1: shrinkage=0.355743, interaction.depth=3, n.minobsinnode=18, n.trees=2800 
++ Fold1: shrinkage=0.386591, interaction.depth=9, n.minobsinnode=22, n.trees=4311 
+- Fold1: shrinkage=0.386591, interaction.depth=9, n.minobsinnode=22, n.trees=4311 
++ Fold1: shrinkage=0.388541, interaction.depth=7, n.minobsinnode=14, n.trees= 592 
+- Fold1: shrinkage=0.388541, interaction.depth=7, n.minobsinnode=14, n.trees= 592 
++ Fold1: shrinkage=0.398265, interaction.depth=2, n.minobsinnode= 5, n.trees=2442 
+- Fold1: shrinkage=0.398265, interaction.depth=2, n.minobsinnode= 5, n.trees=2442 
++ Fold1: shrinkage=0.432769, interaction.depth=7, n.minobsinnode=14, n.trees=1455 
+- Fold1: shrinkage=0.432769, interaction.depth=7, n.minobsinnode=14, n.trees=1455 
++ Fold1: shrinkage=0.460831, interaction.depth=5, n.minobsinnode= 6, n.trees=1254 
+- Fold1: shrinkage=0.460831, interaction.depth=5, n.minobsinnode= 6, n.trees=1254 
++ Fold1: shrinkage=0.482871, interaction.depth=2, n.minobsinnode=15, n.trees=2434 
+- Fold1: shrinkage=0.482871, interaction.depth=2, n.minobsinnode=15, n.trees=2434 
++ Fold1: shrinkage=0.484311, interaction.depth=8, n.minobsinnode=24, n.trees=1179 
+- Fold1: shrinkage=0.484311, interaction.depth=8, n.minobsinnode=24, n.trees=1179 
++ Fold1: shrinkage=0.529068, interaction.depth=8, n.minobsinnode= 5, n.trees= 963 
+- Fold1: shrinkage=0.529068, interaction.depth=8, n.minobsinnode= 5, n.trees= 963 
++ Fold1: shrinkage=0.546114, interaction.depth=7, n.minobsinnode=22, n.trees=3475 
+- Fold1: shrinkage=0.546114, interaction.depth=7, n.minobsinnode=22, n.trees=3475 
++ Fold1: shrinkage=0.565929, interaction.depth=3, n.minobsinnode=25, n.trees=2660 
+- Fold1: shrinkage=0.565929, interaction.depth=3, n.minobsinnode=25, n.trees=2660 
++ Fold2: shrinkage=0.002775, interaction.depth=2, n.minobsinnode=24, n.trees=1191 
+- Fold2: shrinkage=0.002775, interaction.depth=2, n.minobsinnode=24, n.trees=1191 
++ Fold2: shrinkage=0.011820, interaction.depth=2, n.minobsinnode=22, n.trees=2902 
+- Fold2: shrinkage=0.011820, interaction.depth=2, n.minobsinnode=22, n.trees=2902 
++ Fold2: shrinkage=0.045633, interaction.depth=6, n.minobsinnode=17, n.trees=3802 
+- Fold2: shrinkage=0.045633, interaction.depth=6, n.minobsinnode=17, n.trees=3802 
++ Fold2: shrinkage=0.089133, interaction.depth=6, n.minobsinnode=25, n.trees=4942 
+- Fold2: shrinkage=0.089133, interaction.depth=6, n.minobsinnode=25, n.trees=4942 
++ Fold2: shrinkage=0.153104, interaction.depth=9, n.minobsinnode= 7, n.trees=3610 
+- Fold2: shrinkage=0.153104, interaction.depth=9, n.minobsinnode= 7, n.trees=3610 
++ Fold2: shrinkage=0.170868, interaction.depth=3, n.minobsinnode=20, n.trees=2824 
+- Fold2: shrinkage=0.170868, interaction.depth=3, n.minobsinnode=20, n.trees=2824 
++ Fold2: shrinkage=0.173126, interaction.depth=8, n.minobsinnode=15, n.trees=1415 
+- Fold2: shrinkage=0.173126, interaction.depth=8, n.minobsinnode=15, n.trees=1415 
++ Fold2: shrinkage=0.300071, interaction.depth=6, n.minobsinnode=24, n.trees= 672 
+- Fold2: shrinkage=0.300071, interaction.depth=6, n.minobsinnode=24, n.trees= 672 
++ Fold2: shrinkage=0.355293, interaction.depth=2, n.minobsinnode=21, n.trees=2294 
+- Fold2: shrinkage=0.355293, interaction.depth=2, n.minobsinnode=21, n.trees=2294 
++ Fold2: shrinkage=0.355743, interaction.depth=3, n.minobsinnode=18, n.trees=2800 
+- Fold2: shrinkage=0.355743, interaction.depth=3, n.minobsinnode=18, n.trees=2800 
++ Fold2: shrinkage=0.386591, interaction.depth=9, n.minobsinnode=22, n.trees=4311 
+- Fold2: shrinkage=0.386591, interaction.depth=9, n.minobsinnode=22, n.trees=4311 
++ Fold2: shrinkage=0.388541, interaction.depth=7, n.minobsinnode=14, n.trees= 592 
+- Fold2: shrinkage=0.388541, interaction.depth=7, n.minobsinnode=14, n.trees= 592 
++ Fold2: shrinkage=0.398265, interaction.depth=2, n.minobsinnode= 5, n.trees=2442 
+- Fold2: shrinkage=0.398265, interaction.depth=2, n.minobsinnode= 5, n.trees=2442 
++ Fold2: shrinkage=0.432769, interaction.depth=7, n.minobsinnode=14, n.trees=1455 
+- Fold2: shrinkage=0.432769, interaction.depth=7, n.minobsinnode=14, n.trees=1455 
++ Fold2: shrinkage=0.460831, interaction.depth=5, n.minobsinnode= 6, n.trees=1254 
+- Fold2: shrinkage=0.460831, interaction.depth=5, n.minobsinnode= 6, n.trees=1254 
++ Fold2: shrinkage=0.482871, interaction.depth=2, n.minobsinnode=15, n.trees=2434 
+- Fold2: shrinkage=0.482871, interaction.depth=2, n.minobsinnode=15, n.trees=2434 
++ Fold2: shrinkage=0.484311, interaction.depth=8, n.minobsinnode=24, n.trees=1179 
+- Fold2: shrinkage=0.484311, interaction.depth=8, n.minobsinnode=24, n.trees=1179 
++ Fold2: shrinkage=0.529068, interaction.depth=8, n.minobsinnode= 5, n.trees= 963 
+- Fold2: shrinkage=0.529068, interaction.depth=8, n.minobsinnode= 5, n.trees= 963 
++ Fold2: shrinkage=0.546114, interaction.depth=7, n.minobsinnode=22, n.trees=3475 
+- Fold2: shrinkage=0.546114, interaction.depth=7, n.minobsinnode=22, n.trees=3475 
++ Fold2: shrinkage=0.565929, interaction.depth=3, n.minobsinnode=25, n.trees=2660 
+- Fold2: shrinkage=0.565929, interaction.depth=3, n.minobsinnode=25, n.trees=2660 
+Aggregating results
+Selecting tuning parameters
+Fitting n.trees = 3802, interaction.depth = 6, shrinkage = 0.0456, n.minobsinnode = 17 on full training set

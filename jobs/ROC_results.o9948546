@@ -1,0 +1,30 @@
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos.csv.gz"
+[1] "class imbalance"
+[1] 0.02699776
+Bagged Model 
+
+1015623 samples
+   1541 predictor
+      2 classes: 'Negative', 'Positive' 
+
+Pre-processing: centered (1541), scaled (1541) 
+Resampling: Cross-Validated (3 fold) 
+Summary of sample sizes: 677081, 677083, 677082 
+Addtional sampling using down-sampling prior to pre-processing
+
+Resampling results:
+
+  ROC        Sens      Spec     
+  0.8285587  0.727842  0.7780463
+
+Tuning parameter 'vars' was held constant at a value of 1541
+[1] 0.13
+[1] 0.8314623
+[1] 0.7825215
+[1] 0.7274774
+[1] 0.07194415
+[1] 0.7825215
+[1] 0.1317732
+         AUC_PR   AUC_ROC      SENS      SPEC       PREC    RECALL        F1
+1.00_bag   0.13 0.8314623 0.7825215 0.7274774 0.07194415 0.7825215 0.1317732
+[1] "/exports/eddie/scratch/s1772751/Prepared_Data/index/dataset_downsampled_cleaned_caret_5sf_0_015neg_0_5pos.csv.gz"

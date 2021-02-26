@@ -1,0 +1,27 @@
+[1] "This is using svmPoly and tunelength"
+[1] "2020-10-22 19:34:24 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-22 19:34:33 BST"
+[1] "just about to train"
+[1] "2020-10-22 19:34:33 BST"
++ Fold1: degree=1, scale=1e-03, C=0.25 
+- Fold1: degree=1, scale=1e-03, C=0.25 
++ Fold1: degree=2, scale=1e-03, C=0.25 
+- Fold1: degree=2, scale=1e-03, C=0.25 
++ Fold1: degree=3, scale=1e-03, C=0.25 
+- Fold1: degree=3, scale=1e-03, C=0.25 
++ Fold1: degree=1, scale=1e-02, C=0.25 
+- Fold1: degree=1, scale=1e-02, C=0.25 
++ Fold1: degree=2, scale=1e-02, C=0.25 
+- Fold1: degree=2, scale=1e-02, C=0.25 
++ Fold1: degree=3, scale=1e-02, C=0.25 
+- Fold1: degree=3, scale=1e-02, C=0.25 
++ Fold1: degree=1, scale=1e-01, C=0.25 
+- Fold1: degree=1, scale=1e-01, C=0.25 
++ Fold1: degree=2, scale=1e-01, C=0.25 
+- Fold1: degree=2, scale=1e-01, C=0.25 
++ Fold1: degree=3, scale=1e-01, C=0.25 
+- Fold1: degree=3, scale=1e-01, C=0.25 
++ Fold1: degree=1, scale=1e+00, C=0.25 

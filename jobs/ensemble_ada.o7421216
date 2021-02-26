@@ -1,0 +1,11 @@
+[1] "This is using ada and tunelength"
+[1] "2020-10-14 17:13:09 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-14 17:32:53 BST"
+[1] "just about to train"
+[1] "2020-10-14 17:32:53 BST"
++ Fold1: nu=0.1, maxdepth=1, iter=250 
+- Fold1: nu=0.1, maxdepth=1, iter=250 
++ Fold1: nu=0.1, maxdepth=2, iter=250 

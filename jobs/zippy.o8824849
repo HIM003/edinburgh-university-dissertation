@@ -1,0 +1,32 @@
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+[1] 1269528    1548
+
+     chr1     chr10     chr11     chr12     chr13     chr14     chr15     chr16 
+0.7980241 1.1261356 1.0180276 0.9447274 1.9738908 1.1180770 0.8112556 0.7701145 
+    chr17     chr18     chr19      chr2     chr20     chr21     chr22      chr3 
+0.5424492 1.8796258 0.3386279 1.3985231 1.0044269 1.1614956 0.4889870 1.2960853 
+     chr4      chr5      chr6      chr7      chr8      chr9 
+1.8080081 1.4789597 0.8766958 0.9802362 1.6729363 1.1412276 
+
+ chr1_Negative  chr1_Positive chr10_Negative chr10_Positive chr11_Negative 
+         51131           1381          32105            867          31567 
+chr11_Positive chr12_Negative chr12_Positive chr13_Negative chr13_Positive 
+           853          30236            817          23134            625 
+chr14_Negative chr14_Positive chr15_Negative chr15_Positive chr16_Negative 
+         20955            566          19028            514          20981 
+chr16_Positive chr17_Negative chr17_Positive chr18_Negative chr18_Positive 
+           567          18312            495          18285            494 
+chr19_Negative chr19_Positive  chr2_Negative  chr2_Positive chr20_Negative 
+         13751            372          55678           1504          14748 
+chr20_Positive chr21_Negative chr21_Positive chr22_Negative chr22_Positive 
+           399           8760            237           8858            240 
+ chr3_Negative  chr3_Positive  chr4_Negative  chr4_Positive  chr5_Negative 
+         46650           1260          46238           1249          42140 
+ chr5_Positive  chr6_Negative  chr6_Positive  chr7_Negative  chr7_Positive 
+          1138          40712           1100          38091           1029 
+ chr8_Negative  chr8_Positive  chr9_Negative  chr9_Positive 
+         36378            983          28614            773 
+
+Negative Positive 
+  646352    17463 

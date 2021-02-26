@@ -1,0 +1,18 @@
+[1] "This is using bag and tunelength"
+[1] "2020-11-19 04:53:12 GMT"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-11-19 04:58:21 GMT"
+[1] "just about to train"
+[1] "2020-11-19 04:58:21 GMT"
++ Fold1: vars=1541 
+- Fold1: vars=1541 
++ Fold2: vars=1541 
+- Fold2: vars=1541 
++ Fold3: vars=1541 
+- Fold3: vars=1541 
+Aggregating results
+Fitting final model on full training set
+[1] "just about to save"
+[1] "2020-11-23 12:54:44 GMT"

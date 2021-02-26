@@ -1,0 +1,23 @@
+[1] "This is using the tunelength"
+[1] "2020-10-08 17:24:08 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-08 17:46:55 BST"
+[1] "just about to train"
+[1] "2020-10-08 17:46:55 BST"
++ Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=4, n.minobsinnode=10, n.trees=250 
++ Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
+- Fold1: shrinkage=0.1, interaction.depth=5, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
+- Fold2: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=250 
++ Fold2: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=250 

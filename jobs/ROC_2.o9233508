@@ -1,0 +1,772 @@
+[1] "loaded 5%"
+[1] "loaded 10%"
+[1] "loaded 25%"
+[1] "loaded 100%"
+[1] 0.7004562 0.6921578 0.6970885 0.6968680 0.6985150
+[1] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[4] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[1] "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost"
+[1] 0.8119356
+[1] "0.075% Neg & 2.5% Pos"
+[1] "lda"
+[1] 0.8119356
+[1] "0.075% Neg & 2.5% Pos"
+[1] "lda2"
+ [1] 0.8098206 0.8142013 0.8162470 0.8181973 0.8193968 0.8148467 0.8190926
+ [8] 0.8210471 0.8226765 0.8233266 0.8172568 0.8211460 0.8231535 0.8245085
+[15] 0.8253990 0.8188145 0.8224627 0.8245972 0.8256114 0.8260349 0.8198478
+[22] 0.8234135 0.8255713 0.8265813 0.8267266
+ [1] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+ [4] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+ [7] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[10] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[13] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[16] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[19] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[22] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[25] "0.075% Neg & 2.5% Pos"
+ [1] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[13] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[25] "gbm"
+[1] 0.7237111 0.7641694
+[1] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[1] "naivebayes" "naivebayes"
+[1] 0.8101764
+[1] "0.075% Neg & 2.5% Pos"
+[1] "bag"
+ [1] 0.8024051 0.8099695 0.8138297 0.8165024 0.8202907 0.8070037 0.8124642
+ [8] 0.8162862 0.8195993 0.8232258 0.8088857 0.8137472 0.8178363 0.8214289
+[15] 0.8244715 0.8102048 0.8147173 0.8189178 0.8222255 0.8253003 0.8109806
+[22] 0.8155884 0.8196730 0.8229844 0.8260460
+ [1] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+ [4] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+ [7] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[10] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[13] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[16] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[19] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[22] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[25] "0.075% Neg & 2.5% Pos"
+ [1] "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada"
+[13] "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada"
+[25] "ada"
+[1] 0.810062
+[1] "0.075% Neg & 2.5% Pos"
+[1] "glm"
+[1] 0.8155607
+[1] "0.075% Neg & 2.5% Pos"
+[1] "bagFDAGCV"
+ [1] 0.8124318 0.8130444 0.8158395 0.8108311 0.7997587 0.8097975 0.8098389
+ [8] 0.8101495 0.8101609 0.8100227 0.8099587 0.8100228 0.8104395 0.8116062
+[15] 0.7942342 0.8112799 0.8114160 0.8147400 0.8109666 0.7973651 0.8093872
+[22] 0.8103587 0.8103081 0.8103454 0.8095426 0.8099752 0.8101894 0.8103202
+[29] 0.8116206 0.7942563 0.8105321 0.8110434 0.8154966 0.8116055 0.7983454
+[36] 0.8095593 0.8102062 0.8096262 0.8099094 0.8096586 0.8099453 0.8098451
+[43] 0.8103606 0.8116161 0.7941850 0.8103588 0.8113055 0.8149270 0.8109721
+[50] 0.7955881 0.8095344 0.8096082 0.7999851 0.8068829 0.7997116 0.8100645
+[57] 0.8097620 0.8103130 0.8115909 0.7942276 0.8099936 0.8104532 0.8151128
+[64] 0.8114561 0.7955359 0.7907738 0.8018628 0.8027349 0.7987930 0.8023029
+[71] 0.8100856 0.8099338 0.8105216 0.8115496 0.7941902
+ [1] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+ [4] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+ [7] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[10] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[13] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[16] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[19] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[22] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[25] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[28] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[31] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[34] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[37] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[40] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[43] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[46] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[49] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[52] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[55] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[58] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[61] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[64] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[67] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[70] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+[73] "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos" "0.075% Neg & 2.5% Pos"
+ [1] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+ [6] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[11] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[16] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[21] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[26] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[31] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[36] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[41] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[46] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[51] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[56] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[61] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[66] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[71] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[1] 0.7290976 0.7499766 0.7239621 0.7389839 0.7307988
+[1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[4] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[1] "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost"
+[1] 0.8215198
+[1] "0.15% Neg & 5% Pos"
+[1] "lda"
+[1] 0.8215198
+[1] "0.15% Neg & 5% Pos"
+[1] "lda2"
+ [1] 0.8115740 0.8157207 0.8184316 0.8204672 0.8216966 0.8165272 0.8207912
+ [8] 0.8236346 0.8257104 0.8271455 0.8191244 0.8234962 0.8263137 0.8284911
+[15] 0.8297972 0.8207287 0.8253183 0.8280892 0.8303259 0.8316939 0.8219581
+[22] 0.8266064 0.8293364 0.8315418 0.8332213
+ [1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [4] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [7] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[10] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[13] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[16] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[19] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[22] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[25] "0.15% Neg & 5% Pos"
+ [1] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[13] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[25] "gbm"
+[1] 0.7236494 0.7644280
+[1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[1] "naivebayes" "naivebayes"
+[1] 0.8207502
+[1] "0.15% Neg & 5% Pos"
+[1] "bag"
+ [1] 0.8039297 0.8106544 0.8154575 0.8190576 0.8227999 0.8085659 0.8136151
+ [8] 0.8181256 0.8223699 0.8259649 0.8113790 0.8149571 0.8194339 0.8236514
+[15] 0.8273786 0.8128531 0.8160681 0.8202703 0.8245621 0.8283861 0.8136818
+[22] 0.8167220 0.8208450 0.8252621 0.8290761
+ [1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [4] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [7] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[10] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[13] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[16] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[19] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[22] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[25] "0.15% Neg & 5% Pos"
+ [1] "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada"
+[13] "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada"
+[25] "ada"
+[1] 0.8208599
+[1] "0.15% Neg & 5% Pos"
+[1] "glm"
+[1] 0.8170693
+[1] "0.15% Neg & 5% Pos"
+[1] "bagFDAGCV"
+ [1] 0.8217398 0.8222153 0.8216985 0.8174012 0.8000694 0.8208997 0.8210419
+ [8] 0.8208938 0.8209052 0.8208983 0.8209753 0.8209185 0.8217204 0.8086233
+[15] 0.7954334 0.8215541 0.8217875 0.8223510 0.8171218 0.8022521 0.8209360
+[22] 0.8208933 0.8209572 0.8209416 0.8209767 0.8209504 0.8208074 0.8214044
+[29] 0.8086539 0.7953940 0.8213172 0.8212281 0.8215001 0.8162074 0.8011760
+[36] 0.8207683 0.8206798 0.8208272 0.8210030 0.8206428 0.8209457 0.8208207
+[43] 0.8215164 0.8063032 0.7954166 0.8211492 0.8213044 0.8213735 0.8167983
+[50] 0.8016474 0.8177340 0.8177379 0.8184359 0.8147822 0.8182400 0.8208118
+[57] 0.8209306 0.8216290 0.8085981 0.7954363 0.8209177 0.8212487 0.8221993
+[64] 0.8169114 0.8028566 0.8049782 0.8109923 0.8042262 0.8122003 0.8078248
+[71] 0.8208546 0.8209060 0.8215403 0.8062930 0.7953564
+ [1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [4] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [7] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[10] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[13] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[16] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[19] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[22] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[25] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[28] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[31] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[34] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[37] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[40] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[43] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[46] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[49] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[52] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[55] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[58] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[61] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[64] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[67] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[70] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[73] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [1] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+ [6] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[11] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[16] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[21] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[26] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[31] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[36] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[41] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[46] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[51] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[56] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[61] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[66] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[71] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[1] 0.7458264 0.7325191 0.7200994 0.7324919 0.7209347
+[1] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[4] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[1] "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost"
+[1] 0.8257277
+[1] "0.375% Neg & 12.5% Pos"
+[1] "lda"
+[1] 0.8257277
+[1] "0.375% Neg & 12.5% Pos"
+[1] "lda2"
+ [1] 0.8113499 0.8155862 0.8180592 0.8201792 0.8217942 0.8162459 0.8207260
+ [8] 0.8234417 0.8258791 0.8276793 0.8187773 0.8234993 0.8265842 0.8289638
+[15] 0.8310610 0.8206171 0.8254548 0.8287075 0.8312248 0.8333312 0.8219285
+[22] 0.8270514 0.8303417 0.8329321 0.8350199
+ [1] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+ [4] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+ [7] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[10] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[13] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[16] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[19] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[22] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[25] "0.375% Neg & 12.5% Pos"
+ [1] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[13] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[25] "gbm"
+[1] 0.7233402 0.7637829
+[1] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[1] "naivebayes" "naivebayes"
+[1] 0.8253337
+[1] "0.375% Neg & 12.5% Pos"
+[1] "bag"
+ [1] 0.8047277 0.8107156 0.8156271 0.8189430 0.8230974 0.8089486 0.8138280
+ [8] 0.8180168 0.8222105 0.8260588 0.8114899 0.8151383 0.8196362 0.8239109
+[15] 0.8276149 0.8130032 0.8163439 0.8206384 0.8250756 0.8287187 0.8141468
+[22] 0.8172907 0.8214339 0.8257787 0.8295209
+ [1] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+ [4] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+ [7] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[10] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[13] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[16] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[19] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[22] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[25] "0.375% Neg & 12.5% Pos"
+ [1] "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada"
+[13] "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada" "ada"
+[25] "ada"
+[1] 0.826454
+[1] "0.375% Neg & 12.5% Pos"
+[1] "glm"
+[1] 0.8164754
+[1] "0.375% Neg & 12.5% Pos"
+[1] "bagFDAGCV"
+ [1] 0.8266020 0.8266191 0.8238016 0.8173835 0.8033090 0.8264896 0.8264343
+ [8] 0.8265014 0.8264806 0.8263973 0.8264519 0.8264602 0.8266098 0.8066704
+[15] 0.7956619 0.8265328 0.8266080 0.8245980 0.8172828 0.7982643 0.8264387
+[22] 0.8264709 0.8266343 0.8264458 0.8265172 0.8264574 0.8264352 0.8266195
+[29] 0.8066482 0.7956919 0.8265264 0.8265327 0.8241284 0.8174572 0.8002983
+[36] 0.8254767 0.8261749 0.8245497 0.8258543 0.8260815 0.8264557 0.8264851
+[43] 0.8266081 0.8066419 0.7956991 0.8264320 0.8264992 0.8252104 0.8175764
+[50] 0.8007670 0.8231156 0.8234678 0.8242231 0.8231033 0.8122576 0.8264479
+[57] 0.8264654 0.8265839 0.8066316 0.7956941 0.8264473 0.8264886 0.8242718
+[64] 0.8191913 0.8026292 0.8045159 0.8048002 0.8059586 0.8125251 0.8107800
+[71] 0.8264255 0.8264924 0.8266144 0.8066364 0.7956851
+ [1] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+ [4] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+ [7] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[10] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[13] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[16] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[19] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[22] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[25] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[28] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[31] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[34] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[37] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[40] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[43] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[46] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[49] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[52] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[55] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[58] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[61] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[64] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[67] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[70] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+[73] "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos" "0.375% Neg & 12.5% Pos"
+ [1] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+ [6] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[11] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[16] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[21] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[26] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[31] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[36] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[41] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[46] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[51] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[56] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[61] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[66] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[71] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[1] 0.7125436 0.7625916 0.7125231 0.7626050 0.7125338
+[1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[4] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[1] "LogitBoost0" "LogitBoost0" "LogitBoost0" "LogitBoost0" "LogitBoost0"
+[1] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[4] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[1] "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost" "LogitBoost"
+[1] 0.8286653
+[1] "0.15% Neg & 5% Pos"
+[1] "lda0"
+[1] "1.5% Neg & 50% Pos"
+[1] "lda"
+[1] 0.8286653
+[1] "0.15% Neg & 5% Pos"
+[1] "lda20"
+[1] "1.5% Neg & 50% Pos"
+[1] "lda2"
+ [1] 0.8126438 0.8168375 0.8196449 0.8216383 0.8230724 0.8174457 0.8218271
+ [8] 0.8249209 0.8272309 0.8288806 0.8199211 0.8245233 0.8279457 0.8305427
+[15] 0.8324014 0.8216012 0.8264658 0.8302319 0.8329622 0.8351228 0.8228520
+[22] 0.8280807 0.8320609 0.8349508 0.8372299
+ [1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [4] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [7] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[10] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[13] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[16] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[19] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[22] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[25] "0.15% Neg & 5% Pos"
+ [1] "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0"
+[11] "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0" "gbm0"
+[21] "gbm0" "gbm0" "gbm0" "gbm0" "gbm0"
+ [1] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+ [4] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+ [7] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[10] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[13] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[16] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[19] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[22] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[25] "1.5% Neg & 50% Pos"
+ [1] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[13] "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm" "gbm"
+[25] "gbm"
+[1] 0.7246732 0.7658123
+[1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[1] "naivebayes0" "naivebayes0"
+[1] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[1] "naivebayes" "naivebayes"
+[1] 0.8285587
+[1] "0.15% Neg & 5% Pos"
+[1] "bag0"
+[1] "1.5% Neg & 50% Pos"
+[1] "bag"
+[1] 0.8297935
+[1] "0.15% Neg & 5% Pos"
+[1] "glm0"
+[1] "1.5% Neg & 50% Pos"
+[1] "glm"
+ [1] 0.8297739 0.8267251 0.8191314 0.8298157 0.8296800 0.8298053 0.8297742
+ [8] 0.8297090 0.8080470 0.8297934 0.8261699 0.8194301 0.8295049 0.8285756
+[15] 0.8294388 0.8297765 0.8297066 0.8080394 0.8297838 0.8256804 0.8194248
+[22] 0.8251906 0.8258392 0.8269763 0.8297892 0.8293589 0.8080386
+ [1] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [4] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [7] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[10] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[13] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[16] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[19] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[22] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+[25] "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos" "0.15% Neg & 5% Pos"
+ [1] "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0"
+ [6] "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0"
+[11] "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0"
+[16] "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0"
+[21] "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0" "regLogistic0"
+[26] "regLogistic0" "regLogistic0"
+ [1] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+ [4] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+ [7] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[10] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[13] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[16] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[19] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[22] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+[25] "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos" "1.5% Neg & 50% Pos"
+ [1] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+ [6] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[11] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[16] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[21] "regLogistic" "regLogistic" "regLogistic" "regLogistic" "regLogistic"
+[26] "regLogistic" "regLogistic"
+  [1] 0.7004562 0.6921578 0.6970885 0.6968680 0.6985150 0.8119356 0.8119356
+  [8] 0.8098206 0.8142013 0.8162470 0.8181973 0.8193968 0.8148467 0.8190926
+ [15] 0.8210471 0.8226765 0.8233266 0.8172568 0.8211460 0.8231535 0.8245085
+ [22] 0.8253990 0.8188145 0.8224627 0.8245972 0.8256114 0.8260349 0.8198478
+ [29] 0.8234135 0.8255713 0.8265813 0.8267266 0.7237111 0.7641694 0.8101764
+ [36] 0.8024051 0.8099695 0.8138297 0.8165024 0.8202907 0.8070037 0.8124642
+ [43] 0.8162862 0.8195993 0.8232258 0.8088857 0.8137472 0.8178363 0.8214289
+ [50] 0.8244715 0.8102048 0.8147173 0.8189178 0.8222255 0.8253003 0.8109806
+ [57] 0.8155884 0.8196730 0.8229844 0.8260460 0.8100620 0.8155607 0.8124318
+ [64] 0.8130444 0.8158395 0.8108311 0.7997587 0.8097975 0.8098389 0.8101495
+ [71] 0.8101609 0.8100227 0.8099587 0.8100228 0.8104395 0.8116062 0.7942342
+ [78] 0.8112799 0.8114160 0.8147400 0.8109666 0.7973651 0.8093872 0.8103587
+ [85] 0.8103081 0.8103454 0.8095426 0.8099752 0.8101894 0.8103202 0.8116206
+ [92] 0.7942563 0.8105321 0.8110434 0.8154966 0.8116055 0.7983454 0.8095593
+ [99] 0.8102062 0.8096262 0.8099094 0.8096586 0.8099453 0.8098451 0.8103606
+[106] 0.8116161 0.7941850 0.8103588 0.8113055 0.8149270 0.8109721 0.7955881
+[113] 0.8095344 0.8096082 0.7999851 0.8068829 0.7997116 0.8100645 0.8097620
+[120] 0.8103130 0.8115909 0.7942276 0.8099936 0.8104532 0.8151128 0.8114561
+[127] 0.7955359 0.7907738 0.8018628 0.8027349 0.7987930 0.8023029 0.8100856
+[134] 0.8099338 0.8105216 0.8115496 0.7941902 0.7290976 0.7499766 0.7239621
+[141] 0.7389839 0.7307988 0.8215198 0.8215198 0.8115740 0.8157207 0.8184316
+[148] 0.8204672 0.8216966 0.8165272 0.8207912 0.8236346 0.8257104 0.8271455
+[155] 0.8191244 0.8234962 0.8263137 0.8284911 0.8297972 0.8207287 0.8253183
+[162] 0.8280892 0.8303259 0.8316939 0.8219581 0.8266064 0.8293364 0.8315418
+[169] 0.8332213 0.7236494 0.7644280 0.8207502 0.8039297 0.8106544 0.8154575
+[176] 0.8190576 0.8227999 0.8085659 0.8136151 0.8181256 0.8223699 0.8259649
+[183] 0.8113790 0.8149571 0.8194339 0.8236514 0.8273786 0.8128531 0.8160681
+[190] 0.8202703 0.8245621 0.8283861 0.8136818 0.8167220 0.8208450 0.8252621
+[197] 0.8290761 0.8208599 0.8170693 0.8217398 0.8222153 0.8216985 0.8174012
+[204] 0.8000694 0.8208997 0.8210419 0.8208938 0.8209052 0.8208983 0.8209753
+[211] 0.8209185 0.8217204 0.8086233 0.7954334 0.8215541 0.8217875 0.8223510
+[218] 0.8171218 0.8022521 0.8209360 0.8208933 0.8209572 0.8209416 0.8209767
+[225] 0.8209504 0.8208074 0.8214044 0.8086539 0.7953940 0.8213172 0.8212281
+[232] 0.8215001 0.8162074 0.8011760 0.8207683 0.8206798 0.8208272 0.8210030
+[239] 0.8206428 0.8209457 0.8208207 0.8215164 0.8063032 0.7954166 0.8211492
+[246] 0.8213044 0.8213735 0.8167983 0.8016474 0.8177340 0.8177379 0.8184359
+[253] 0.8147822 0.8182400 0.8208118 0.8209306 0.8216290 0.8085981 0.7954363
+[260] 0.8209177 0.8212487 0.8221993 0.8169114 0.8028566 0.8049782 0.8109923
+[267] 0.8042262 0.8122003 0.8078248 0.8208546 0.8209060 0.8215403 0.8062930
+[274] 0.7953564 0.7458264 0.7325191 0.7200994 0.7324919 0.7209347 0.8257277
+[281] 0.8257277 0.8113499 0.8155862 0.8180592 0.8201792 0.8217942 0.8162459
+[288] 0.8207260 0.8234417 0.8258791 0.8276793 0.8187773 0.8234993 0.8265842
+[295] 0.8289638 0.8310610 0.8206171 0.8254548 0.8287075 0.8312248 0.8333312
+[302] 0.8219285 0.8270514 0.8303417 0.8329321 0.8350199 0.7233402 0.7637829
+[309] 0.8253337 0.8047277 0.8107156 0.8156271 0.8189430 0.8230974 0.8089486
+[316] 0.8138280 0.8180168 0.8222105 0.8260588 0.8114899 0.8151383 0.8196362
+[323] 0.8239109 0.8276149 0.8130032 0.8163439 0.8206384 0.8250756 0.8287187
+[330] 0.8141468 0.8172907 0.8214339 0.8257787 0.8295209 0.8264540 0.8164754
+[337] 0.8266020 0.8266191 0.8238016 0.8173835 0.8033090 0.8264896 0.8264343
+[344] 0.8265014 0.8264806 0.8263973 0.8264519 0.8264602 0.8266098 0.8066704
+[351] 0.7956619 0.8265328 0.8266080 0.8245980 0.8172828 0.7982643 0.8264387
+[358] 0.8264709 0.8266343 0.8264458 0.8265172 0.8264574 0.8264352 0.8266195
+[365] 0.8066482 0.7956919 0.8265264 0.8265327 0.8241284 0.8174572 0.8002983
+[372] 0.8254767 0.8261749 0.8245497 0.8258543 0.8260815 0.8264557 0.8264851
+[379] 0.8266081 0.8066419 0.7956991 0.8264320 0.8264992 0.8252104 0.8175764
+[386] 0.8007670 0.8231156 0.8234678 0.8242231 0.8231033 0.8122576 0.8264479
+[393] 0.8264654 0.8265839 0.8066316 0.7956941 0.8264473 0.8264886 0.8242718
+[400] 0.8191913 0.8026292 0.8045159 0.8048002 0.8059586 0.8125251 0.8107800
+[407] 0.8264255 0.8264924 0.8266144 0.8066364 0.7956851 0.7125436 0.7625916
+[414] 0.7125231 0.7626050 0.7125338 0.8286653 0.8286653 0.8126438 0.8168375
+[421] 0.8196449 0.8216383 0.8230724 0.8174457 0.8218271 0.8249209 0.8272309
+[428] 0.8288806 0.8199211 0.8245233 0.8279457 0.8305427 0.8324014 0.8216012
+[435] 0.8264658 0.8302319 0.8329622 0.8351228 0.8228520 0.8280807 0.8320609
+[442] 0.8349508 0.8372299 0.7246732 0.7658123 0.8285587 0.8297935 0.8297739
+[449] 0.8267251 0.8191314 0.8298157 0.8296800 0.8298053 0.8297742 0.8297090
+[456] 0.8080470 0.8297934 0.8261699 0.8194301 0.8295049 0.8285756 0.8294388
+[463] 0.8297765 0.8297066 0.8080394 0.8297838 0.8256804 0.8194248 0.8251906
+[470] 0.8258392 0.8269763 0.8297892 0.8293589 0.8080386
+  [1] LogitBoost   LogitBoost   LogitBoost   LogitBoost   LogitBoost  
+  [6] lda          lda2         gbm          gbm          gbm         
+ [11] gbm          gbm          gbm          gbm          gbm         
+ [16] gbm          gbm          gbm          gbm          gbm         
+ [21] gbm          gbm          gbm          gbm          gbm         
+ [26] gbm          gbm          gbm          gbm          gbm         
+ [31] gbm          gbm          naivebayes   naivebayes   bag         
+ [36] ada          ada          ada          ada          ada         
+ [41] ada          ada          ada          ada          ada         
+ [46] ada          ada          ada          ada          ada         
+ [51] ada          ada          ada          ada          ada         
+ [56] ada          ada          ada          ada          ada         
+ [61] glm          bagFDAGCV    regLogistic  regLogistic  regLogistic 
+ [66] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+ [71] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+ [76] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+ [81] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+ [86] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+ [91] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+ [96] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[101] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[106] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[111] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[116] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[121] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[126] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[131] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[136] regLogistic  regLogistic  LogitBoost   LogitBoost   LogitBoost  
+[141] LogitBoost   LogitBoost   lda          lda2         gbm         
+[146] gbm          gbm          gbm          gbm          gbm         
+[151] gbm          gbm          gbm          gbm          gbm         
+[156] gbm          gbm          gbm          gbm          gbm         
+[161] gbm          gbm          gbm          gbm          gbm         
+[166] gbm          gbm          gbm          gbm          naivebayes  
+[171] naivebayes   bag          ada          ada          ada         
+[176] ada          ada          ada          ada          ada         
+[181] ada          ada          ada          ada          ada         
+[186] ada          ada          ada          ada          ada         
+[191] ada          ada          ada          ada          ada         
+[196] ada          ada          glm          bagFDAGCV    regLogistic 
+[201] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[206] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[211] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[216] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[221] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[226] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[231] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[236] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[241] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[246] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[251] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[256] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[261] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[266] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[271] regLogistic  regLogistic  regLogistic  regLogistic  LogitBoost  
+[276] LogitBoost   LogitBoost   LogitBoost   LogitBoost   lda         
+[281] lda2         gbm          gbm          gbm          gbm         
+[286] gbm          gbm          gbm          gbm          gbm         
+[291] gbm          gbm          gbm          gbm          gbm         
+[296] gbm          gbm          gbm          gbm          gbm         
+[301] gbm          gbm          gbm          gbm          gbm         
+[306] gbm          naivebayes   naivebayes   bag          ada         
+[311] ada          ada          ada          ada          ada         
+[316] ada          ada          ada          ada          ada         
+[321] ada          ada          ada          ada          ada         
+[326] ada          ada          ada          ada          ada         
+[331] ada          ada          ada          ada          glm         
+[336] bagFDAGCV    regLogistic  regLogistic  regLogistic  regLogistic 
+[341] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[346] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[351] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[356] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[361] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[366] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[371] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[376] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[381] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[386] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[391] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[396] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[401] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[406] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[411] regLogistic  LogitBoost0  LogitBoost0  LogitBoost0  LogitBoost0 
+[416] LogitBoost0  LogitBoost   LogitBoost   LogitBoost   LogitBoost  
+[421] LogitBoost   lda0         lda          lda20        lda2        
+[426] gbm0         gbm0         gbm0         gbm0         gbm0        
+[431] gbm0         gbm0         gbm0         gbm0         gbm0        
+[436] gbm0         gbm0         gbm0         gbm0         gbm0        
+[441] gbm0         gbm0         gbm0         gbm0         gbm0        
+[446] gbm0         gbm0         gbm0         gbm0         gbm0        
+[451] gbm          gbm          gbm          gbm          gbm         
+[456] gbm          gbm          gbm          gbm          gbm         
+[461] gbm          gbm          gbm          gbm          gbm         
+[466] gbm          gbm          gbm          gbm          gbm         
+[471] gbm          gbm          gbm          gbm          gbm         
+[476] naivebayes0  naivebayes0  naivebayes   naivebayes   bag0        
+[481] bag          glm0         glm          regLogistic0 regLogistic0
+[486] regLogistic0 regLogistic0 regLogistic0 regLogistic0 regLogistic0
+[491] regLogistic0 regLogistic0 regLogistic0 regLogistic0 regLogistic0
+[496] regLogistic0 regLogistic0 regLogistic0 regLogistic0 regLogistic0
+[501] regLogistic0 regLogistic0 regLogistic0 regLogistic0 regLogistic0
+[506] regLogistic0 regLogistic0 regLogistic0 regLogistic0 regLogistic0
+[511] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[516] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[521] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[526] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[531] regLogistic  regLogistic  regLogistic  regLogistic  regLogistic 
+[536] regLogistic  regLogistic 
+18 Levels: LogitBoost lda lda2 gbm naivebayes bag ada glm ... regLogistic0
+  [1] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+  [4] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+  [7] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [10] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [13] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [16] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [19] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [22] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [25] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [28] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [31] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [34] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [37] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [40] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [43] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [46] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [49] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [52] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [55] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [58] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [61] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [64] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [67] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [70] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [73] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [76] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [79] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [82] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [85] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [88] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [91] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [94] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+ [97] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[100] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[103] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[106] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[109] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[112] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[115] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[118] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[121] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[124] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[127] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[130] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[133] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos 
+[136] 0.075% Neg & 2.5% Pos  0.075% Neg & 2.5% Pos  0.15% Neg & 5% Pos    
+[139] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[142] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[145] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[148] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[151] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[154] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[157] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[160] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[163] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[166] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[169] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[172] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[175] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[178] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[181] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[184] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[187] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[190] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[193] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[196] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[199] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[202] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[205] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[208] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[211] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[214] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[217] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[220] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[223] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[226] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[229] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[232] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[235] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[238] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[241] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[244] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[247] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[250] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[253] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[256] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[259] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[262] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[265] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[268] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[271] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[274] 0.15% Neg & 5% Pos     0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[277] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[280] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[283] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[286] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[289] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[292] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[295] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[298] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[301] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[304] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[307] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[310] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[313] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[316] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[319] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[322] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[325] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[328] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[331] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[334] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[337] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[340] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[343] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[346] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[349] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[352] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[355] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[358] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[361] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[364] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[367] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[370] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[373] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[376] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[379] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[382] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[385] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[388] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[391] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[394] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[397] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[400] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[403] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[406] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[409] 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos 0.375% Neg & 12.5% Pos
+[412] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[415] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     1.5% Neg & 50% Pos    
+[418] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[421] 1.5% Neg & 50% Pos     0.15% Neg & 5% Pos     1.5% Neg & 50% Pos    
+[424] 0.15% Neg & 5% Pos     1.5% Neg & 50% Pos     0.15% Neg & 5% Pos    
+[427] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[430] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[433] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[436] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[439] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[442] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[445] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[448] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[451] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[454] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[457] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[460] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[463] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[466] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[469] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[472] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[475] 1.5% Neg & 50% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[478] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     0.15% Neg & 5% Pos    
+[481] 1.5% Neg & 50% Pos     0.15% Neg & 5% Pos     1.5% Neg & 50% Pos    
+[484] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[487] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[490] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[493] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[496] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[499] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[502] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[505] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[508] 0.15% Neg & 5% Pos     0.15% Neg & 5% Pos     0.15% Neg & 5% Pos    
+[511] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[514] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[517] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[520] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[523] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[526] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[529] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[532] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+[535] 1.5% Neg & 50% Pos     1.5% Neg & 50% Pos     1.5% Neg & 50% Pos    
+4 Levels: 0.075% Neg & 2.5% Pos 0.15% Neg & 5% Pos ... 1.5% Neg & 50% Pos
+null device 
+          1 

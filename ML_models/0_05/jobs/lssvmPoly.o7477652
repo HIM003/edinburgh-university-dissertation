@@ -1,0 +1,1098 @@
+[1] "This is using lssvmPoly and tunelength"
+[1] "2020-10-18 00:12:33 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-18 00:12:48 BST"
+[1] "just about to train"
+[1] "2020-10-18 00:12:48 BST"
++ Fold1: degree=1, scale=1e-03, tau=0.0625 
+model fit failed for Fold1: degree=1, scale=1e-03, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-03, tau=0.0625 
++ Fold1: degree=2, scale=1e-03, tau=0.0625 
+model fit failed for Fold1: degree=2, scale=1e-03, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-03, tau=0.0625 
++ Fold1: degree=3, scale=1e-03, tau=0.0625 
+model fit failed for Fold1: degree=3, scale=1e-03, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-03, tau=0.0625 
++ Fold1: degree=1, scale=1e-02, tau=0.0625 
+model fit failed for Fold1: degree=1, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-02, tau=0.0625 
++ Fold1: degree=2, scale=1e-02, tau=0.0625 
+model fit failed for Fold1: degree=2, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-02, tau=0.0625 
++ Fold1: degree=3, scale=1e-02, tau=0.0625 
+model fit failed for Fold1: degree=3, scale=1e-02, tau=0.0625 Error in matrix(rowSums(t(G))/dim(G)[1], dim(G)[2], dim(G)[1]) : 
+  non-numeric matrix extent
+ 
+- Fold1: degree=3, scale=1e-02, tau=0.0625 
++ Fold1: degree=1, scale=1e-01, tau=0.0625 
+model fit failed for Fold1: degree=1, scale=1e-01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-01, tau=0.0625 
++ Fold1: degree=2, scale=1e-01, tau=0.0625 
+model fit failed for Fold1: degree=2, scale=1e-01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-01, tau=0.0625 
++ Fold1: degree=3, scale=1e-01, tau=0.0625 
+model fit failed for Fold1: degree=3, scale=1e-01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-01, tau=0.0625 
++ Fold1: degree=1, scale=1e+00, tau=0.0625 
+model fit failed for Fold1: degree=1, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+00, tau=0.0625 
++ Fold1: degree=2, scale=1e+00, tau=0.0625 
+model fit failed for Fold1: degree=2, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+00, tau=0.0625 
++ Fold1: degree=3, scale=1e+00, tau=0.0625 
+model fit failed for Fold1: degree=3, scale=1e+00, tau=0.0625 Error in matrix(rowSums(t(G))/dim(G)[1], dim(G)[2], dim(G)[1]) : 
+  non-numeric matrix extent
+ 
+- Fold1: degree=3, scale=1e+00, tau=0.0625 
++ Fold1: degree=1, scale=1e+01, tau=0.0625 
+model fit failed for Fold1: degree=1, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+01, tau=0.0625 
++ Fold1: degree=2, scale=1e+01, tau=0.0625 
+model fit failed for Fold1: degree=2, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+01, tau=0.0625 
++ Fold1: degree=3, scale=1e+01, tau=0.0625 
+model fit failed for Fold1: degree=3, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e+01, tau=0.0625 
++ Fold1: degree=1, scale=1e-03, tau=0.1250 
+model fit failed for Fold1: degree=1, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-03, tau=0.1250 
++ Fold1: degree=2, scale=1e-03, tau=0.1250 
+model fit failed for Fold1: degree=2, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-03, tau=0.1250 
++ Fold1: degree=3, scale=1e-03, tau=0.1250 
+- Fold1: degree=3, scale=1e-03, tau=0.1250 
++ Fold1: degree=1, scale=1e-02, tau=0.1250 
+model fit failed for Fold1: degree=1, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-02, tau=0.1250 
++ Fold1: degree=2, scale=1e-02, tau=0.1250 
+model fit failed for Fold1: degree=2, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-02, tau=0.1250 
++ Fold1: degree=3, scale=1e-02, tau=0.1250 
+model fit failed for Fold1: degree=3, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-02, tau=0.1250 
++ Fold1: degree=1, scale=1e-01, tau=0.1250 
+model fit failed for Fold1: degree=1, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-01, tau=0.1250 
++ Fold1: degree=2, scale=1e-01, tau=0.1250 
+model fit failed for Fold1: degree=2, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-01, tau=0.1250 
++ Fold1: degree=3, scale=1e-01, tau=0.1250 
+model fit failed for Fold1: degree=3, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-01, tau=0.1250 
++ Fold1: degree=1, scale=1e+00, tau=0.1250 
+model fit failed for Fold1: degree=1, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+00, tau=0.1250 
++ Fold1: degree=2, scale=1e+00, tau=0.1250 
+model fit failed for Fold1: degree=2, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+00, tau=0.1250 
++ Fold1: degree=3, scale=1e+00, tau=0.1250 
+model fit failed for Fold1: degree=3, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e+00, tau=0.1250 
++ Fold1: degree=1, scale=1e+01, tau=0.1250 
+model fit failed for Fold1: degree=1, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+01, tau=0.1250 
++ Fold1: degree=2, scale=1e+01, tau=0.1250 
+model fit failed for Fold1: degree=2, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+01, tau=0.1250 
++ Fold1: degree=3, scale=1e+01, tau=0.1250 
+model fit failed for Fold1: degree=3, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e+01, tau=0.1250 
++ Fold1: degree=1, scale=1e-03, tau=0.2500 
+model fit failed for Fold1: degree=1, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-03, tau=0.2500 
++ Fold1: degree=2, scale=1e-03, tau=0.2500 
+model fit failed for Fold1: degree=2, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-03, tau=0.2500 
++ Fold1: degree=3, scale=1e-03, tau=0.2500 
+- Fold1: degree=3, scale=1e-03, tau=0.2500 
++ Fold1: degree=1, scale=1e-02, tau=0.2500 
+model fit failed for Fold1: degree=1, scale=1e-02, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-02, tau=0.2500 
++ Fold1: degree=2, scale=1e-02, tau=0.2500 
+model fit failed for Fold1: degree=2, scale=1e-02, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-02, tau=0.2500 
++ Fold1: degree=3, scale=1e-02, tau=0.2500 
+model fit failed for Fold1: degree=3, scale=1e-02, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-02, tau=0.2500 
++ Fold1: degree=1, scale=1e-01, tau=0.2500 
+model fit failed for Fold1: degree=1, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-01, tau=0.2500 
++ Fold1: degree=2, scale=1e-01, tau=0.2500 
+model fit failed for Fold1: degree=2, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-01, tau=0.2500 
++ Fold1: degree=3, scale=1e-01, tau=0.2500 
+model fit failed for Fold1: degree=3, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-01, tau=0.2500 
++ Fold1: degree=1, scale=1e+00, tau=0.2500 
+model fit failed for Fold1: degree=1, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+00, tau=0.2500 
++ Fold1: degree=2, scale=1e+00, tau=0.2500 
+model fit failed for Fold1: degree=2, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+00, tau=0.2500 
++ Fold1: degree=3, scale=1e+00, tau=0.2500 
+model fit failed for Fold1: degree=3, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e+00, tau=0.2500 
++ Fold1: degree=1, scale=1e+01, tau=0.2500 
+model fit failed for Fold1: degree=1, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+01, tau=0.2500 
++ Fold1: degree=2, scale=1e+01, tau=0.2500 
+model fit failed for Fold1: degree=2, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+01, tau=0.2500 
++ Fold1: degree=3, scale=1e+01, tau=0.2500 
+model fit failed for Fold1: degree=3, scale=1e+01, tau=0.2500 Error in matrix(rowSums(t(G))/dim(G)[1], dim(G)[2], dim(G)[1]) : 
+  non-numeric matrix extent
+ 
+- Fold1: degree=3, scale=1e+01, tau=0.2500 
++ Fold1: degree=1, scale=1e-03, tau=0.5000 
+model fit failed for Fold1: degree=1, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-03, tau=0.5000 
++ Fold1: degree=2, scale=1e-03, tau=0.5000 
+model fit failed for Fold1: degree=2, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-03, tau=0.5000 
++ Fold1: degree=3, scale=1e-03, tau=0.5000 
+- Fold1: degree=3, scale=1e-03, tau=0.5000 
++ Fold1: degree=1, scale=1e-02, tau=0.5000 
+model fit failed for Fold1: degree=1, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-02, tau=0.5000 
++ Fold1: degree=2, scale=1e-02, tau=0.5000 
+model fit failed for Fold1: degree=2, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-02, tau=0.5000 
++ Fold1: degree=3, scale=1e-02, tau=0.5000 
+model fit failed for Fold1: degree=3, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-02, tau=0.5000 
++ Fold1: degree=1, scale=1e-01, tau=0.5000 
+model fit failed for Fold1: degree=1, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-01, tau=0.5000 
++ Fold1: degree=2, scale=1e-01, tau=0.5000 
+model fit failed for Fold1: degree=2, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-01, tau=0.5000 
++ Fold1: degree=3, scale=1e-01, tau=0.5000 
+model fit failed for Fold1: degree=3, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-01, tau=0.5000 
++ Fold1: degree=1, scale=1e+00, tau=0.5000 
+model fit failed for Fold1: degree=1, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+00, tau=0.5000 
++ Fold1: degree=2, scale=1e+00, tau=0.5000 
+model fit failed for Fold1: degree=2, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+00, tau=0.5000 
++ Fold1: degree=3, scale=1e+00, tau=0.5000 
+model fit failed for Fold1: degree=3, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e+00, tau=0.5000 
++ Fold1: degree=1, scale=1e+01, tau=0.5000 
+- Fold1: degree=1, scale=1e+01, tau=0.5000 
++ Fold1: degree=2, scale=1e+01, tau=0.5000 
+model fit failed for Fold1: degree=2, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+01, tau=0.5000 
++ Fold1: degree=3, scale=1e+01, tau=0.5000 
+model fit failed for Fold1: degree=3, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e+01, tau=0.5000 
++ Fold1: degree=1, scale=1e-03, tau=1.0000 
+model fit failed for Fold1: degree=1, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-03, tau=1.0000 
++ Fold1: degree=2, scale=1e-03, tau=1.0000 
+model fit failed for Fold1: degree=2, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-03, tau=1.0000 
++ Fold1: degree=3, scale=1e-03, tau=1.0000 
+model fit failed for Fold1: degree=3, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-03, tau=1.0000 
++ Fold1: degree=1, scale=1e-02, tau=1.0000 
+model fit failed for Fold1: degree=1, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-02, tau=1.0000 
++ Fold1: degree=2, scale=1e-02, tau=1.0000 
+model fit failed for Fold1: degree=2, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-02, tau=1.0000 
++ Fold1: degree=3, scale=1e-02, tau=1.0000 
+model fit failed for Fold1: degree=3, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-02, tau=1.0000 
++ Fold1: degree=1, scale=1e-01, tau=1.0000 
+model fit failed for Fold1: degree=1, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e-01, tau=1.0000 
++ Fold1: degree=2, scale=1e-01, tau=1.0000 
+model fit failed for Fold1: degree=2, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e-01, tau=1.0000 
++ Fold1: degree=3, scale=1e-01, tau=1.0000 
+model fit failed for Fold1: degree=3, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e-01, tau=1.0000 
++ Fold1: degree=1, scale=1e+00, tau=1.0000 
+model fit failed for Fold1: degree=1, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+00, tau=1.0000 
++ Fold1: degree=2, scale=1e+00, tau=1.0000 
+model fit failed for Fold1: degree=2, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+00, tau=1.0000 
++ Fold1: degree=3, scale=1e+00, tau=1.0000 
+model fit failed for Fold1: degree=3, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=3, scale=1e+00, tau=1.0000 
++ Fold1: degree=1, scale=1e+01, tau=1.0000 
+model fit failed for Fold1: degree=1, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=1, scale=1e+01, tau=1.0000 
++ Fold1: degree=2, scale=1e+01, tau=1.0000 
+model fit failed for Fold1: degree=2, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold1: degree=2, scale=1e+01, tau=1.0000 
++ Fold1: degree=3, scale=1e+01, tau=1.0000 
+- Fold1: degree=3, scale=1e+01, tau=1.0000 
++ Fold2: degree=1, scale=1e-03, tau=0.0625 
+model fit failed for Fold2: degree=1, scale=1e-03, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-03, tau=0.0625 
++ Fold2: degree=2, scale=1e-03, tau=0.0625 
+model fit failed for Fold2: degree=2, scale=1e-03, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-03, tau=0.0625 
++ Fold2: degree=3, scale=1e-03, tau=0.0625 
+- Fold2: degree=3, scale=1e-03, tau=0.0625 
++ Fold2: degree=1, scale=1e-02, tau=0.0625 
+model fit failed for Fold2: degree=1, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-02, tau=0.0625 
++ Fold2: degree=2, scale=1e-02, tau=0.0625 
+model fit failed for Fold2: degree=2, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-02, tau=0.0625 
++ Fold2: degree=3, scale=1e-02, tau=0.0625 
+model fit failed for Fold2: degree=3, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-02, tau=0.0625 
++ Fold2: degree=1, scale=1e-01, tau=0.0625 
+model fit failed for Fold2: degree=1, scale=1e-01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-01, tau=0.0625 
++ Fold2: degree=2, scale=1e-01, tau=0.0625 
+model fit failed for Fold2: degree=2, scale=1e-01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-01, tau=0.0625 
++ Fold2: degree=3, scale=1e-01, tau=0.0625 
+- Fold2: degree=3, scale=1e-01, tau=0.0625 
++ Fold2: degree=1, scale=1e+00, tau=0.0625 
+model fit failed for Fold2: degree=1, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+00, tau=0.0625 
++ Fold2: degree=2, scale=1e+00, tau=0.0625 
+model fit failed for Fold2: degree=2, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+00, tau=0.0625 
++ Fold2: degree=3, scale=1e+00, tau=0.0625 
+model fit failed for Fold2: degree=3, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+00, tau=0.0625 
++ Fold2: degree=1, scale=1e+01, tau=0.0625 
+model fit failed for Fold2: degree=1, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+01, tau=0.0625 
++ Fold2: degree=2, scale=1e+01, tau=0.0625 
+model fit failed for Fold2: degree=2, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+01, tau=0.0625 
++ Fold2: degree=3, scale=1e+01, tau=0.0625 
+model fit failed for Fold2: degree=3, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+01, tau=0.0625 
++ Fold2: degree=1, scale=1e-03, tau=0.1250 
+model fit failed for Fold2: degree=1, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-03, tau=0.1250 
++ Fold2: degree=2, scale=1e-03, tau=0.1250 
+model fit failed for Fold2: degree=2, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-03, tau=0.1250 
++ Fold2: degree=3, scale=1e-03, tau=0.1250 
+model fit failed for Fold2: degree=3, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-03, tau=0.1250 
++ Fold2: degree=1, scale=1e-02, tau=0.1250 
+model fit failed for Fold2: degree=1, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-02, tau=0.1250 
++ Fold2: degree=2, scale=1e-02, tau=0.1250 
+model fit failed for Fold2: degree=2, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-02, tau=0.1250 
++ Fold2: degree=3, scale=1e-02, tau=0.1250 
+model fit failed for Fold2: degree=3, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-02, tau=0.1250 
++ Fold2: degree=1, scale=1e-01, tau=0.1250 
+model fit failed for Fold2: degree=1, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-01, tau=0.1250 
++ Fold2: degree=2, scale=1e-01, tau=0.1250 
+model fit failed for Fold2: degree=2, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-01, tau=0.1250 
++ Fold2: degree=3, scale=1e-01, tau=0.1250 
+model fit failed for Fold2: degree=3, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-01, tau=0.1250 
++ Fold2: degree=1, scale=1e+00, tau=0.1250 
+model fit failed for Fold2: degree=1, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+00, tau=0.1250 
++ Fold2: degree=2, scale=1e+00, tau=0.1250 
+model fit failed for Fold2: degree=2, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+00, tau=0.1250 
++ Fold2: degree=3, scale=1e+00, tau=0.1250 
+model fit failed for Fold2: degree=3, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+00, tau=0.1250 
++ Fold2: degree=1, scale=1e+01, tau=0.1250 
+model fit failed for Fold2: degree=1, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+01, tau=0.1250 
++ Fold2: degree=2, scale=1e+01, tau=0.1250 
+model fit failed for Fold2: degree=2, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+01, tau=0.1250 
++ Fold2: degree=3, scale=1e+01, tau=0.1250 
+model fit failed for Fold2: degree=3, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+01, tau=0.1250 
++ Fold2: degree=1, scale=1e-03, tau=0.2500 
+model fit failed for Fold2: degree=1, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-03, tau=0.2500 
++ Fold2: degree=2, scale=1e-03, tau=0.2500 
+model fit failed for Fold2: degree=2, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-03, tau=0.2500 
++ Fold2: degree=3, scale=1e-03, tau=0.2500 
+model fit failed for Fold2: degree=3, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-03, tau=0.2500 
++ Fold2: degree=1, scale=1e-02, tau=0.2500 
+model fit failed for Fold2: degree=1, scale=1e-02, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-02, tau=0.2500 
++ Fold2: degree=2, scale=1e-02, tau=0.2500 
+model fit failed for Fold2: degree=2, scale=1e-02, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-02, tau=0.2500 
++ Fold2: degree=3, scale=1e-02, tau=0.2500 
+model fit failed for Fold2: degree=3, scale=1e-02, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-02, tau=0.2500 
++ Fold2: degree=1, scale=1e-01, tau=0.2500 
+- Fold2: degree=1, scale=1e-01, tau=0.2500 
++ Fold2: degree=2, scale=1e-01, tau=0.2500 
+model fit failed for Fold2: degree=2, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-01, tau=0.2500 
++ Fold2: degree=3, scale=1e-01, tau=0.2500 
+model fit failed for Fold2: degree=3, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-01, tau=0.2500 
++ Fold2: degree=1, scale=1e+00, tau=0.2500 
+model fit failed for Fold2: degree=1, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+00, tau=0.2500 
++ Fold2: degree=2, scale=1e+00, tau=0.2500 
+model fit failed for Fold2: degree=2, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+00, tau=0.2500 
++ Fold2: degree=3, scale=1e+00, tau=0.2500 
+model fit failed for Fold2: degree=3, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+00, tau=0.2500 
++ Fold2: degree=1, scale=1e+01, tau=0.2500 
+model fit failed for Fold2: degree=1, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+01, tau=0.2500 
++ Fold2: degree=2, scale=1e+01, tau=0.2500 
+model fit failed for Fold2: degree=2, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+01, tau=0.2500 
++ Fold2: degree=3, scale=1e+01, tau=0.2500 
+model fit failed for Fold2: degree=3, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+01, tau=0.2500 
++ Fold2: degree=1, scale=1e-03, tau=0.5000 
+model fit failed for Fold2: degree=1, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-03, tau=0.5000 
++ Fold2: degree=2, scale=1e-03, tau=0.5000 
+model fit failed for Fold2: degree=2, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-03, tau=0.5000 
++ Fold2: degree=3, scale=1e-03, tau=0.5000 
+model fit failed for Fold2: degree=3, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-03, tau=0.5000 
++ Fold2: degree=1, scale=1e-02, tau=0.5000 
+model fit failed for Fold2: degree=1, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-02, tau=0.5000 
++ Fold2: degree=2, scale=1e-02, tau=0.5000 
+model fit failed for Fold2: degree=2, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-02, tau=0.5000 
++ Fold2: degree=3, scale=1e-02, tau=0.5000 
+model fit failed for Fold2: degree=3, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-02, tau=0.5000 
++ Fold2: degree=1, scale=1e-01, tau=0.5000 
+model fit failed for Fold2: degree=1, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-01, tau=0.5000 
++ Fold2: degree=2, scale=1e-01, tau=0.5000 
+model fit failed for Fold2: degree=2, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-01, tau=0.5000 
++ Fold2: degree=3, scale=1e-01, tau=0.5000 
+model fit failed for Fold2: degree=3, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-01, tau=0.5000 
++ Fold2: degree=1, scale=1e+00, tau=0.5000 
+model fit failed for Fold2: degree=1, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+00, tau=0.5000 
++ Fold2: degree=2, scale=1e+00, tau=0.5000 
+model fit failed for Fold2: degree=2, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+00, tau=0.5000 
++ Fold2: degree=3, scale=1e+00, tau=0.5000 
+model fit failed for Fold2: degree=3, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+00, tau=0.5000 
++ Fold2: degree=1, scale=1e+01, tau=0.5000 
+model fit failed for Fold2: degree=1, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+01, tau=0.5000 
++ Fold2: degree=2, scale=1e+01, tau=0.5000 
+model fit failed for Fold2: degree=2, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+01, tau=0.5000 
++ Fold2: degree=3, scale=1e+01, tau=0.5000 
+model fit failed for Fold2: degree=3, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+01, tau=0.5000 
++ Fold2: degree=1, scale=1e-03, tau=1.0000 
+model fit failed for Fold2: degree=1, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-03, tau=1.0000 
++ Fold2: degree=2, scale=1e-03, tau=1.0000 
+model fit failed for Fold2: degree=2, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-03, tau=1.0000 
++ Fold2: degree=3, scale=1e-03, tau=1.0000 
+model fit failed for Fold2: degree=3, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-03, tau=1.0000 
++ Fold2: degree=1, scale=1e-02, tau=1.0000 
+model fit failed for Fold2: degree=1, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-02, tau=1.0000 
++ Fold2: degree=2, scale=1e-02, tau=1.0000 
+model fit failed for Fold2: degree=2, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-02, tau=1.0000 
++ Fold2: degree=3, scale=1e-02, tau=1.0000 
+model fit failed for Fold2: degree=3, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-02, tau=1.0000 
++ Fold2: degree=1, scale=1e-01, tau=1.0000 
+model fit failed for Fold2: degree=1, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e-01, tau=1.0000 
++ Fold2: degree=2, scale=1e-01, tau=1.0000 
+model fit failed for Fold2: degree=2, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e-01, tau=1.0000 
++ Fold2: degree=3, scale=1e-01, tau=1.0000 
+model fit failed for Fold2: degree=3, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e-01, tau=1.0000 
++ Fold2: degree=1, scale=1e+00, tau=1.0000 
+model fit failed for Fold2: degree=1, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+00, tau=1.0000 
++ Fold2: degree=2, scale=1e+00, tau=1.0000 
+model fit failed for Fold2: degree=2, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+00, tau=1.0000 
++ Fold2: degree=3, scale=1e+00, tau=1.0000 
+- Fold2: degree=3, scale=1e+00, tau=1.0000 
++ Fold2: degree=1, scale=1e+01, tau=1.0000 
+model fit failed for Fold2: degree=1, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=1, scale=1e+01, tau=1.0000 
++ Fold2: degree=2, scale=1e+01, tau=1.0000 
+model fit failed for Fold2: degree=2, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=2, scale=1e+01, tau=1.0000 
++ Fold2: degree=3, scale=1e+01, tau=1.0000 
+model fit failed for Fold2: degree=3, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold2: degree=3, scale=1e+01, tau=1.0000 
++ Fold3: degree=1, scale=1e-03, tau=0.0625 
+- Fold3: degree=1, scale=1e-03, tau=0.0625 
++ Fold3: degree=2, scale=1e-03, tau=0.0625 
+model fit failed for Fold3: degree=2, scale=1e-03, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-03, tau=0.0625 
++ Fold3: degree=3, scale=1e-03, tau=0.0625 
+model fit failed for Fold3: degree=3, scale=1e-03, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-03, tau=0.0625 
++ Fold3: degree=1, scale=1e-02, tau=0.0625 
+model fit failed for Fold3: degree=1, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-02, tau=0.0625 
++ Fold3: degree=2, scale=1e-02, tau=0.0625 
+model fit failed for Fold3: degree=2, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-02, tau=0.0625 
++ Fold3: degree=3, scale=1e-02, tau=0.0625 
+model fit failed for Fold3: degree=3, scale=1e-02, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-02, tau=0.0625 
++ Fold3: degree=1, scale=1e-01, tau=0.0625 
+model fit failed for Fold3: degree=1, scale=1e-01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-01, tau=0.0625 
++ Fold3: degree=2, scale=1e-01, tau=0.0625 
+- Fold3: degree=2, scale=1e-01, tau=0.0625 
++ Fold3: degree=3, scale=1e-01, tau=0.0625 
+model fit failed for Fold3: degree=3, scale=1e-01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-01, tau=0.0625 
++ Fold3: degree=1, scale=1e+00, tau=0.0625 
+model fit failed for Fold3: degree=1, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+00, tau=0.0625 
++ Fold3: degree=2, scale=1e+00, tau=0.0625 
+model fit failed for Fold3: degree=2, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+00, tau=0.0625 
++ Fold3: degree=3, scale=1e+00, tau=0.0625 
+model fit failed for Fold3: degree=3, scale=1e+00, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+00, tau=0.0625 
++ Fold3: degree=1, scale=1e+01, tau=0.0625 
+model fit failed for Fold3: degree=1, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+01, tau=0.0625 
++ Fold3: degree=2, scale=1e+01, tau=0.0625 
+model fit failed for Fold3: degree=2, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+01, tau=0.0625 
++ Fold3: degree=3, scale=1e+01, tau=0.0625 
+model fit failed for Fold3: degree=3, scale=1e+01, tau=0.0625 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+01, tau=0.0625 
++ Fold3: degree=1, scale=1e-03, tau=0.1250 
+model fit failed for Fold3: degree=1, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-03, tau=0.1250 
++ Fold3: degree=2, scale=1e-03, tau=0.1250 
+model fit failed for Fold3: degree=2, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-03, tau=0.1250 
++ Fold3: degree=3, scale=1e-03, tau=0.1250 
+model fit failed for Fold3: degree=3, scale=1e-03, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-03, tau=0.1250 
++ Fold3: degree=1, scale=1e-02, tau=0.1250 
+model fit failed for Fold3: degree=1, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-02, tau=0.1250 
++ Fold3: degree=2, scale=1e-02, tau=0.1250 
+model fit failed for Fold3: degree=2, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-02, tau=0.1250 
++ Fold3: degree=3, scale=1e-02, tau=0.1250 
+model fit failed for Fold3: degree=3, scale=1e-02, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-02, tau=0.1250 
++ Fold3: degree=1, scale=1e-01, tau=0.1250 
+model fit failed for Fold3: degree=1, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-01, tau=0.1250 
++ Fold3: degree=2, scale=1e-01, tau=0.1250 
+- Fold3: degree=2, scale=1e-01, tau=0.1250 
++ Fold3: degree=3, scale=1e-01, tau=0.1250 
+model fit failed for Fold3: degree=3, scale=1e-01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-01, tau=0.1250 
++ Fold3: degree=1, scale=1e+00, tau=0.1250 
+model fit failed for Fold3: degree=1, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+00, tau=0.1250 
++ Fold3: degree=2, scale=1e+00, tau=0.1250 
+model fit failed for Fold3: degree=2, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+00, tau=0.1250 
++ Fold3: degree=3, scale=1e+00, tau=0.1250 
+model fit failed for Fold3: degree=3, scale=1e+00, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+00, tau=0.1250 
++ Fold3: degree=1, scale=1e+01, tau=0.1250 
+model fit failed for Fold3: degree=1, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+01, tau=0.1250 
++ Fold3: degree=2, scale=1e+01, tau=0.1250 
+model fit failed for Fold3: degree=2, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+01, tau=0.1250 
++ Fold3: degree=3, scale=1e+01, tau=0.1250 
+model fit failed for Fold3: degree=3, scale=1e+01, tau=0.1250 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+01, tau=0.1250 
++ Fold3: degree=1, scale=1e-03, tau=0.2500 
+model fit failed for Fold3: degree=1, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-03, tau=0.2500 
++ Fold3: degree=2, scale=1e-03, tau=0.2500 
+model fit failed for Fold3: degree=2, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-03, tau=0.2500 
++ Fold3: degree=3, scale=1e-03, tau=0.2500 
+model fit failed for Fold3: degree=3, scale=1e-03, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-03, tau=0.2500 
++ Fold3: degree=1, scale=1e-02, tau=0.2500 
+model fit failed for Fold3: degree=1, scale=1e-02, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-02, tau=0.2500 
++ Fold3: degree=2, scale=1e-02, tau=0.2500 
+- Fold3: degree=2, scale=1e-02, tau=0.2500 
++ Fold3: degree=3, scale=1e-02, tau=0.2500 
+- Fold3: degree=3, scale=1e-02, tau=0.2500 
++ Fold3: degree=1, scale=1e-01, tau=0.2500 
+model fit failed for Fold3: degree=1, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-01, tau=0.2500 
++ Fold3: degree=2, scale=1e-01, tau=0.2500 
+model fit failed for Fold3: degree=2, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-01, tau=0.2500 
++ Fold3: degree=3, scale=1e-01, tau=0.2500 
+model fit failed for Fold3: degree=3, scale=1e-01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-01, tau=0.2500 
++ Fold3: degree=1, scale=1e+00, tau=0.2500 
+model fit failed for Fold3: degree=1, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+00, tau=0.2500 
++ Fold3: degree=2, scale=1e+00, tau=0.2500 
+model fit failed for Fold3: degree=2, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+00, tau=0.2500 
++ Fold3: degree=3, scale=1e+00, tau=0.2500 
+model fit failed for Fold3: degree=3, scale=1e+00, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+00, tau=0.2500 
++ Fold3: degree=1, scale=1e+01, tau=0.2500 
+model fit failed for Fold3: degree=1, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+01, tau=0.2500 
++ Fold3: degree=2, scale=1e+01, tau=0.2500 
+model fit failed for Fold3: degree=2, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+01, tau=0.2500 
++ Fold3: degree=3, scale=1e+01, tau=0.2500 
+model fit failed for Fold3: degree=3, scale=1e+01, tau=0.2500 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+01, tau=0.2500 
++ Fold3: degree=1, scale=1e-03, tau=0.5000 
+model fit failed for Fold3: degree=1, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-03, tau=0.5000 
++ Fold3: degree=2, scale=1e-03, tau=0.5000 
+model fit failed for Fold3: degree=2, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-03, tau=0.5000 
++ Fold3: degree=3, scale=1e-03, tau=0.5000 
+model fit failed for Fold3: degree=3, scale=1e-03, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-03, tau=0.5000 
++ Fold3: degree=1, scale=1e-02, tau=0.5000 
+model fit failed for Fold3: degree=1, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-02, tau=0.5000 
++ Fold3: degree=2, scale=1e-02, tau=0.5000 
+model fit failed for Fold3: degree=2, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-02, tau=0.5000 
++ Fold3: degree=3, scale=1e-02, tau=0.5000 
+model fit failed for Fold3: degree=3, scale=1e-02, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-02, tau=0.5000 
++ Fold3: degree=1, scale=1e-01, tau=0.5000 
+model fit failed for Fold3: degree=1, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-01, tau=0.5000 
++ Fold3: degree=2, scale=1e-01, tau=0.5000 
+model fit failed for Fold3: degree=2, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-01, tau=0.5000 
++ Fold3: degree=3, scale=1e-01, tau=0.5000 
+model fit failed for Fold3: degree=3, scale=1e-01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-01, tau=0.5000 
++ Fold3: degree=1, scale=1e+00, tau=0.5000 
+model fit failed for Fold3: degree=1, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+00, tau=0.5000 
++ Fold3: degree=2, scale=1e+00, tau=0.5000 
+model fit failed for Fold3: degree=2, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+00, tau=0.5000 
++ Fold3: degree=3, scale=1e+00, tau=0.5000 
+model fit failed for Fold3: degree=3, scale=1e+00, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+00, tau=0.5000 
++ Fold3: degree=1, scale=1e+01, tau=0.5000 
+model fit failed for Fold3: degree=1, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+01, tau=0.5000 
++ Fold3: degree=2, scale=1e+01, tau=0.5000 
+model fit failed for Fold3: degree=2, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+01, tau=0.5000 
++ Fold3: degree=3, scale=1e+01, tau=0.5000 
+model fit failed for Fold3: degree=3, scale=1e+01, tau=0.5000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+01, tau=0.5000 
++ Fold3: degree=1, scale=1e-03, tau=1.0000 
+model fit failed for Fold3: degree=1, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-03, tau=1.0000 
++ Fold3: degree=2, scale=1e-03, tau=1.0000 
+model fit failed for Fold3: degree=2, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-03, tau=1.0000 
++ Fold3: degree=3, scale=1e-03, tau=1.0000 
+model fit failed for Fold3: degree=3, scale=1e-03, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-03, tau=1.0000 
++ Fold3: degree=1, scale=1e-02, tau=1.0000 
+model fit failed for Fold3: degree=1, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-02, tau=1.0000 
++ Fold3: degree=2, scale=1e-02, tau=1.0000 
+model fit failed for Fold3: degree=2, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-02, tau=1.0000 
++ Fold3: degree=3, scale=1e-02, tau=1.0000 
+model fit failed for Fold3: degree=3, scale=1e-02, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e-02, tau=1.0000 
++ Fold3: degree=1, scale=1e-01, tau=1.0000 
+model fit failed for Fold3: degree=1, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e-01, tau=1.0000 
++ Fold3: degree=2, scale=1e-01, tau=1.0000 
+model fit failed for Fold3: degree=2, scale=1e-01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e-01, tau=1.0000 
++ Fold3: degree=3, scale=1e-01, tau=1.0000 
+- Fold3: degree=3, scale=1e-01, tau=1.0000 
++ Fold3: degree=1, scale=1e+00, tau=1.0000 
+model fit failed for Fold3: degree=1, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+00, tau=1.0000 
++ Fold3: degree=2, scale=1e+00, tau=1.0000 
+model fit failed for Fold3: degree=2, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+00, tau=1.0000 
++ Fold3: degree=3, scale=1e+00, tau=1.0000 
+model fit failed for Fold3: degree=3, scale=1e+00, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+00, tau=1.0000 
++ Fold3: degree=1, scale=1e+01, tau=1.0000 
+model fit failed for Fold3: degree=1, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=1, scale=1e+01, tau=1.0000 
++ Fold3: degree=2, scale=1e+01, tau=1.0000 
+model fit failed for Fold3: degree=2, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=2, scale=1e+01, tau=1.0000 
++ Fold3: degree=3, scale=1e+01, tau=1.0000 
+model fit failed for Fold3: degree=3, scale=1e+01, tau=1.0000 Error in if (truegain[k] < tol) break : 
+  missing value where TRUE/FALSE needed
+ 
+- Fold3: degree=3, scale=1e+01, tau=1.0000 
+Aggregating results
+Something is wrong; all the ROC metric values are missing:
+      ROC           Sens             Spec       
+ Min.   : NA   Min.   :0.6616   Min.   :0.0000  
+ 1st Qu.: NA   1st Qu.:0.7107   1st Qu.:0.3197  
+ Median : NA   Median :0.7362   Median :0.7197  
+ Mean   :NaN   Mean   :0.7950   Mean   :0.5218  
+ 3rd Qu.: NA   3rd Qu.:0.9124   3rd Qu.:0.7393  
+ Max.   : NA   Max.   :1.0000   Max.   :0.7935  
+ NA's   :75    NA's   :60       NA's   :60      

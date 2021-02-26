@@ -1,0 +1,67 @@
+[1] "finished reading full dataset"
+[1] 44799999        3
+[1] 26887     8
+
+        chr1        chr10        chr11        chr12        chr13        chr14 
+0.0006795115 0.0004605617 0.0006000231 0.0005861900 0.0002156415 0.0004749045 
+       chr15        chr16        chr17        chr18        chr19         chr2 
+0.0007673749 0.0015177331 0.0014698164 0.0003138682 0.0024144977 0.0004391857 
+       chr20        chr21        chr22         chr3         chr4         chr5 
+0.0006243363 0.0014098041 0.0017257356 0.0002981535 0.0002307960 0.0003694758 
+        chr6         chr7         chr8         chr9 
+0.0003752782 0.0005352744 0.0003352011 0.0007907835 
+
+      chr1      chr10      chr11      chr12      chr13      chr14      chr15 
+0.10256382 0.11764638 0.10606037 0.11290297 0.11764639 0.11428421 0.09999877 
+     chr16      chr17      chr18      chr19       chr2      chr20      chr21 
+0.09999932 0.10869539 0.09999845 0.09999955 0.10714232 0.12121012 0.11904511 
+     chr22       chr3       chr4       chr5       chr6       chr7       chr8 
+0.11538108 0.10416660 0.10810795 0.11538456 0.11320719 0.09999928 0.11904754 
+      chr9 
+0.10389587 
+[1] "final distribution"
+             Var1  Freq
+1   chr1_Negative 17660
+2   chr1_Positive    12
+3  chr10_Negative 13028
+4  chr10_Positive     6
+5  chr11_Negative 11667
+6  chr11_Positive     7
+7  chr12_Negative 11942
+8  chr12_Positive     7
+9  chr13_Negative  9275
+10 chr13_Positive     2
+11 chr14_Negative  8423
+12 chr14_Positive     4
+13 chr15_Negative  6516
+14 chr15_Positive     5
+15 chr16_Negative  7248
+16 chr16_Positive    11
+17 chr17_Negative  6804
+18 chr17_Positive    10
+19 chr18_Negative  6373
+20 chr18_Positive     2
+21 chr19_Negative  4970
+22 chr19_Positive    12
+23  chr2_Negative 20493
+24  chr2_Positive     9
+25 chr20_Negative  6407
+26 chr20_Positive     4
+27 chr21_Negative  3547
+28 chr21_Positive     5
+29 chr22_Negative  3477
+30 chr22_Positive     6
+31  chr3_Negative 16770
+32  chr3_Positive     5
+33  chr4_Negative 17332
+34  chr4_Positive     4
+35  chr5_Negative 16240
+36  chr5_Positive     6
+37  chr6_Negative 15989
+38  chr6_Positive     6
+39  chr7_Negative 13078
+40  chr7_Positive     7
+41  chr8_Negative 14917
+42  chr8_Positive     5
+43  chr9_Negative 10117
+44  chr9_Positive     8

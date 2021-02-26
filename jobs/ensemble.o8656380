@@ -1,0 +1,67 @@
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+[1] 13655979     1548
+[1] 1
+[1] "here"
+[1] 2
+[1] "here"
+[1] 3
+[1] "here"
+[1] 4
+[1] "here"
+[1] 5
+[1] "here"
+[1] 6
+[1] "here"
+[1] 7
+[1] "here"
+[1] 8
+[1] "here"
+[1] 9
+[1] "here"
+[1] 10
+[1] "here"
+[1] 11
+[1] "here"
+[1] 12
+[1] "here"
+[1] 13
+[1] "here"
+[1] 14
+[1] "here"
+[1] 15
+[1] "here"
+[1] 16
+[1] "here"
+[1] 17
+[1] "here"
+[1] 18
+[1] "here"
+[1] 19
+[1] "here"
+[1] 20
+[1] "here"
+[1] 21
+[1] "here"
+[1] 22
+[1] "here"
+
+ chr1_Negative  chr1_Positive chr10_Negative chr10_Positive chr11_Negative 
+         14766          14766           6343           6343           8145 
+chr11_Positive chr12_Negative chr12_Positive chr13_Negative chr13_Positive 
+          8145           7021           7020           2508           2508 
+chr14_Negative chr14_Positive chr15_Negative chr15_Positive chr16_Negative 
+          4330           4330           6222           6222          10009 
+chr16_Positive chr17_Negative chr17_Positive chr18_Negative chr18_Positive 
+         10009          10752          10752           1951           1951 
+chr19_Negative chr19_Positive  chr2_Negative  chr2_Positive chr20_Negative 
+         11682          11682           9652           9652           3486 
+chr20_Positive chr21_Negative chr21_Positive chr22_Negative chr22_Positive 
+          3486           2784           2784           5509           5509 
+ chr3_Negative  chr3_Positive  chr4_Negative  chr4_Positive  chr5_Negative 
+          6830           6830           5155           5155           7058 
+ chr5_Positive  chr6_Negative  chr6_Positive  chr7_Negative  chr7_Positive 
+          7058           8098           8098           9259           9259 
+ chr8_Negative  chr8_Positive  chr9_Negative  chr9_Positive 
+          5069           5069           7411           7411 
+[1] 308079   1549

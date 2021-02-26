@@ -1,0 +1,321 @@
+[1] "This is using nodeHarvest and tunelength"
+[1] "2020-10-23 13:17:17 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.95 GB
+[1] "2020-10-23 13:17:31 BST"
+[1] "just about to train"
+[1] "2020-10-23 13:17:31 BST"
++ Fold1: maxinter=1, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1021
+ total number of nodes after removal of identical nodes : 349 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 174
+ number of selected nodes                               : 36 
+- Fold1: maxinter=1, mode=mean 
++ Fold1: maxinter=2, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1081
+ total number of nodes after removal of identical nodes : 877 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 442
+ number of selected nodes                               : 68 
+- Fold1: maxinter=2, mode=mean 
++ Fold1: maxinter=3, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1261
+ total number of nodes after removal of identical nodes : 1184 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 593
+ number of selected nodes                               : 191 
+- Fold1: maxinter=3, mode=mean 
++ Fold1: maxinter=4, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1792
+ total number of nodes after removal of identical nodes : 1766 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 878
+ number of selected nodes                               : 296 
+- Fold1: maxinter=4, mode=mean 
++ Fold1: maxinter=5, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1808
+ total number of nodes after removal of identical nodes : 1799 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 884
+ number of selected nodes                               : 559 
+- Fold1: maxinter=5, mode=mean 
++ Fold1: maxinter=1, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1021
+ total number of nodes after removal of identical nodes : 355 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 177
+ number of selected nodes                               : 30 
+- Fold1: maxinter=1, mode=outbag 
++ Fold1: maxinter=2, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1081
+ total number of nodes after removal of identical nodes : 885 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 447
+ number of selected nodes                               : 62 
+- Fold1: maxinter=2, mode=outbag 
++ Fold1: maxinter=3, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1261
+ total number of nodes after removal of identical nodes : 1185 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 593
+ number of selected nodes                               : 133 
+- Fold1: maxinter=3, mode=outbag 
++ Fold1: maxinter=4, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1793
+ total number of nodes after removal of identical nodes : 1760 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 875
+ number of selected nodes                               : 301 
+- Fold1: maxinter=4, mode=outbag 
++ Fold1: maxinter=5, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1799
+ total number of nodes after removal of identical nodes : 1791 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 873
+ number of selected nodes                               : 622 
+- Fold1: maxinter=5, mode=outbag 
++ Fold2: maxinter=1, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1021
+ total number of nodes after removal of identical nodes : 375 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 187
+ number of selected nodes                               : 34 
+- Fold2: maxinter=1, mode=mean 
++ Fold2: maxinter=2, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1081
+ total number of nodes after removal of identical nodes : 920 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 462
+ number of selected nodes                               : 76 
+- Fold2: maxinter=2, mode=mean 
++ Fold2: maxinter=3, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1261
+ total number of nodes after removal of identical nodes : 1202 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 600
+ number of selected nodes                               : 152 
+- Fold2: maxinter=3, mode=mean 
++ Fold2: maxinter=4, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1789
+ total number of nodes after removal of identical nodes : 1761 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 874
+ number of selected nodes                               : 391 
+- Fold2: maxinter=4, mode=mean 
++ Fold2: maxinter=5, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1806
+ total number of nodes after removal of identical nodes : 1798 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 884
+ number of selected nodes                               : 523 
+- Fold2: maxinter=5, mode=mean 
++ Fold2: maxinter=1, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1021
+ total number of nodes after removal of identical nodes : 353 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 176
+ number of selected nodes                               : 40 
+- Fold2: maxinter=1, mode=outbag 
++ Fold2: maxinter=2, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1081
+ total number of nodes after removal of identical nodes : 936 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 468
+ number of selected nodes                               : 76 
+- Fold2: maxinter=2, mode=outbag 
++ Fold2: maxinter=3, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1261
+ total number of nodes after removal of identical nodes : 1199 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 599
+ number of selected nodes                               : 152 
+- Fold2: maxinter=3, mode=outbag 
++ Fold2: maxinter=4, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1792
+ total number of nodes after removal of identical nodes : 1769 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 880
+ number of selected nodes                               : 370 
+- Fold2: maxinter=4, mode=outbag 
++ Fold2: maxinter=5, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1823
+ total number of nodes after removal of identical nodes : 1817 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 894
+ number of selected nodes                               : 603 
+- Fold2: maxinter=5, mode=outbag 
++ Fold3: maxinter=1, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1021
+ total number of nodes after removal of identical nodes : 331 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 165
+ number of selected nodes                               : 36 
+- Fold3: maxinter=1, mode=mean 
++ Fold3: maxinter=2, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1081
+ total number of nodes after removal of identical nodes : 865 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 435
+ number of selected nodes                               : 82 
+- Fold3: maxinter=2, mode=mean 
++ Fold3: maxinter=3, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1261
+ total number of nodes after removal of identical nodes : 1191 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 595
+ number of selected nodes                               : 144 
+- Fold3: maxinter=3, mode=mean 
++ Fold3: maxinter=4, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1788
+ total number of nodes after removal of identical nodes : 1756 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 872
+ number of selected nodes                               : 384 
+- Fold3: maxinter=4, mode=mean 
++ Fold3: maxinter=5, mode=mean 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1818
+ total number of nodes after removal of identical nodes : 1802 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 886
+ number of selected nodes                               : 571 
+- Fold3: maxinter=5, mode=mean 
++ Fold3: maxinter=1, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1021
+ total number of nodes after removal of identical nodes : 341 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 170
+ number of selected nodes                               : 30 
+- Fold3: maxinter=1, mode=outbag 
++ Fold3: maxinter=2, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1081
+ total number of nodes after removal of identical nodes : 878 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 439
+ number of selected nodes                               : 98 
+- Fold3: maxinter=2, mode=outbag 
++ Fold3: maxinter=3, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1261
+ total number of nodes after removal of identical nodes : 1198 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 599
+ number of selected nodes                               : 157 
+- Fold3: maxinter=3, mode=outbag 
++ Fold3: maxinter=4, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1788
+ total number of nodes after removal of identical nodes : 1741 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 863
+ number of selected nodes                               : 314 
+- Fold3: maxinter=4, mode=outbag 
++ Fold3: maxinter=5, mode=outbag 
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1803
+ total number of nodes after removal of identical nodes : 1785 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 876
+ number of selected nodes                               : 639 
+- Fold3: maxinter=5, mode=outbag 
+Aggregating results
+Selecting tuning parameters
+Fitting maxinter = 5, mode = outbag on full training set
+
+ ... generating 1000 nodes ...
+ total number of nodes in initial set                   : 1823
+ total number of nodes after removal of identical nodes : 1807 
+ ... computing node means ... 
+ ... computing node weights ...
+ dimension of null space of I                           : 890
+ number of selected nodes                               : 602 
+[1] "just about to save"
+[1] "2020-10-26 00:17:05 GMT"

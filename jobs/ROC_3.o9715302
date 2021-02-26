@@ -1,0 +1,22 @@
+
+Negative Positive 
+  203099   203099 
+    Negative  Positive      obs     pred
+1 0.36149210 0.6385079 Negative Positive
+2 0.22281182 0.7771882 Negative Positive
+3 0.21254281 0.7874572 Negative Positive
+4 0.10671693 0.8932831 Negative Positive
+5 0.07986475 0.9201352 Negative Positive
+6 0.13212942 0.8678706 Negative Positive
+[1] "Negative" "Positive"
+[1] NA
+[1] 0.8469007
+[1] 0.7318155
+[1] 0.8013235
+[1] 0.7864823
+[1] 0.7318155
+[1] 0.7581648
+           AUC_PR_Eval AUC_ROC_Eval AUC_PR   AUC_ROC      SENS      SPEC
+caviar_0.1        0.84         0.85     NA 0.8469007 0.7318155 0.8013235
+                PREC    RECALL        F1
+caviar_0.1 0.7864823 0.7318155 0.7581648

@@ -1,0 +1,447 @@
+
+H2O is not running yet, starting it now...
+
+Note:  In case of errors look at the following log files:
+    /local/7488160.1.eddie/RtmpzWH3hX/file2061d337a112f/h2o_s1772751_started_from_r.out
+    /local/7488160.1.eddie/RtmpzWH3hX/file2061d21fbf679/h2o_s1772751_started_from_r.err
+
+
+Starting H2O JVM and connecting: .......................... Connection successful!
+
+R is connected to the H2O cluster: 
+    H2O cluster uptime:         21 seconds 148 milliseconds 
+    H2O cluster timezone:       Europe/London 
+    H2O data parsing timezone:  UTC 
+    H2O cluster version:        3.30.1.3 
+    H2O cluster version age:    20 days  
+    H2O cluster name:           H2O_started_from_R_s1772751_yeo341 
+    H2O cluster total nodes:    1 
+    H2O cluster total memory:   26.67 GB 
+    H2O cluster total cores:    16 
+    H2O cluster allowed cores:  2 
+    H2O cluster healthy:        TRUE 
+    H2O Connection ip:          localhost 
+    H2O Connection port:        54321 
+    H2O Connection proxy:       NA 
+    H2O Internal Security:      FALSE 
+    H2O API Extensions:         Amazon S3, XGBoost, Algos, AutoML, Core V3, TargetEncoder, Core V4 
+    R Version:                  R version 3.6.1 (2019-07-05) 
+
+[1] "This is using glmnet_h2o and tunelength"
+[1] "2020-10-19 05:34:39 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+1.96 GB
+[1] "2020-10-19 05:35:39 BST"
+[1] "just about to train"
+[1] "2020-10-19 05:35:39 BST"
++ Fold1: alpha=0.00, lambda=0e+00 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.00, lambda=0e+00 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.00, lambda=0e+00 
++ Fold1: alpha=0.25, lambda=0e+00 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.25, lambda=0e+00 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.25, lambda=0e+00 
++ Fold1: alpha=0.50, lambda=0e+00 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.50, lambda=0e+00 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.50, lambda=0e+00 
++ Fold1: alpha=0.75, lambda=0e+00 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.75, lambda=0e+00 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.75, lambda=0e+00 
++ Fold1: alpha=1.00, lambda=0e+00 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=1.00, lambda=0e+00 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=1.00, lambda=0e+00 
++ Fold1: alpha=0.00, lambda=1e-01 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.00, lambda=1e-01 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.00, lambda=1e-01 
++ Fold1: alpha=0.25, lambda=1e-01 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.25, lambda=1e-01 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.25, lambda=1e-01 
++ Fold1: alpha=0.50, lambda=1e-01 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.50, lambda=1e-01 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.50, lambda=1e-01 
++ Fold1: alpha=0.75, lambda=1e-01 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.75, lambda=1e-01 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.75, lambda=1e-01 
++ Fold1: alpha=1.00, lambda=1e-01 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=1.00, lambda=1e-01 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=1.00, lambda=1e-01 
++ Fold1: alpha=0.00, lambda=1e-02 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.00, lambda=1e-02 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.00, lambda=1e-02 
++ Fold1: alpha=0.25, lambda=1e-02 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.25, lambda=1e-02 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.25, lambda=1e-02 
++ Fold1: alpha=0.50, lambda=1e-02 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.50, lambda=1e-02 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.50, lambda=1e-02 
++ Fold1: alpha=0.75, lambda=1e-02 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.75, lambda=1e-02 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.75, lambda=1e-02 
++ Fold1: alpha=1.00, lambda=1e-02 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=1.00, lambda=1e-02 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=1.00, lambda=1e-02 
++ Fold1: alpha=0.00, lambda=1e-03 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.00, lambda=1e-03 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.00, lambda=1e-03 
++ Fold1: alpha=0.25, lambda=1e-03 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.25, lambda=1e-03 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.25, lambda=1e-03 
++ Fold1: alpha=0.50, lambda=1e-03 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.50, lambda=1e-03 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.50, lambda=1e-03 
++ Fold1: alpha=0.75, lambda=1e-03 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.75, lambda=1e-03 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.75, lambda=1e-03 
++ Fold1: alpha=1.00, lambda=1e-03 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=1.00, lambda=1e-03 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=1.00, lambda=1e-03 
++ Fold1: alpha=0.00, lambda=1e-04 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.00, lambda=1e-04 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.00, lambda=1e-04 
++ Fold1: alpha=0.25, lambda=1e-04 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.25, lambda=1e-04 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.25, lambda=1e-04 
++ Fold1: alpha=0.50, lambda=1e-04 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.50, lambda=1e-04 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.50, lambda=1e-04 
++ Fold1: alpha=0.75, lambda=1e-04 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=0.75, lambda=1e-04 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=0.75, lambda=1e-04 
++ Fold1: alpha=1.00, lambda=1e-04 
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+model fit failed for Fold1: alpha=1.00, lambda=1e-04 Error in h2o::h2o.glm(x = colnames(x), y = ".outcome", training_frame = tmp_train_dat,  : 
+  unused argument (verbose = FALSE)
+ 
+- Fold1: alpha=1.00, lambda=1e-04 
++ Fold2: alpha=0.00, lambda=0e+00 
+model fit failed for Fold2: alpha=0.00, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = page,  : 
+  Unexpected CURL error: Empty reply from server
+ 
+- Fold2: alpha=0.00, lambda=0e+00 
++ Fold2: alpha=0.25, lambda=0e+00 
+model fit failed for Fold2: alpha=0.25, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.25, lambda=0e+00 
++ Fold2: alpha=0.50, lambda=0e+00 
+model fit failed for Fold2: alpha=0.50, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.50, lambda=0e+00 
++ Fold2: alpha=0.75, lambda=0e+00 
+model fit failed for Fold2: alpha=0.75, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.75, lambda=0e+00 
++ Fold2: alpha=1.00, lambda=0e+00 
+model fit failed for Fold2: alpha=1.00, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=1.00, lambda=0e+00 
++ Fold2: alpha=0.00, lambda=1e-01 
+model fit failed for Fold2: alpha=0.00, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.00, lambda=1e-01 
++ Fold2: alpha=0.25, lambda=1e-01 
+model fit failed for Fold2: alpha=0.25, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.25, lambda=1e-01 
++ Fold2: alpha=0.50, lambda=1e-01 
+model fit failed for Fold2: alpha=0.50, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.50, lambda=1e-01 
++ Fold2: alpha=0.75, lambda=1e-01 
+model fit failed for Fold2: alpha=0.75, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.75, lambda=1e-01 
++ Fold2: alpha=1.00, lambda=1e-01 
+model fit failed for Fold2: alpha=1.00, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=1.00, lambda=1e-01 
++ Fold2: alpha=0.00, lambda=1e-02 
+model fit failed for Fold2: alpha=0.00, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.00, lambda=1e-02 
++ Fold2: alpha=0.25, lambda=1e-02 
+model fit failed for Fold2: alpha=0.25, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.25, lambda=1e-02 
++ Fold2: alpha=0.50, lambda=1e-02 
+model fit failed for Fold2: alpha=0.50, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.50, lambda=1e-02 
++ Fold2: alpha=0.75, lambda=1e-02 
+model fit failed for Fold2: alpha=0.75, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.75, lambda=1e-02 
++ Fold2: alpha=1.00, lambda=1e-02 
+model fit failed for Fold2: alpha=1.00, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=1.00, lambda=1e-02 
++ Fold2: alpha=0.00, lambda=1e-03 
+model fit failed for Fold2: alpha=0.00, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.00, lambda=1e-03 
++ Fold2: alpha=0.25, lambda=1e-03 
+model fit failed for Fold2: alpha=0.25, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.25, lambda=1e-03 
++ Fold2: alpha=0.50, lambda=1e-03 
+model fit failed for Fold2: alpha=0.50, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.50, lambda=1e-03 
++ Fold2: alpha=0.75, lambda=1e-03 
+model fit failed for Fold2: alpha=0.75, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.75, lambda=1e-03 
++ Fold2: alpha=1.00, lambda=1e-03 
+model fit failed for Fold2: alpha=1.00, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=1.00, lambda=1e-03 
++ Fold2: alpha=0.00, lambda=1e-04 
+model fit failed for Fold2: alpha=0.00, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.00, lambda=1e-04 
++ Fold2: alpha=0.25, lambda=1e-04 
+model fit failed for Fold2: alpha=0.25, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.25, lambda=1e-04 
++ Fold2: alpha=0.50, lambda=1e-04 
+model fit failed for Fold2: alpha=0.50, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.50, lambda=1e-04 
++ Fold2: alpha=0.75, lambda=1e-04 
+model fit failed for Fold2: alpha=0.75, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=0.75, lambda=1e-04 
++ Fold2: alpha=1.00, lambda=1e-04 
+model fit failed for Fold2: alpha=1.00, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold2: alpha=1.00, lambda=1e-04 
++ Fold3: alpha=0.00, lambda=0e+00 
+model fit failed for Fold3: alpha=0.00, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.00, lambda=0e+00 
++ Fold3: alpha=0.25, lambda=0e+00 
+model fit failed for Fold3: alpha=0.25, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.25, lambda=0e+00 
++ Fold3: alpha=0.50, lambda=0e+00 
+model fit failed for Fold3: alpha=0.50, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.50, lambda=0e+00 
++ Fold3: alpha=0.75, lambda=0e+00 
+model fit failed for Fold3: alpha=0.75, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.75, lambda=0e+00 
++ Fold3: alpha=1.00, lambda=0e+00 
+model fit failed for Fold3: alpha=1.00, lambda=0e+00 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=1.00, lambda=0e+00 
++ Fold3: alpha=0.00, lambda=1e-01 
+model fit failed for Fold3: alpha=0.00, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.00, lambda=1e-01 
++ Fold3: alpha=0.25, lambda=1e-01 
+model fit failed for Fold3: alpha=0.25, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.25, lambda=1e-01 
++ Fold3: alpha=0.50, lambda=1e-01 
+model fit failed for Fold3: alpha=0.50, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.50, lambda=1e-01 
++ Fold3: alpha=0.75, lambda=1e-01 
+model fit failed for Fold3: alpha=0.75, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.75, lambda=1e-01 
++ Fold3: alpha=1.00, lambda=1e-01 
+model fit failed for Fold3: alpha=1.00, lambda=1e-01 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=1.00, lambda=1e-01 
++ Fold3: alpha=0.00, lambda=1e-02 
+model fit failed for Fold3: alpha=0.00, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.00, lambda=1e-02 
++ Fold3: alpha=0.25, lambda=1e-02 
+model fit failed for Fold3: alpha=0.25, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.25, lambda=1e-02 
++ Fold3: alpha=0.50, lambda=1e-02 
+model fit failed for Fold3: alpha=0.50, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.50, lambda=1e-02 
++ Fold3: alpha=0.75, lambda=1e-02 
+model fit failed for Fold3: alpha=0.75, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.75, lambda=1e-02 
++ Fold3: alpha=1.00, lambda=1e-02 
+model fit failed for Fold3: alpha=1.00, lambda=1e-02 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=1.00, lambda=1e-02 
++ Fold3: alpha=0.00, lambda=1e-03 
+model fit failed for Fold3: alpha=0.00, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.00, lambda=1e-03 
++ Fold3: alpha=0.25, lambda=1e-03 
+model fit failed for Fold3: alpha=0.25, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.25, lambda=1e-03 
++ Fold3: alpha=0.50, lambda=1e-03 
+model fit failed for Fold3: alpha=0.50, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.50, lambda=1e-03 
++ Fold3: alpha=0.75, lambda=1e-03 
+model fit failed for Fold3: alpha=0.75, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.75, lambda=1e-03 
++ Fold3: alpha=1.00, lambda=1e-03 
+model fit failed for Fold3: alpha=1.00, lambda=1e-03 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=1.00, lambda=1e-03 
++ Fold3: alpha=0.00, lambda=1e-04 
+model fit failed for Fold3: alpha=0.00, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.00, lambda=1e-04 
++ Fold3: alpha=0.25, lambda=1e-04 
+model fit failed for Fold3: alpha=0.25, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.25, lambda=1e-04 
++ Fold3: alpha=0.50, lambda=1e-04 
+model fit failed for Fold3: alpha=0.50, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.50, lambda=1e-04 
++ Fold3: alpha=0.75, lambda=1e-04 
+model fit failed for Fold3: alpha=0.75, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=0.75, lambda=1e-04 
++ Fold3: alpha=1.00, lambda=1e-04 
+model fit failed for Fold3: alpha=1.00, lambda=1e-04 Error in .h2o.doSafeREST(h2oRestApiVersion = h2oRestApiVersion, urlSuffix = urlSuffix,  : 
+  Unexpected CURL error: Failed connect to localhost:54321; Connection refused
+ 
+- Fold3: alpha=1.00, lambda=1e-04 
+Aggregating results
+Something is wrong; all the ROC metric values are missing:
+      ROC           Sens          Spec    
+ Min.   : NA   Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA   Max.   : NA  
+ NA's   :25    NA's   :25    NA's   :25   

@@ -1,0 +1,9 @@
+[1] "This is using bagFDA and tunelength"
+[1] "2020-10-21 16:28:23 BST"
+[1] "reading full dataset"
+[1] "finished reading full dataset"
+31.6 GB
+[1] "2020-10-21 16:35:41 BST"
+[1] "just about to train"
+[1] "2020-10-21 16:35:41 BST"
++ Fold1: nprune= 2, degree=1 
